@@ -1,0 +1,11 @@
+[2024-08-16 17:52:48] - ANDREA1720 bought 4096 x Spruce Slab(Blocks.page5.items.237) for $1,336.32 with the buy stacks screen.
+[2024-08-16 18:02:30] - ANDREA1720 bought 64 x Crafter(Redstone.page1.items.2) for $3,216.64 with the buy stacks screen.
+[2024-08-18 17:03:35] - kalakko bought 1 x Cherry Trapdoor(Redstone.page1.items.32) for $4.98 with the buy screen.
+[2024-08-18 18:10:30] - ANDREA1720 bought 1 x Music Disc 5(Music.page1.items.3) for $1,890 with the buy screen.
+[2024-08-18 18:19:53] - ANDREA1720 bought 1 x Mojang Banner Pattern(Miscellaneous.page2.items.49) for $21,000.24 with the buy screen.
+[2024-08-18 18:21:28] - ANDREA1720 bought 1 x Lapis Lazuli(Ores.page1.items.18) for $14.44 with the buy screen.
+[2024-08-18 18:21:48] - ANDREA1720 bought 640 x Lapis Lazuli(Ores.page1.items.18) for $9,241.60 with the buy stacks screen.
+[2024-08-18 18:22:29] - ANDREA1720 bought 1 x Lapis Lazuli(Ores.page1.items.18) for $14.44 with the buy screen.
+[2024-08-18 18:22:59] - ANDREA1720 bought 640 x Lapis Lazuli(Ores.page1.items.18) for $9,241.60 with the buy stacks screen.
+[2024-08-18 18:23:11] - ANDREA1720 sold 64 x Lapis Block(Ores.page1.items.17) for $1,091.84 with the sell screen.
+[2024-08-26 16:21:25] - ANDREA1720 bought 1 x Zombie Spawner(Spawners.page1.items.38) for $240,000 with the buy screen.

@@ -1,0 +1,111 @@
+messages:
+  prefix: "&bSimpleTrade &7>> "
+  noPermission: "&cYou don't have the permission to do that!"
+  trade:
+    sent: "&aYou've sent a trade request to &6${player}"
+    received: "&6${player} &ahas sent you a trade request!"
+    expiredTo: "&cYour trade request to &6${player} &cexpired!"
+    expiredFrom: "&cThe trade request from &6${player} &cexpired!"
+    itemsGained: "&aYou got the following items: ${items}"
+    ecoGained: "&6You got: ${amount} Coins"
+    denied: "&cYou denied the trade request from ${player}"
+    tradeText:
+      text: "&6Do you want to accept?"
+      accept:
+        text: "&a&l[ACCEPT]"
+        hover: "Click to accept"
+      deny:
+        text: "&c&l[DENY]"
+        hover: "Click to deny"
+    errorMessages:
+      requestExists: "&cYou already have an outgoing trade request to this player!"
+      invalidPlayer: "&6${player} &cisn't online or doesn't exist!"
+      tradeSelf: "&cYou can't trade with yourself!"
+      wrongTradeUUID: "&cThat trade doesn't exist!"
+      fullInventory: "&cYour or the other player's inventory doesn't contain enough space to store the traded items!"
+      wrongUsageTrade: "&cUsage: /trade <player>"
+      wrongUsageDeny: "&cUsage: /trade deny <tradeUUID>"
+      wrongUsageAccept: "&cUsage: /trade accept <tradeUUID>"
+cooldowns:
+  trade: 1000
+  accept: 1000
+  secondsUntilTradeExpires: 10
+tradeInventory:
+  blacklistedItems:
+    - "Anvil"
+    - "Dirt"
+  items:
+    unplaceableItem:
+      material: GRAY_STAINED_GLASS_PANE
+      displayName: " "
+    cancelTradeItem:
+      material: BARRIER
+      displayName: "&cCancel Trade"
+    econTradeItem:
+      econTrade:
+        material: GOLD_NUGGET
+        economyName: "Coins"
+        displayName: "&6Trading ${economyName}"
+        lore: "&6${economyName}: ${amount}"
+        loreLineLength: 25
+        abbreviations:
+          K: 1000
+          M: 1000000
+          B: 1000000000
+          T: 1000000000000
+      material: GOLD_NUGGET
+      enabled: true
+      displayName: "&6Trade Economy"
+      position:
+        row: 6
+        column: 1
+    tradeStatusItem:
+      position:
+        row: 6
+        column: 4
+      confirmTradeItem:
+        material: GREEN_STAINED_GLASS_PANE
+        displayName: "&aConfirm trade"
+      waitingItem:
+        material: YELLOW_STAINED_GLASS_PANE
+        displayName: "&cWaiting for other players confirmation!"
+      readyItem:
+        material: GREEN_STAINED_GLASS_PANE
+        displayName: "&aConfirmed"
+  placeableSlots:
+    1:
+      row: 2
+      column: 2
+    2:
+      row: 2
+      column: 3
+    3:
+      row: 2
+      column: 4
+    4:
+      row: 3
+      column: 2
+    5:
+      row: 3
+      column: 3
+    6:
+      row: 3
+      column: 4
+    7:
+      row: 4
+      column: 2
+    8:
+      row: 4
+      column: 3
+    9:
+      row: 4
+      column: 4
+    10:
+      row: 5
+      column: 2
+    11:
+      row: 5
+      column: 3
+    12:
+      row: 5
+      column: 4

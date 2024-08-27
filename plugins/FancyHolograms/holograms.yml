@@ -1,0 +1,82 @@
+version: 2 # DO NOT CHANGE
+holograms:
+  Spawn:
+    type: TEXT
+    location:
+      world: Spawn
+      x: 0.42353278398513794
+      y: 3.8515172004699707
+      z: 3.647563934326172
+      yaw: -179.21112
+      pitch: 45.144215
+    visibility_distance: 20
+    visibility: ALL
+    persistent: true
+    scale_x: 1.25
+    scale_y: 1.25
+    scale_z: 1.25
+    shadow_radius: 0.0
+    shadow_strength: 1.0
+    text:
+    - <bold>Ciao <red>%player_name%</red></bold>
+    - <bold>Benvenuto su <gold>TerronSMP</gold></bold>
+    - '&r'
+    - digita <bold>/guida</bold> per una guida completa
+    text_shadow: true
+    see_through: false
+    text_alignment: center
+    update_text_interval: -1
+    background: transparent
+  classifica:
+    type: TEXT
+    location:
+      world: Spawn
+      x: -14.37356185913086
+      y: 11.0
+      z: 76.49005126953125
+      yaw: -91.50586
+      pitch: 6.5091968
+    visibility_distance: 50
+    visibility: ALL
+    persistent: true
+    scale_x: 1.5
+    scale_y: 1.5
+    scale_z: 1.5
+    shadow_radius: 0.0
+    shadow_strength: 1.0
+    text:
+    - <bold><gold>Classifica!</gold></bold>
+    - diventa il più <bold>ricco</bold>
+    - per raggiungere la vetta
+    text_shadow: true
+    see_through: false
+    text_alignment: center
+    update_text_interval: -1
+    background: transparent
+  RTP:
+    type: TEXT
+    location:
+      world: Spawn
+      x: 1.435009479522705
+      y: 7.0
+      z: 74.54141998291016
+      yaw: 177.75305
+      pitch: 6.3456173
+    visibility_distance: 40
+    visibility: ALL
+    persistent: true
+    scale_x: 1.5
+    scale_y: 1.5
+    scale_z: 1.5
+    shadow_radius: 0.0
+    shadow_strength: 10.0
+    text:
+    - <bold><gold>RTP!</gold></bold>
+    - Salta nel portale per
+    - teletrasportarti casualmente nel mondo
+    - o fallo digitando <bold>/rtp</bold>
+    text_shadow: true
+    see_through: false
+    text_alignment: center
+    update_text_interval: -1
+    background: transparent

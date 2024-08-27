@@ -1,0 +1,61 @@
+messages:
+  help:
+  - '&8&l━━━━━━━━━━━━━━━━━━━━━━━[━━&6&lCBOUNTY&8&l━━]━━━━━━━━━━━━━━━━━━━━━━━'
+  - ''
+  - '&6/cbounty reload &f- &7Ricarica il plugin.'
+  - '&6/cbounty streaktop &7(&6valore&7) &f- &7Visualizza la classifica delle streak.'
+  - '&6/cbounty menu &f- &7Apri la GUI per le taglie.'
+  - '&6/cbounty set &7(&6bersaglio&7) denaro (&6ricompensa&7) &f- &7Imposta una taglia.'
+  - '&6/cbounty remove &7(&6bersaglio&7) &f- &7Rimuovi forzatamente una taglia.'
+  - '&6/cbounty raise &7(&6valore&7) &f- &7Aumenta la ricompensa per una taglia.'
+  - '&6/cbounty takeoff &7(&6bersaglio&7) &f- &7Rimuovi una taglia.'
+  - '&6/cbounty bountyfinder &7(&6bersaglio&7) &f- &7Gives a bounty finder item to
+    the target.'
+  - ''
+  - '&8&l━━━━━━━━━━━━━━━━━━━━━━━[━━&6&lCBOUNTY&8&l━━]━━━━━━━━━━━━━━━━━━━━━━━'
+  reload: '&6&lBOUNTY &8| &aPlugin ricaricato con successo!'
+  first-page: '&6&lBOUNTY &8| &cSei già sulla prima pagina!'
+  last-page: '&6&lBOUNTY &8| &cSei già sull''ultima pagina!'
+  invalid-rewardtype: '&6&lBOUNTY &8| &cTipo di ricompensa non valido!'
+  invalid-number: '&6&lBOUNTY &8| &cPer favore inserisci un numero!'
+  player-not-found: '&6&lBOUNTY &8| &cIl bersaglio non è online!'
+  cant-be-yourself: '&6&lBOUNTY &8| &cNon puoi impostare te stesso come bersaglio!'
+  already-bounty: '&6&lBOUNTY &8| &cIl bersaglio ha già una taglia!'
+  no-negative: '&6&lBOUNTY &8| &cIl numero deve essere positivo!'
+  successful-set: '&6&lBOUNTY &8| &aHai impostato con successo una taglia!'
+  bounty-set-broadcast: '&6&lBOUNTY &8| &6È stata impostata una taglia! &aBersaglio:
+    {target}, &aRicompensa: {reward}, &aTipo di Ricompensa: {rewardType}'
+  bounty-raise-broadcast: '&6&lBOUNTY &8| &6È stata aumentata una taglia! &aBersaglio:
+    {target}, &aVecchia Ricompensa: {oldReward}, &aNuova Ricompensa: {newReward}'
+  bounty-dead-everyone: '&6&lBOUNTY &8| &a{name} non è più una taglia!'
+  bounty-dead-target: '&6&lBOUNTY &8| &aEri una taglia ma qualcuno ti ha ucciso!'
+  bounty-dead-killer: '&6&lBOUNTY &8| &aHai ucciso con successo una taglia!'
+  not-enough-token: '&6&lBOUNTY &8| &cNon hai abbastanza token!'
+  not-enough-money: '&6&lBOUNTY &8| &cNon hai abbastanza soldi!'
+  not-enough-playerpoints: '&6&lBOUNTY &8| &cNon hai abbastanza punti giocatore!'
+  not-enough-level: '&6&lBOUNTY &8| &cNon hai abbastanza livelli XP!'
+  not-enough-coinsengine: '&6&lBOUNTY &8| &cNon hai abbastanza coinsengine!'
+  maximum-top: '&6&lBOUNTY &8| &cNon può essere maggiore di {top}'
+  top:
+    header: '&6Top {value} Streaks:&f'
+    message: '&f{place}. &6{name} &f- &7(&6{streak}&7)'
+  max-bounty: '&6&lBOUNTY &8| &cNon puoi impostare più taglie!'
+  feature-disabled: '&6&lBOUNTY &8| &cQuesta funzione è disabilitata al momento!'
+  feature-disabled-event: '&6&lBOUNTY &8| &cQuesta funzione è disabilitata al momento
+    ma ti ho dato la ricompensa in denaro!'
+  not-a-bounty: '&6&lBOUNTY &8| &cIl bersaglio non è una taglia!'
+  successful-remove-player: '&6&lBOUNTY &8| &aHai rimosso con successo la taglia dal
+    bersaglio!'
+  successful-remove-target: '&6&lBOUNTY &8| &aNon sei più una taglia!'
+  not-matching-owners: '&6&lBOUNTY &8| &cNon hai messo una taglia su questo giocatore!'
+  target-raise: '&6&lBOUNTY &8| &eLa taglia su di te è stata aumentata da {old} a
+    {new}!'
+  player-raise: '&6&lBOUNTY &8| &aHai aumentato con successo la tua taglia!'
+  successful-takeoff-player: '&6&lBOUNTY &8| &aHai rimosso con successo la taglia
+    da {target}!'
+  successful-takeoff-target: '&6&lBOUNTY &8| &a{player} ha rimosso la taglia da te!'
+  full-inventory: L'inventario del bersaglio è pieno!
+  item-already-in-inventory: '&cL''oggetto è già nell''inventario del giocatore bersaglio.'
+  bounty-finder-given: '&aHai dato con successo un cercatore di taglie a &a{target}&7.'
+  bounty-finder-received: '&aHai ricevuto un cercatore di taglie!'
+  invalid-rewardlimit: '&6&lBOUNTY &8| il minimo è {min} e il massimo è {max}'

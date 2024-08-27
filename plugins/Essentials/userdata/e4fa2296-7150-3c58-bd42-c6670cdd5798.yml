@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 100.87.35.101
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1724424820072
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1724427157710
+  login: 1724422807338
+  kits:
+    tools: 1723802141644
+money: '0'
+last-account-name: Cicciobomba_9
+lastlocation:
+  world: 4ea0fbb7-6a7c-40ed-a765-628fcb1c7cbd
+  world-name: Spawn
+  x: 0.3184015475680034
+  y: 1.0
+  z: 6.495215652076158
+  yaw: 148.95703125
+  pitch: 9.810785293579102
+logoutlocation:
+  world: 4ea0fbb7-6a7c-40ed-a765-628fcb1c7cbd
+  world-name: Spawn
+  x: 2.6944710514280326
+  y: 1.0
+  z: 49.86018625939304
+  yaw: 7.345790386199951
+  pitch: 29.366901397705078

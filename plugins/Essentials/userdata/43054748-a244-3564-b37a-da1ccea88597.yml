@@ -1,0 +1,44 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 100.105.152.96
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1724694018405
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1724694457731
+  login: 1724693961886
+  kits:
+    tools: 1723718002516
+    notch: 1723715858058
+    firework: 1723715858581
+    dtools: 1723716013678
+    color: 1723761540607
+money: '0'
+last-account-name: ANDREA1720
+logoutlocation:
+  world: 5880eb83-fa4e-455f-b1b0-65733bc564fe
+  world-name: world
+  x: -3307.06761628136
+  y: 113.19063780335522
+  z: 4790.89097837388
+  yaw: 134.92437744140625
+  pitch: 29.141529083251953
+lastlocation:
+  world: 5880eb83-fa4e-455f-b1b0-65733bc564fe
+  world-name: world
+  x: 685.3917890372188
+  y: 64.72142518047472
+  z: 571.2049478573654
+  yaw: 31.590179443359375
+  pitch: 35.32174301147461

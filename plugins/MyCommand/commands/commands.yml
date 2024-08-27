@@ -1,0 +1,12 @@
+permtoggle:
+  command: /permtoggle
+  type: RUN_COMMAND
+  runcmd:
+  - '$Script$%if%HasPermission==*'
+  - '$text$ Permesso disabilitato!'
+  - '/lp group owner permission unset *'
+  - '$Script$%else%'
+  - '$text$ Permesso abilitato!'
+  - '/lp group owner permission set * true'
+  permission-required: true
+  permission-node: mycommand.use.permtoggle

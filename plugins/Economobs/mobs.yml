@@ -1,0 +1,329 @@
+mobs:
+  ELDER_GUARDIAN:
+    tables:
+      '1':
+        table: elder_guardian_money_table
+  WITHER_SKELETON:
+    tables:
+      '1':
+        table: hard_hostile_money_table
+  STRAY:
+    tables:
+      '1':
+        table: medium_hostile_money_table
+  HUSK:
+    tables:
+      '1':
+        table: medium_hostile_money_table
+  ZOMBIE_VILLAGER:
+    tables:
+      '1':
+        table: easy_hostile_money_table
+  SKELETON_HORSE:
+    tables:
+      '1':
+        table: rare_pacific_money_table
+  ZOMBIE_HORSE:
+    tables:
+      '1':
+        table: rare_pacific_money_table
+  DONKEY:
+    tables:
+      '1':
+        table: pacific_money_table
+  MULE:
+    tables:
+      '1':
+        table: pacific_money_table
+  EVOKER:
+    tables:
+      '1':
+        table: hard_hostile_money_table
+  VEX:
+    tables:
+      '1':
+        table: medium_hostile_money_table
+  VINDICATOR:
+    tables:
+      '1':
+        table: medium_hostile_money_table
+  ILLUSIONER:
+    tables:
+      '1':
+        table: hard_hostile_money_table
+  CREEPER:
+    tables:
+      '1':
+        table: medium_hostile_money_table
+  SKELETON:
+    tables:
+      '1':
+        table: easy_hostile_money_table
+  SPIDER:
+    tables:
+      '1':
+        table: easy_hostile_money_table
+  GIANT:
+    tables:
+      '1':
+        table: hard_hostile_money_table
+  ZOMBIE:
+    tables:
+      '1':
+        table: easy_hostile_money_table
+  SLIME:
+    tables:
+      '1':
+        table: easy_hostile_money_table
+  GHAST:
+    tables:
+      '1':
+        table: medium_hostile_money_table
+  ZOMBIFIED_PIGLIN:
+    tables:
+      '1':
+        table: easy_hostile_money_table
+  ENDERMAN:
+    tables:
+      '1':
+        table: medium_hostile_money_table
+  CAVE_SPIDER:
+    tables:
+      '1':
+        table: medium_hostile_money_table
+  SILVERFISH:
+    tables:
+      '1':
+        table: easy_hostile_money_table
+  BLAZE:
+    tables:
+      '1':
+        table: medium_hostile_money_table
+  MAGMA_CUBE:
+    tables:
+      '1':
+        table: medium_hostile_money_table
+  ENDER_DRAGON:
+    tables:
+      '1':
+        table: ender_dragon_money_table
+  WITHER:
+    tables:
+      '1':
+        table: wither_money_table
+  BAT:
+    tables:
+      '1':
+        table: pacific_money_table
+  WITCH:
+    tables:
+      '1':
+        table: medium_hostile_money_table
+  ENDERMITE:
+    tables:
+      '1':
+        table: medium_hostile_money_table
+  GUARDIAN:
+    tables:
+      '1':
+        table: hard_hostile_money_table
+  SHULKER:
+    tables:
+      '1':
+        table: medium_hostile_money_table
+  PIG:
+    tables:
+      '1':
+        table: pacific_money_table
+  SHEEP:
+    tables:
+      '1':
+        table: pacific_money_table
+  COW:
+    tables:
+      '1':
+        table: pacific_money_table
+  CHICKEN:
+    tables:
+      '1':
+        table: pacific_money_table
+  SQUID:
+    tables:
+      '1':
+        table: pacific_money_table
+  WOLF:
+    tables:
+      '1':
+        table: pacific_money_table
+  MOOSHROOM:
+    tables:
+      '1':
+        table: rare_pacific_money_table
+  SNOW_GOLEM:
+    tables:
+      '1':
+        table: pacific_money_table
+  OCELOT:
+    tables:
+      '1':
+        table: pacific_money_table
+  IRON_GOLEM:
+    tables:
+      '1':
+        table: iron_golem_money_table
+  HORSE:
+    tables:
+      '1':
+        table: pacific_money_table
+  RABBIT:
+    tables:
+      '1':
+        table: pacific_money_table
+  POLAR_BEAR:
+    tables:
+      '1':
+        table: rare_pacific_money_table
+  LLAMA:
+    tables:
+      '1':
+        table: pacific_money_table
+  PARROT:
+    tables:
+      '1':
+        table: pacific_money_table
+  VILLAGER:
+    tables:
+      '1':
+        table: iron_golem_money_table
+  TURTLE:
+    tables:
+      '1':
+        table: pacific_money_table
+  PHANTOM:
+    tables:
+      '1':
+        table: hard_hostile_money_table
+  COD:
+    tables:
+      '1':
+        table: pacific_money_table
+  SALMON:
+    tables:
+      '1':
+        table: pacific_money_table
+  PUFFERFISH:
+    tables:
+      '1':
+        table: pacific_money_table
+  TROPICAL_FISH:
+    tables:
+      '1':
+        table: pacific_money_table
+  DROWNED:
+    tables:
+      '1':
+        table: medium_hostile_money_table
+  DOLPHIN:
+    tables:
+      '1':
+        table: pacific_money_table
+  CAT:
+    tables:
+      '1':
+        table: pacific_money_table
+  PANDA:
+    tables:
+      '1':
+        table: pacific_money_table
+  PILLAGER:
+    tables:
+      '1':
+        table: medium_hostile_money_table
+  RAVAGER:
+    tables:
+      '1':
+        table: hard_hostile_money_table
+  TRADER_LLAMA:
+    tables:
+      '1':
+        table: rare_pacific_money_table
+  WANDERING_TRADER:
+    tables:
+      '1':
+        table: ultra_rare_pacific_money_table
+  FOX:
+    tables:
+      '1':
+        table: pacific_money_table
+  BEE:
+    tables:
+      '1':
+        table: rare_pacific_money_table
+  HOGLIN:
+    tables:
+      '1':
+        table: medium_hostile_money_table
+  PIGLIN:
+    tables:
+      '1':
+        table: easy_hostile_money_table
+  STRIDER:
+    tables:
+      '1':
+        table: rare_pacific_money_table
+  ZOGLIN:
+    tables:
+      '1':
+        table: hard_hostile_money_table
+  PIGLIN_BRUTE:
+    tables:
+      '1':
+        table: hard_hostile_money_table
+  AXOLOTL:
+    tables:
+      '1':
+        table: pacific_money_table
+  GLOW_SQUID:
+    tables:
+      '1':
+        table: rare_pacific_money_table
+  GOAT:
+    tables:
+      '1':
+        table: pacific_money_table
+  ALLAY:
+    tables:
+      '1':
+        table: rare_pacific_money_table
+  FROG:
+    tables:
+      '1':
+        table: pacific_money_table
+  TADPOLE:
+    tables:
+      '1':
+        table: pacific_money_table
+  WARDEN:
+    tables:
+      '1':
+        table: warden_money_table
+  CAMEL:
+    tables:
+      '1':
+        table: rare_pacific_money_table
+  SNIFFER:
+    tables:
+      '1':
+        table: rare_pacific_money_table
+  BREEZE:
+    tables:
+      '1':
+        table: hard_hostile_money_table
+  ARMADILLO:
+    tables:
+      '1':
+        table: pacific_money_table
+  BOGGED:
+    tables:
+      '1':
+        table: medium_hostile_money_table

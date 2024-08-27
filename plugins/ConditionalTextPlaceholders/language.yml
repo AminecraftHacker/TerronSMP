@@ -1,0 +1,27 @@
+Commands:
+  List:
+    Empty: '&7No settings yet.'
+    Format: '&8 - &f%name% &7( &f%rules% rule(s) &7)'
+    Header: '&8&m        &f Loaded Settings &8&m        '
+  Help:
+    Sub-Command-Line: '&1%usage% &8- &7%description%'
+    conditionaltext:
+      Usage: /%label%
+      reload:
+        Usage: /%label% reload
+        Description: Reload the plugin.
+      list:
+        Description: List loaded settings.
+        Usage: /%label% list
+      Description: Displays this.
+      try:
+        Usage: /%label% try <setting> <player/me/none> (value)
+        Description: Try to parse a setting on a player, or with a custom value.
+    Line-Format: §1%usage% &8- &7%description%
+    Footer: ''
+    Header: '&8&m        &r &1%pluginName% &7v&f%version% &8&m        '
+  Invalid-Setting: '&cSetting &f%param% &cis invalid.'
+  Invalid-Target: '&cPlayer &f%param% &cis invalid.'
+  Reload: '&7Done... reload took &f%time%&7ms.'
+  Try:
+    Output: '&7Parsed, result: ''&r%result%&7'''

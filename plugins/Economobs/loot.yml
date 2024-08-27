@@ -1,0 +1,110 @@
+tables:
+  pacific_money_table:
+    weight: 100
+    drops:
+      1:
+        weight: 100
+        type: ECONOMY
+        from: VAULT
+        min: 1
+        max: 5
+
+  rare_pacific_money_table:
+    weight: 100
+    drops:
+      1:
+        weight: 100
+        type: ECONOMY
+        from: VAULT
+        min: 5
+        max: 10
+
+  ultra_rare_pacific_money_table:
+    weight: 100
+    drops:
+      1:
+        weight: 100
+        type: ECONOMY
+        from: VAULT
+        min: 30
+        max: 50
+
+  iron_golem_money_table:
+    weight: 100
+    drops:
+      1:
+        weight: 100
+        type: ECONOMY
+        from: VAULT
+        min: 1
+        max: 20
+
+  easy_hostile_money_table:
+    weight: 100
+    drops:
+      1:
+        weight: 100
+        type: ECONOMY
+        from: VAULT
+        min: 10
+        max: 15
+
+  medium_hostile_money_table:
+    weight: 100
+    drops:
+      1:
+        weight: 100
+        type: ECONOMY
+        from: VAULT
+        min: 15
+        max: 20
+
+  hard_hostile_money_table:
+    weight: 100
+    drops:
+      1:
+        weight: 100
+        type: ECONOMY
+        from: VAULT
+        min: 20
+        max: 25
+
+  elder_guardian_money_table:
+    weight: 100
+    drops:
+      1:
+        weight: 100
+        type: ECONOMY
+        from: VAULT
+        min: 50
+        max: 250
+
+  warden_money_table:
+    weight: 100
+    drops:
+      1:
+        weight: 100
+        type: ECONOMY
+        from: VAULT
+        min: 250
+        max: 750
+
+  ender_dragon_money_table:
+    weight: 100
+    drops:
+      1:
+        weight: 100
+        type: ECONOMY
+        from: VAULT
+        min: 750
+        max: 2000
+
+  wither_money_table:
+    weight: 100
+    drops:
+      1:
+        weight: 100
+        type: ECONOMY
+        from: VAULT
+        min: 2000
+        max: 3000

@@ -1,0 +1,8 @@
+GraceTickCount: 10
+SmokeDamageRequirement: 200
+SmokeBlindnessRequirement: 140
+SmokeNauseaRequirement: 100
+CoughingRequirement: 100
+SmokeCooldown: 20
+ResourcePackURL: "https://ryhn.link/_matrix/media/r0/download/ryhn.link/ca5df56e2a58414272123a8ca0241115080ed11f/CiggyPack.zip"
+ResourcePackHash: "153e0690ceed3272341fd1bb1ea1074251650142"

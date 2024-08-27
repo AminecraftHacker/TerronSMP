@@ -1,0 +1,19 @@
+enabled-by-default: true
+
+#Available values: LEFT, RIGHT
+default-position: LEFT
+
+#Builtin renderers: vanilla, flat
+default-minimap-renderer: "vanilla"
+
+markers:
+  death-marker:
+    enabled: true
+    stick-to-border: true
+  custom-markers:
+    limit: 5
+    stick-to-border: true
+fullscreen:
+  #1 segment = 128*128 pixels = 8*8 chunks
+  segments-x: 5
+  segments-z: 3

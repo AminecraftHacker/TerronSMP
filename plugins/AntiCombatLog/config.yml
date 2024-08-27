@@ -1,0 +1,41 @@
+combat-log-seconds: 15
+npc-combat-log: true # set to true to spawn a npc - false to insta kill
+combat-logged-message-radius: -1 # set to -1 to broadcast to everyone
+combat-tag-seconds: 15
+npc-hit-reset-seconds: 35 # set to -1 to disable
+npc-name: '&c&bDISCONNECTED: &r&c%1' # %1 is replaced with the player name
+seconds-left-hologram: '&e&l%1 seconds left' # %1 is replaced with the seconds left
+enable-hologram: true # enable the countdown timer hologram
+# Weather to use a scoreboard, actionbar, or both
+# Values: BOARD ACTIONBAR BOTH NONE
+notify-type: BOTH
+login-after-combat-log-add-timer-seconds: 5 # seconds to add to the combat timer if you log out and back in while in combat
+set-death-message: true # only change this if you have a death message plugin and it isn't working
+tag-on-enderpearl: true # this option will combat tag players if they throw a pearl
+elytra-disable: false # Disable elytra gliding & boost on combat tag
+kill-after-timer-expires: false # Kill players after the combat tag timer expires, if they don't rejoin
+blocked-commands:
+  enabled: true
+  regex: true
+  blocked:
+    - 'blockedcommandhere' # use .* to block all commands (regex must be enabled)
+messages:
+  combat-tagged: '&cSei stato contrassegnato per combattimento. Se esci ora, non sarai al sicuro. Il tuo contrassegno di combattimento scade in &e%1'
+  un-combat-tagged: '&aSei stato rimosso dal contrassegno di combattimento! Puoi uscire in sicurezza ora.'
+  logged-out-combat: '&6%1 &aha disconnesso mentre era in combattimento! Puoi ancora ucciderlo per &e%2&a secondi.'
+  action-bar-message: '&cSei in combattimento da &e%1&c secondi.'
+  log-in-after-kill: '&cSei stato ucciso mentre eri disconnesso in combattimento.'
+  combat-expired: '&aIl tuo contrassegno di combattimento è scaduto.'
+  kill-message: '&c%1 è stato ucciso mentre era in combattimento.'
+  blocked-command: '&cNon puoi usare quel comando mentre sei in combattimento.'
+  teleport-blocked: '&cNon puoi teletrasportarti mentre sei in combattimento.'
+exempt-worlds:
+  - 'Spawn'
+disable:
+  fly: false
+  teleport: false # See messages.teleport-blocked to change the message
+hooks:
+  duels:
+    enabled: false
+    dont-combat-tag: true
+update-check: true

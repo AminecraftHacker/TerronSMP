@@ -1,0 +1,111 @@
+# Configuration of Economobs. For help, visit https://wiki.flrp.dev
+config-version: 6
+
+# Allow the plugin to check for updates?
+check-for-updates: true
+
+# Let the given rewards drop on the ground? Only works for item rewards.
+drop-on-ground: false
+
+# Allow players to be killed for money?
+# This system currently doesn't contain any countermeasures for repeat kills.
+reward-pvp: false
+
+# What stacker should the plugin look for?
+# Current list: NONE (Default), WILD_STACKER, STACK_MOB, ULTIMATE_STACKER, ROSE_STACKER
+stacker: NONE
+
+# Reward handling.
+rewards:
+  limit:
+    # Should rewards be limited? This is to aid with stackers.
+    enabled: true
+    # The max amount of rewards that are rolled.
+    amount: 10
+
+# Message handling.
+message:
+  # Should the plugin send messages about money gained?
+  enabled: true
+
+  # How should the plugin display messages when a player is given money?
+  # NOTE: Some options will only work with select versions. You can see which below.
+  # OPTIONS: CHAT, ACTION_BAR (1.12+), HOLOGRAM (1.12+), TITLE (1.12+)
+  message-type: ACTION_BAR
+
+  # HOLOGRAMS
+  # This will only work if you have holograms set as your type.
+  holograms:
+    # This option will affect animations.
+    # How long should the hologram stay? This is in seconds.
+    duration: 1
+
+  # This will only work if you have title set as your type.
+  title:
+    # How long should the title stay? This is in seconds.
+    stay: 3
+    # How long should the title fade in? This is in seconds.
+    fade-in: 1
+    # How long should the title fade out? This is in seconds.
+    fade-out: 1
+    # Naturally, the money message will be displayed in the subtitle.
+    # You can change the title to whatever you want here. Placeholders are supported.
+    title: "&a&lREWARD"
+
+# Hook management.
+hooks:
+  entity:
+    # Enable MythicMobs support? Adds the ability to earn rewards from custom mobs, and enables multipliers for custom entities.
+    MythicMobs: true
+    # Enable LevelledMobs support? Adds the ability to add money per level to the base amount (before applying multipliers).
+    LevelledMobs: true
+    # Enable InfernalMobs support? Adds the ability to add money per modifier to the base amount (before applying multipliers).
+    InfernalMobs: true
+    # Enable ItemsAdder support? Allows players to earn rewards from custom mobs, and enables multipliers for custom entities.
+    ItemsAdder: true
+    # Enable Sentinels support? Adds the ability for Sentinels to reward their owners.
+    Sentinel: true
+  item:
+    # Enable Oraxen support? Adds the ability to have multipliers for custom items.
+    Oraxen: true
+    # Enable ItemsAdder support? Adds the ability to have multipliers for custom items.
+    ItemsAdder: true
+    # Enable MMOItems support? Adds the ability to have multipliers for custom items.
+    MMOItems: true
+
+# Multiplier handling.
+# Down below are configurable multiplier groups.
+# If any conditions are true, they will be considered towards the output amount.
+# Make sure to balance this properly if you use multipliers. You can leave any category empty with [] if you wish not to use it.
+multipliers:
+  example:
+    # Higher the number, heavier the group, higher priority.
+    weight: 1
+    # Specific mob multipliers.
+    mobs:
+      - CHICKEN 1.1
+      - PIG 1.1
+      - COW 1.1
+    # The tool used to kill the mob.
+    weapons:
+      - DIAMOND_SWORD 1.2
+    # The world the mob died in.
+    worlds:
+      - real_world 1.1
+  # More examples...
+  coal:
+    weight: 2
+    mobs:
+      - COW 1.5
+    weapons:
+      - DIAMOND_SWORD 1.5
+  diamond:
+    weight: 3
+    mobs:
+      - COW 2
+    weapons:
+      - DIAMOND_SWORD 2.5
+
+# A list of worlds where money won't be given.
+world-blacklist:
+  - world2

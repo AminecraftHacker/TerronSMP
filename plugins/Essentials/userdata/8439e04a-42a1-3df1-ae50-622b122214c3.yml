@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 100.103.100.127
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1724680634439
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1724683337091
+  login: 1724683322058
+money: '0'
+last-account-name: kalakko
+lastlocation:
+  world: 4ea0fbb7-6a7c-40ed-a765-628fcb1c7cbd
+  world-name: Spawn
+  x: 2.296418115077525
+  y: 22.0
+  z: -3.300000011920929
+  yaw: 24.071073532104492
+  pitch: 61.04836654663086
+logoutlocation:
+  world: 5880eb83-fa4e-455f-b1b0-65733bc564fe
+  world-name: world
+  x: -7291.317833148025
+  y: 62.0
+  z: -3580.300000011921
+  yaw: 12.0345458984375
+  pitch: 42.64944076538086

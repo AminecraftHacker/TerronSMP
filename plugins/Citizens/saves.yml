@@ -1,0 +1,73 @@
+# Citizens NPC Storage
+
+last-created-npc-id: 2
+npc:
+  '2':
+    name: '%xconomy_top_player_1%'
+    uuid: 82836e72-010a-4a83-b1ad-fa8ec11e462d
+    traits:
+      hologramtrait: {}
+      owner:
+        uuid: 43054748-a244-3564-b37a-da1ccea88597
+      skintrait: {}
+      location:
+        bodyYaw: -88.90826
+        world: Spawn
+        x: -14.3826
+        y: 7.0
+        z: 76.4447
+        yaw: -88.9083
+        pitch: -2.1672
+      type: PLAYER
+      spawned: true
+    traitnames: location,inventory,type,hologramtrait,owner,scoreboardtrait,spawned,skintrait
+    navigator:
+      speedmodifier: 1.0
+      avoidwater: false
+      usedefaultstuckaction: false
+  '1':
+    name: '%xconomy_top_player_2%'
+    uuid: 18e8f97d-5da4-4456-809f-907ebbde37ac
+    traits:
+      hologramtrait: {}
+      owner:
+        uuid: 43054748-a244-3564-b37a-da1ccea88597
+      skintrait: {}
+      location:
+        bodyYaw: -90.54522
+        world: Spawn
+        x: -14.5489
+        y: 5.0
+        z: 80.5008
+        yaw: -90.5452
+        pitch: -3.1495
+      type: PLAYER
+      spawned: true
+    traitnames: location,inventory,type,hologramtrait,owner,scoreboardtrait,spawned,skintrait
+    navigator:
+      speedmodifier: 1.0
+      avoidwater: false
+      usedefaultstuckaction: false
+  '0':
+    name: '%xconomy_top_player_3%'
+    uuid: 9f904147-c340-4236-9f47-b7a4eae4d26a
+    traits:
+      hologramtrait: {}
+      owner:
+        uuid: 43054748-a244-3564-b37a-da1ccea88597
+      skintrait: {}
+      location:
+        bodyYaw: -89.562935
+        world: Spawn
+        x: -14.5796
+        y: 3.0
+        z: 72.4927
+        yaw: -89.5629
+        pitch: 2.0891
+      type: PLAYER
+      spawned: true
+    traitnames: location,inventory,type,hologramtrait,owner,scoreboardtrait,spawned,skintrait
+    navigator:
+      speedmodifier: 1.0
+      avoidwater: false
+      usedefaultstuckaction: false

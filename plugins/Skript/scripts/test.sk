@@ -1,0 +1,9 @@
+on death of player:
+	set {_value} to the value of the placeholder "math_0_{xconomy_balance_value}*0.10" for the victim
+	set {_satus} to the value of the placeholder "xconomy_paytoggle" for the attacker
+	if {_satus} is 0:
+		make attacker execute command "/paytoggle"
+		make victim execute command "/pay %attacker% %{_value}%"
+		make attacker execute command "/paytoggle"
+	else:
+		make victim execute command "/pay %attacker% %{_value}%"

@@ -1,0 +1,422 @@
+npcs:
+  4ce4dd54-c70d-4c2c-ae47-2dd5fb224ecc:
+    name: Redstone
+    creator: 43054748-a244-3564-b37a-da1ccea88597
+    displayName: Redstone
+    type: PLAYER
+    location:
+      world: Spawn
+      x: -28.99215251950302
+      y: 1.0
+      z: -29.488386833079296
+      yaw: 0.15246582
+      pitch: 11.584087
+    showInTab: false
+    spawnEntity: true
+    collidable: true
+    glowing: false
+    glowingColor: white
+    turnToPlayer: false
+    messages: []
+    playerCommands:
+    - shop Redstone
+    serverCommands: []
+    sendMessagesRandomly: false
+    interactionCooldown: 0.0
+    scale: 1.0
+    mirrorSkin: false
+    skin:
+      identifier: https://utfs.io/f/fe13a8d5-243c-40d8-919c-e322893637be-51un9.png
+      value: ewogICJ0aW1lc3RhbXAiIDogMTcyMDc5NjA1NzU5MywKICAicHJvZmlsZUlkIiA6ICI0NDAzZGM1NDc1YmM0YjE1YTU0OGNmZGE2YjBlYjdkOSIsCiAgInByb2ZpbGVOYW1lIiA6ICI4Qml0czFCeXRlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzg3MzczYTcxZDA5ZjBjODdkNTY4NTY5OWViMGU1YWMyM2JhODQ4NGY2NDQyNzY1N2M5MjI3YTA5YzdhOTI4YzkiCiAgICB9CiAgfQp9
+      signature: VQCk2ZakjxpvhzIGxcTBvCPI0cOdq6OdT4wdRVdHl6lzcEFCIk0CcX7gWRYMTMF7vdFLnaeYxv56OuJeQHrMxbsslbHnZTJG92ZHFcM++vY3rUm5XniCoK217IqqYIEkqnwTPuF6ih64lypTKzUoq7UtFLJPzByrJ2Nz4tDjj4jEWZpXm/FLZC3942V8zWQcWBzb2RBzA0C+LClT54TGFptILdVJ9YZros5vlIpPNI/ZwzBYuVCN6UiOxR95Ey4+mmbzRLNA6cC9LQknb538vWCyPXeen7Q2ozq9q3ZtrIU+pqVTfkv4ugkPWwqIwmQODwnUnIkUR0220O7YPnBOU1DLLipZ2CNYlpRnoFtIwJkK9ZtKHklVOAjerCojVfo+SCX+d1SJjM9Oo6YKiIW80nGNVylj0+3mFwqbDC/MbBxhShZiT0n1MMwAeR50+Avk+FKnjQEeDk0jIMWEtlGWoddj3R9FFif0mZ/NcdviyERtkiGy8wltroKt+zh3bz11xJcDJGiEF2VDZHhuRB6e31EytK+v3ZdSLqK9GLt06a6iqHUEMrN1RaKaV+Hilo25Nx32G4rBuIIJh8IOu1DfboLcL4vjwtIpf/Csh7yNsNmbmhRGBxnb3s948mr2lQwCq+xGtf5Xc3jkPA4e1l0OynRJKD2nHTMZBOuQlHJmBrg=
+  07b7bf7c-2fc0-466b-90c6-a4445255014e:
+    name: music
+    creator: 43054748-a244-3564-b37a-da1ccea88597
+    displayName: Michael Jackson
+    type: PLAYER
+    location:
+      world: Spawn
+      x: 25.573032603363732
+      y: 1.0
+      z: -23.970244333355236
+      yaw: -89.99634
+      pitch: 3.4909103
+    showInTab: false
+    spawnEntity: true
+    collidable: true
+    glowing: false
+    glowingColor: white
+    turnToPlayer: false
+    messages: []
+    playerCommands:
+    - shop Music
+    serverCommands: []
+    sendMessagesRandomly: false
+    interactionCooldown: 0.0
+    scale: 1.0
+    mirrorSkin: false
+    skin:
+      identifier: https://utfs.io/f/b46be10f-48dc-49ad-a559-f2ab68f72866-vwvta9.png
+      value: ewogICJ0aW1lc3RhbXAiIDogMTYyMTE5NTIzMzc4NywKICAicHJvZmlsZUlkIiA6ICIzYTNmNzhkZmExZjQ0OTllYjE5NjlmYzlkOTEwZGYwYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJOb19jcmVyYXIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWFkMzU4OGQwNmE0Nzg1M2IxYmIwYjNmMWIwNjkwMjEzMzkzZjBjNzI1ZDkxMGIxM2FmZjNjMTc4ZTNhMDcyYSIKICAgIH0KICB9Cn0=
+      signature: HmYm76znksCLC622ew3kt3sKvBks9dsC1fYC6QsvJTBeMdbCp5FfPmlKz7ATPkqOXD8dlUFrN5EPF9k3SbDe7YCIJvqCdmFCgD3Sn0Ywo9KFQNXqksOEbn/eTtl9RgOuv3uJUuXCyl7bBHUrjM8AVifgamucBPt2UgMLd0Sr/YN77re/4K/bSizTIxUR3NKP85974MyQcgZFdiV0fhU5rAk9vA1jpWJU2NZq75mP5awsLkgcUN/Vvly9ReRpLnqJiZxvmwqo7LYGEbRN2DzoWl/917Gf6kluwzHr+s3+DnCBqdYpqaPKAf0qE4Dkz+riYcqNNbb1nAkvaV9qgDQlpsQuliR4DQGd7dr8L/1r3WUrJPIEL5xbiKHe2p2nf2863weoAePTGjrPfdp8SMJB3bydbgL+tVxiJGubW7P7PxTbrtzZiMrQDJ0hA/Ir9HrsMse65Z//dXzlFKEUP/Af1A+p+wodCzrR7jsOpLrN2RUmx5u3Vj7dy5ECX4H3HAHaEKnurnGDn6t1rk8r6Vj4ftljUPHquGskJR3ACYKZUqTHwf1IGRqwBNUoKpJKFVg81J144bMzjp4zSKX+cdEuBpBgkfSqR3YOlmNmP3fC6KjzESIvUD6VgzBGz/4KCwciM+NnTF2xk+mq98F/M+LiggBSnECBi4GByf6iiJmgsbY=
+  83961a37-fa70-4816-9e38-785d7c0b8952:
+    name: Miscelaneus
+    creator: 43054748-a244-3564-b37a-da1ccea88597
+    displayName: Miscellaneous
+    type: PLAYER
+    location:
+      world: Spawn
+      x: 38.4876470733796
+      y: 1.0
+      z: -23.971194263252194
+      yaw: 89.32539
+      pitch: 1.9253869
+    showInTab: false
+    spawnEntity: true
+    collidable: true
+    glowing: false
+    glowingColor: white
+    turnToPlayer: false
+    messages: []
+    playerCommands:
+    - shop Miscellaneous
+    serverCommands: []
+    sendMessagesRandomly: false
+    interactionCooldown: 0.0
+    scale: 1.0
+    mirrorSkin: false
+    skin:
+      identifier: https://utfs.io/f/38f4708f-5239-4acb-9c5d-da3311610173-d5c2cb.png
+      value: ewogICJ0aW1lc3RhbXAiIDogMTYxNjk1MTIzNDQyOCwKICAicHJvZmlsZUlkIiA6ICJmMjc0YzRkNjI1MDQ0ZTQxOGVmYmYwNmM3NWIyMDIxMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJIeXBpZ3NlbCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81NGFmYjMwNzk0NDMzZjMyYzk3YjAyYzFkMjI4MzI3MzMzZjI1OWY1NmM2OGMwMjAyN2IyYTE2ZGZiNGFhNjZkIgogICAgfQogIH0KfQ==
+      signature: RI+oD/JcVXjqvtCEDj+GWicJ6CloGFvwKLsWe63yjsBLOIOms22Bzw2OtxOG3Dz5kIZzfkl90xAx61T4zwjV9PHHNhw6bgIXYzZtziV4YpLuSEW9gKMKtRWvJHKtUOI2XKrXgkHJ25nAzFGl8baLnXw6iW/3/u3bbfSHSBRC4xM7xH3wYH0omslYMk9E2qdxJHndWVUDt8Eg7ieaQPK+hfaBCEAPpOtO4VPL5MOVnGSmLcsuSRsmC7qUCkgoy5pxqaI/KxHfeExGzoYKDyrzhLITAe7Gt0KxjgwaJsSycE/sipdW+gsBG3z7rKv/XXxU+EbUd1fQxUZwAZlS5PkvRbAwtiJ/zTgn96vbu3/FEVfXTrq8oxUzPfi09W7Z57+BKLx4dRFFtZvOsRwXkMtJypTtVs5wTmTvgxvJDN8bYBhJLhTMYvPOBl7uhSrlaNcUU4LjRrD7p3YLEsDG3jnFcKMqKNBi52pOEVBLTDRqY7I0dg8yb0gYHWeFdgcoLsgiu2ONhyRUmUYQaotpuKiX+MzTiub+raIihHd6Mh/1h3vhRNLTgvnlQVaJm/WwQrYKZ+cvPAWXzNUzsgmfUlXbdUR6BuE9Bmi313ECP17lD2/kLCCzSQN2xfGoV2YQLKhgj1feTuHT/4It5xL0lmpIXr8yqKaoOGApSP9H3MoZZXw=
+  2173874d-e013-4325-aa7e-55d9487381cb:
+    name: Pozioni
+    creator: 43054748-a244-3564-b37a-da1ccea88597
+    displayName: Pozioni
+    type: PLAYER
+    location:
+      world: Spawn
+      x: 42.04964802365922
+      y: 1.0
+      z: 4.424384790392186
+      yaw: 176.15073
+      pitch: 0.77945876
+    showInTab: false
+    spawnEntity: true
+    collidable: true
+    glowing: false
+    glowingColor: white
+    turnToPlayer: false
+    messages: []
+    playerCommands:
+    - shop Potions
+    serverCommands: []
+    sendMessagesRandomly: false
+    interactionCooldown: 0.0
+    scale: 1.0
+    mirrorSkin: false
+    skin:
+      identifier: https://utfs.io/f/536ee725-ad8d-4f36-b2ad-d52505ead221-ltam44.png
+      value: ewogICJ0aW1lc3RhbXAiIDogMTYxNzkwNTQwNTE1MiwKICAicHJvZmlsZUlkIiA6ICI3MmNiMDYyMWU1MTA0MDdjOWRlMDA1OTRmNjAxNTIyZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJNb3M5OTAiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTVkMWY5NTQ0OGJiOTM2OTZhODU2NmQ0NmYwMDIzODk4ODRiYWY0YTkwY2I5MTljY2E0ZTE5ODhkMDgxY2I0YSIKICAgIH0KICB9Cn0=
+      signature: hKEeJQ5jQFGY0wSYIYOD/Qrcq8xuSZWjTb6b1D4Q+r6QrTltShLAREVyp4TBiMy6RJDn85dNz647wN6Sy1Z4NfkFFJ1g4wfX89AjPvr0mbMMwzLtZckoTk3z/XkbUhT0S/JeJkjLx/iQykBihjwophSkqz6QU7f3VwykeefW36K5MFrwKZvM27jUJp7bauwsQ7o5ImYaISaAgz0SygkOawnqrmC0TPAbrVTqr44w2ks/eCXg+saBpc4BiUT3jNdYNZQ2iqAt5usm1MG5u093qxKl/B6dhMZp5HdBOYrBgGUuZOvjexVYuUUg1jhvNlEsAACbdcz2/7Smn0/SZ7/WSEcMbih08AQGLoH7CMpHYMFnia7Of4bJnoTGdgILnx34EEomxi8TWauogHYRKn04WXfU4LSgHLkYOqGJgB7pBU/DU/WkloJc2nIzTwcrK6tadR0Wb6fcP5ep6FpBIxIvPH0Ik0m2cfl5aNuW1SnqzaPa8sCoL1qk/WXnom49wqkpULFN7Gr/+o+msIiCNlKydO6oJe1Wqh+sr/Hr2JHbdohSqz4NChbBRA2UZiDogd40qzBwAZVb9F19FwDLs32r4iyXH2wDxCeRd84A8+cK2s3hTmAzGo7Jh0JfwSO6NjC0wk2RfF4uZIby30FAqOyU1qaE6Gb0iFk6Wfyyie37wrE=
+  47fdaa17-5d34-4166-8e1a-5330174dcf38:
+    name: tables
+    creator: 43054748-a244-3564-b37a-da1ccea88597
+    displayName: Banchi di lavoro
+    type: PLAYER
+    location:
+      world: Spawn
+      x: 48.51013944545267
+      y: 1.0
+      z: -1.9934580050588804
+      yaw: 89.37796
+      pitch: -3.0533893
+    showInTab: false
+    spawnEntity: true
+    collidable: true
+    glowing: false
+    glowingColor: white
+    turnToPlayer: false
+    messages: []
+    playerCommands:
+    - shop Workstations
+    serverCommands: []
+    sendMessagesRandomly: false
+    interactionCooldown: 0.0
+    scale: 1.0
+    mirrorSkin: false
+    skin:
+      identifier: https://utfs.io/f/cb85942d-4b01-48a9-b03c-eb1f37075462-pnyhki.png
+      value: ewogICJ0aW1lc3RhbXAiIDogMTY4MTU2ODcyOTg1OCwKICAicHJvZmlsZUlkIiA6ICJkZTU3MWExMDJjYjg0ODgwOGZlN2M5ZjQ0OTZlY2RhZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJNSEZfTWluZXNraW4iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2ViZDdiYWRkMzFkOTJhMmJkZTgxOWQ1MmYzY2YwNDM5ZjYzYWIxMThkNjk2MDc3MjI1MTUxMTk3YmI1ZWIxNyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9
+      signature: v7I6vxt+gbpBr35uWNo0uOd/kLpklnxYHLRDfkqVkbJHYuSliHhbhFIzjwxFSQAd1urSknxHyQ7bVOsUyWsjibMENOCcFK3kw1dbPG4Qit6dEOyOZvQZOJHPKIThgOD54yxLkz/Nxle5I6a8uBUetX/TXyINWaMvyp09/GTty2bp2Bxq//hKtc7xC3KaLPRjJbmsFru2fI4dGCRZfJIUE61RdLVB9mhhwu49i2crDVm3oeQwcrbqJtfo6ii43hynRoFUgoNXebKmHuVqg/DQSY+gj6c+Pe+QOHLf7HNBz7veMA4zX2efItNg24AU4I3SLH58MfyDXUMmX29UJDccDebnEwfqXR1oHx560Q0FCS/aMQumudHy+Wk6HTuh3kVrQJ6JrsaN5Z5e9SjGqiGyZJUoDCBwxLxpw6fM5H7FrPZKsPpQGFet5V5p6synymIfHtMUtGiTeLOmhH5nyBRxL26PFX2v0PQ4g8PiuJqoEUwtWSLvoktskTYzaFl6g9Tr3cnIurHj6yDzlBCCEpEKenpGoWLZhTOfi6/X22tL3vaqR85ToJ3hQGOIBQwubqxbTIjFPXEtjTCIfZSf0HT4hAbYAopg/jfvn7ZYrarhhhOhitCVXw/SsvbFBbyf415AXM7BRMwBz25tu9w+eRkzEWZ592QyZu1Fqs5FQ/wHSjQ=
+  bac61c77-8816-401b-82aa-bd047004fbb7:
+    name: Spawners
+    creator: 43054748-a244-3564-b37a-da1ccea88597
+    displayName: Spawners
+    type: PLAYER
+    location:
+      world: Spawn
+      x: 42.00500655816933
+      y: 1.0
+      z: -8.522355855275086
+      yaw: 0.2966919
+      pitch: -0.36646003
+    showInTab: false
+    spawnEntity: true
+    collidable: true
+    glowing: false
+    glowingColor: white
+    turnToPlayer: false
+    messages: []
+    playerCommands:
+    - shop Spawners
+    serverCommands: []
+    sendMessagesRandomly: false
+    interactionCooldown: 0.0
+    scale: 1.0
+    mirrorSkin: false
+    skin:
+      identifier: https://utfs.io/f/149eb0a1-9aaa-4842-a94e-9ce4dc56a3c0-17y6m8.png
+      value: eyJ0aW1lc3RhbXAiOjE1MDMxMDk2ODkyMDEsInByb2ZpbGVJZCI6ImJkM2M2NDhiZDZhMDRmMDM5NDkzMjc1MzVjYjgzMWViIiwicHJvZmlsZU5hbWUiOiJFbW1hYVBsYXl6Iiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84NDM4Mjk2YjczYzhhNzQxOTRiNDNiOWNhYTM2ZTU3NmU1ZGEyMTVhMDdlZmRhZjQ1YjcyNjYxYzBkMmQ3In19fQ==
+      signature: oJBcEwFbWX//scNRv1vI+cGEWHOh1FrMWp0jYlYuhJIT7cukKHupcTDyBGih+m/bzM3CUFkikVmEjXihycgjOBSg5HwoN1fI8IsiWSi277/E7FMQ4Aj3CzqrdS02c0qrx63BBBJHItUA0oDdgw/hOfr+3v5cY+31ZFcKxQcHmlAevmF3CnEbpuj4zxPJiMYIeDn9XA2n9jygVrI7pajbWtqebXsTV+kFz7ijb/CBCNbDHKeSTxKSxwPsQ6DPFnDRPm+tPKymBQTE2ew5EdSNr04wPNof6jRU/ugVo5LUt5qkHoNNBRBbBFqlEJ2PHlwMxlm02nq9e7l6AZ8qXaK4D7kJdEtAP3pmkoH5N29sSbSVPLzMN8aHPoE/+iNe7cTNGWIehZ7FvfRpXgE6O7F0q8kRLZTumvIvVE2gGYvj6ieCUyf010ucBRd6D9OL5ZYGtn1C0gKRdVzNbzhys/m19Mq3Nrp+mcXGg38+kQePDd7INlhv0iRSUUmdblP5UrEQ22wAO+WljbaCgmSo20OieP79gFomp6kKzkMTO0aUCmlMmNIYG3m2R5TJUTtchxfGG+EqiS00FPyVXnd1sfx72IhOVCCXqvqIdzexZzf5ykaANAkAcJ6oq7+MySTR3QsiV4GvGFcT1BNVA+o00YvyXip1eNDqMl6OdzkmRMJFQIQ=
+  3e3c1c7c-695a-435d-9d61-e4d5c8299009:
+    name: Decorazioni
+    creator: 43054748-a244-3564-b37a-da1ccea88597
+    displayName: Decorazioni
+    type: PLAYER
+    location:
+      world: Spawn
+      x: -39.95832094449868
+      y: 1.0
+      z: -6.686414180923415
+      yaw: 0.5640564
+      pitch: 0.016149342
+    showInTab: false
+    spawnEntity: true
+    collidable: true
+    glowing: false
+    glowingColor: white
+    turnToPlayer: false
+    messages: []
+    playerCommands:
+    - shop Decoration
+    serverCommands: []
+    sendMessagesRandomly: false
+    interactionCooldown: 0.0
+    scale: 1.0
+    mirrorSkin: false
+    skin:
+      identifier: https://utfs.io/f/004dcfe0-a094-49dc-9c27-fd23fb67cfea-m6b999.png
+      value: ewogICJ0aW1lc3RhbXAiIDogMTY2MTA2MzI0MzE3MiwKICAicHJvZmlsZUlkIiA6ICI0M2NmNWJkNjUyMDM0YzU5ODVjMDIwYWI3NDE0OGQxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJrYW1pbDQ0NSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80YWY4ODQ2ZDA0ZmQ3Mzg1ZjBkMzJjOWIyMGMzODE2YWYzMDg0N2FmNzRmOTZhOWU0ZDViNDJhOWEzZWRmYmM5IgogICAgfQogIH0KfQ==
+      signature: wUpwuddkr6gsI8Fh8JidFUmasmiVoFCLfhImwm3NfvEZRE+dO8fWsPRfa1idFddagxDslIx420HEEepZVHxMxsHCjFO0UO8ZBa/TnDUo3fJwFnAh+lFg142wfV62azbhwz2FxZa40zvcEXCBsAw6YFgnWE7nG7yTS6H7Ic4b77DIx+hiCB1TzdfUzT91/LzCmWCZzSS7Q//VYBchtHoMZv4s/vF41lavIISnrOPKx6oCdS53Wjbk/fGzQC6W5R9WfkT6MkOGsv5MPo8WwN1J5T4Vg3m4nKM9B/yDb1xUyd3x10avRCt9pu8qxiQeV2Z02Ga5B0t1QcRKuP/s78alAvRv1yeDmqLLS6qgwPqKRqafTxK7z3YINBLgVGsz9DrnZKrcfXtsVIrVkWTQhJ6TYd6MS9+KZL+ZMSO2sLxl6RZ3ECF60xTEe/B4icnCE6O+CKDYQT5vglGXv2y2ry+lsYgmpeexjMn4xQcB6dsIlayKVlwiFiRC/dK4Wpxwhu70uEvEZbf0BLslWhWKWmVopgEQmE20iG6lSKqSAu8plzZsT21IVMSnU3/apOTSNi36tV9EOnxyxdoukcw7jYb58W83WVhY/ymLJSpnwx4UhVbgco46mFQfd+ygKe6bm7O2s7ApkTtS1X/gh1FWbQUVa9shrcm9NwqRONEr98G2jjk=
+  f573f5d4-f9ec-4005-a526-aed7c0e3687a:
+    name: Building
+    creator: 43054748-a244-3564-b37a-da1ccea88597
+    displayName: Building
+    type: PLAYER
+    location:
+      world: Spawn
+      x: 32.62445958869844
+      y: 1.0
+      z: 15.699999988079071
+      yaw: -0.18541485
+      pitch: 13.057482
+    showInTab: false
+    spawnEntity: true
+    collidable: true
+    glowing: false
+    glowingColor: white
+    turnToPlayer: false
+    messages: []
+    playerCommands:
+    - shop Blocks
+    serverCommands: []
+    sendMessagesRandomly: false
+    interactionCooldown: 0.0
+    scale: 1.0
+    mirrorSkin: false
+    skin:
+      identifier: https://utfs.io/f/cc942030-6951-45c5-b10b-0dc17258f060-8le6fp.png
+      value: ewogICJ0aW1lc3RhbXAiIDogMTYxMTY3OTczODAzNSwKICAicHJvZmlsZUlkIiA6ICI5ZDEzZjcyMTcxM2E0N2U0OTAwZTMyZGVkNjBjNDY3MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJUYWxvZGFvIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2UwYWI5OTY2OTQyZTY4MjQ4NDdlZWE3YWM1MzVjMzkyYjVhODAzM2JmMzM4NzQyNzk1MjYxNTcyZmJlZmUyMDkiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==
+      signature: qsWsOolT095Tb4pfTb/ihb1bXPnT/P4n18thRmD/DM9QEDWuKKAGq3biyHMIFeCgxfZE8Z0Lwjqw+vlAx1+eGuA8L5sTZ6LpfVCiKZBtBD+cVuvzJYobp/92kOOzrdln9hqDcjx8/UCuBbfp23vILVmtMYyCW+DlIBcVK3pDSlOssU8CgT1DTswgZNoeaTqF7jwNJO24UTo+t2KxIlutfDhjlmx0rdYunr0y1rllYRyI/nHOySsEqMR5G2MnWnA9pMSOZxC7e8dl+w+0UErD04IyXBc52gNkvUALJXRCkHRJL2mbj/HdkSHFeYPsx/i5RbnEbuO44DDqvWuoSJa1MBwXkSV4unmKeT8mgC5XftdeHQrmeL+qEmYM4Ser8mWQ76+IEi+YZVj4SiS4qcjNjCYyz8NdsNZDCIJJwKKHE5b8X7xFCc9ZQicviUaG6g6R00YL7uFOpvBJ8FYO71TZyqSq27IxEcigfTg95yQUuKWlFyErMTVb1f+RqhMRa7wZMTuNOfqjE2hjFbYeCfNZ2KPnmnbk9mBBWv29TxQaysYtonGqcZkb83b3O1h1J8CmeRhAM5b+g3KurcsCUQ1Qe4POp23nf47qKPp/Gspq8G0EoblENgXwiPK1oSicszVj1Cn14JcCrRuPjKpcWC6LLsspRSI73+Q7m1NBcX/i6Qw=
+  626feb33-0c10-48b9-9f3b-a650c3698d92:
+    name: enchantments
+    creator: 43054748-a244-3564-b37a-da1ccea88597
+    displayName: Enchantments
+    type: PLAYER
+    location:
+      world: Spawn
+      x: 31.987744465651513
+      y: 1.0625
+      z: 28.608084811908075
+      yaw: -178.40561
+      pitch: -0.7725583
+    showInTab: false
+    spawnEntity: true
+    collidable: true
+    glowing: false
+    glowingColor: white
+    turnToPlayer: false
+    messages: []
+    playerCommands:
+    - shop Enchanting
+    serverCommands: []
+    sendMessagesRandomly: false
+    interactionCooldown: 0.0
+    scale: 1.0
+    mirrorSkin: false
+    skin:
+      identifier: https://utfs.io/f/47c36a93-f090-4627-9358-1b36575ff658-m57z98.png
+      value: eyJ0aW1lc3RhbXAiOjE0OTQ3NzM4NzUxODQsInByb2ZpbGVJZCI6IjNjOWE4MjkyMGZhNzRlN2M4NDEzMmJjYjE1OTY4MjA0IiwicHJvZmlsZU5hbWUiOiJSb2NvbG9nbyIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2Y0MjM1MjI1NDcyNWNiNGJiYzEyNTAxMzRmODEwZjdmZTA0ZDVkNWRlMzcyNGMyNWZkZGVlYTZmMjEifX19
+      signature: VO77Z9wxYE+YuhSHfoJuxjh5Ez82V+SAZa3uqkSEMc3DrTtZhSRSHee7UhPR2qlCk4YgQUit9QV6oOLfNn1duh6gQ6oc7wNFl98U3CrlTqEIjoF48GEc33HvOsY3KHHyyz0GzrXGDYLqGg55nFpwCbU/PlRGFttldqIZG9ngnzwtfF8gH3fwrOOOQVVFU2p2aYQQM6vg3XpFTVZxlVw+dKqbBfYNKunfjWYW+Ht/MIdSjkfSuVLHKhRZnEDw3DjxHC7v5n/X6MM3fJ7sX5vmHFCYJo4hH46CJv75T+OwZIwwPtbkeqZucIVB5Omsbb0+9u/3q/mKbeg646I8tS1B/tx8AewkHcGbcwjn9JXqbX4eUixNlT1JMoU1GoRuflRn/a+53/0zJ6RCFOe15OMqiEknm1Kowev/snSrfjGf338G83OaugIdQPLgPRBvBdYj+DNwscKsjdKXKXSMBo+oVB/NERo0X/ahGIVBTw+FnZX8vuqcv7T6UTjPF/HkcxWtEFzwoebfoJH5INkaYR87pBZROrSJwF4ANNVEvbm/EbQBhLr9sETH89QLe7h5wxU/x5D8Pvf/tvAjciAI/woCxo909qnGBOhkQwnMuSkidgxDhN0pVagfp9I5PuRa0tR+/Gpk50a11eo3HoeckoUTEQuvG96DkLl7FN3yvLtJl5s=
+  97454370-e2bf-497d-a623-55fedcdec710:
+    name: Ores
+    creator: 43054748-a244-3564-b37a-da1ccea88597
+    displayName: Ores
+    type: PLAYER
+    location:
+      world: Spawn
+      x: -30.006184437401764
+      y: 1.0
+      z: -15.699999988079071
+      yaw: -179.57727
+      pitch: 3.0713649
+    showInTab: false
+    spawnEntity: true
+    collidable: true
+    glowing: false
+    glowingColor: white
+    turnToPlayer: false
+    messages: []
+    playerCommands:
+    - shop Ores
+    serverCommands: []
+    sendMessagesRandomly: false
+    interactionCooldown: 0.0
+    scale: 1.0
+    mirrorSkin: false
+    skin:
+      identifier: https://utfs.io/f/dc3cf135-0d2d-493a-88c7-5d05b25f7fe2-6uk4e1.png
+      value: ewogICJ0aW1lc3RhbXAiIDogMTcwNzY3NDkxNDc2OCwKICAicHJvZmlsZUlkIiA6ICI1ZTdmY2RjYTU5YzI0NjkwODAwNjg4OTNkODU1ODM3NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJKYWVsbGFyaSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yODk4M2JmOWQwYzE1OTc2ZWE2NDdhMWY0ZTI1OTNiYzRhNjY2NjdhYzVlM2UyZTY2Y2ZmOWI5ODU5MmViYjI2IgogICAgfQogIH0KfQ==
+      signature: GKfyNZPvGyS7YSO3laoseiof5XXHs55JIY3hHg+ezBgxrDc6pi/PJQ0Z1819618VqyvhOy7DpIaZQeOM7B4tBAHFfeRuw+/IkbjCILQUuBtam0YGatx45Sya/Ok6DF/+hbWN57cwBGyCQSKCe4vk1TRHwmyFq2/xR/xlDwoYm6NnYWj3SnU0qtSlH7iVdTj0KlrEhTgDpO9FHG5mkR+Jw0B5F8Iemhl1H6rtfGq2b90bvFfsoXGpEvp5C0pA8t92eCK2/1pYXUnjQxvbdLutLrxN3UGToiKFi6pm5Htt9aUfaHYG6JY5wsdZa1x/40+64pTKHuIkPFvxY/P2h74mTFNogUs5htSJAEsmiwgIoUBJdTTEHY3V9flaulVX2UHcOAuj3Xbwo3cIyroRwXIYEHDmBefLhQJs7t2Jupm/m8lQJGCkWAFb9UU2rsX2PouZ+IUWMs/u7SeWYdWDVSrbIaq+zK8E0KIdklfIk87llBcecVDLh9Z2DPkDdSg4aTEuYGfJqjzKM056D36NCsPrJy/vBT9teSX80zISB8AbEPL1zXNRKUz0LIPIM0CnogzCZ28i6A7NdeokJcer9QCsBQTC3cwjUuaQwPlUtagF9PiDhIcBJvDB0BTyUG3Ytq+ibnJ21zoCh9pDw13KLUhNjK/bAaNLyQbDOHmBOheHKgA=
+  fb26eecc-d9fd-46d9-8ff7-eeeeb3662501:
+    name: Mobs
+    creator: 43054748-a244-3564-b37a-da1ccea88597
+    displayName: Mobs
+    type: PLAYER
+    location:
+      world: Spawn
+      x: -39.975382478962985
+      y: 1.0
+      z: 7.510138042616926
+      yaw: 179.5975
+      pitch: 3.3987412
+    showInTab: false
+    spawnEntity: true
+    collidable: true
+    glowing: false
+    glowingColor: white
+    turnToPlayer: false
+    messages: []
+    playerCommands:
+    - shop Mobs
+    serverCommands: []
+    sendMessagesRandomly: false
+    interactionCooldown: 0.0
+    scale: 1.0
+    mirrorSkin: false
+    skin:
+      identifier: https://utfs.io/f/549edc88-0510-4c8f-ac44-b2a4297b741c-qk4q37.png
+      value: ewogICJ0aW1lc3RhbXAiIDogMTcxMDk3MjI3NjIzMCwKICAicHJvZmlsZUlkIiA6ICJmNTBjOGRkN2FiN2Y0ZmUyYWI4ZGI1M2NjYzRiYWQxMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJtYWNoYWRvVF9UIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzcxY2Q3N2Q5YWU1OWIwNDU1MTJlY2Y0ZDQ1ZWM2ZmI2ZWZiNDVlODUzNGQzNmQ1ODBhY2NhYjAyOWQwM2ExNjIiCiAgICB9CiAgfQp9
+      signature: DWd7jArBCn/UCa7z94NMSCOcCcejRAAPa4b109NX1NWIrvdWtx7x330Lf3Is+2M24bfDXb8sGFXYhR4f7DEabe8dpLutAnwKmC4YyB4dTcbRk9UBXIlzNf7ff5H3mJfTBmghLvx+xRtguMrX2fmTUa9jV9ECP+MmpSPZ8MrlG9xp1wlnyxdoX6o0aS8Da5A0UPzYhQgPSJVltDgYrxG8q/6HCzQMfY+FPSii4z1gqQrneQMhzdwim77L7OqNk8UB5Y+r/S2s+urwJUkw5OGMtrdHhdkVk5jgapfEwdEIjJShhlUzubhmZJUEc/QT9IxHZ+RuD/n4iTIluK4ZV/UPMr2RD/8UohqSJ2o65x3bKQwkxtaM9YCQ3ifmndaasGSUjHBNTFAryaJNQBDJbY+/EYTlllb+XOmU9argxU47+k0yprEIZN9u5bHe9ZR0MY6jdEU4K2LfG0WLGUu3LAHLE79VsxJfZJUTqIXOcwrydlu/zZqY8kJZHepzRf0o9/hMGrxWhlo1dEL3HVl+oSDM+8kttvrVdol4vatyqMj1i/dF1fo+WFJdrZbZOmy13EuMD1JR9kcMM4EVegI+i9vqvhNgpqM33rb1uHI+vk5fgkj+C07a6++vrZxxLxQFeI3+xmRmOADe+rI5P0DtOQWkjw5ETvluPhXoT9wfKkikvpY=
+  43fd943f-3df2-4a6d-afb3-8565043ada15:
+    name: Colori
+    creator: 43054748-a244-3564-b37a-da1ccea88597
+    displayName: Colori
+    type: PLAYER
+    location:
+      world: Spawn
+      x: -46.30000001192093
+      y: 1.0
+      z: 1.9785644704693672
+      yaw: -90.58722
+      pitch: -1.0213722
+    showInTab: false
+    spawnEntity: true
+    collidable: true
+    glowing: false
+    glowingColor: white
+    turnToPlayer: false
+    messages: []
+    playerCommands:
+    - shop Dyes
+    serverCommands: []
+    sendMessagesRandomly: false
+    interactionCooldown: 0.0
+    scale: 1.0
+    mirrorSkin: false
+    skin:
+      identifier: https://utfs.io/f/950c6a62-26b8-4040-a1b7-13307bf13d49-paamie.png
+      value: ewogICJ0aW1lc3RhbXAiIDogMTcxNzg1NDA5ODMzNywKICAicHJvZmlsZUlkIiA6ICI2YzdjZWFjNTdjM2Q0ZTdmYWI3MTc3YTRkMDhlMGU2MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNRzE0MSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84Y2I5YzViZWE3OTllNWVlYjhjMmZmNGM5MWNiZTA3YzA2MTllYzdkY2VhYWM3NWFjYmUwZWY4MGMxOGQ4MjhmIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=
+      signature: ZfTGuTKw6Kok17N4b9TJUZ87FLFYANKxXGPIwHZ/w7mfoUmUUiVuiOFCkzdihZD+aFvkZz+T68OYmJ4eAlvvPyQnX+yzlntKeZB14w8+vP7x+kWtglUHJlI9zj3x4EXfOYu95JGJM6TXIzvOrzdIjIovqMZSJJtWILLx0HkxaWeknK43tCW4tdpFaCLGfacz9PZRH2XyGDTaeqy/LMomL09xyd29y4mEE6a0fZ6qAA79uosIq+p2IdlBn9cu4iXb4QZ4sLqiyEj4p6LEg4k4KVRq7+8wH3LIBo/UXZbyY/nrsWeRTjM1Enns6izz6FbEOxCNBf9d8w93N4XMXRVBewaVckVCRPnPcj6KvQTloPmxkifTeg4JDeV6n7ZiWJsc18/lsJ1L4cfPhk7Ers0FLDq1Q4IiKRSgTvLplQtzLZ+TuHAsbZvDJP9MpS8hU7XW2LEDsqI6k5UD4oFWOF9XRKkpqRFvlojbnPZA6dMR0YkLOdv5acjOzogIQVea3F8XNYSciTyvNylYRjNAL98WQCtdE7g3A9GMETXlJqQu5xOow5QAMRddo6rphyBKqqag5qUe2THbmkZy7Z5HgZ4yEJ8GwQE3GWe0lAkPsLJgl2VE4M9vKj3+BuSW4ct6e5av82N+13Q+aLMan1bUb94NvSl0JQXlSXkS6DrPKAYsrh0=
+  d0e4353d-aae9-411a-a69b-5ae5a5ca4bc5:
+    name: Cibo
+    creator: 43054748-a244-3564-b37a-da1ccea88597
+    displayName: Cibo
+    type: PLAYER
+    location:
+      world: Spawn
+      x: -34.64103205338219
+      y: 1.0
+      z: 23.956011306718544
+      yaw: -87.409
+      pitch: 4.0535817
+    showInTab: false
+    spawnEntity: true
+    collidable: true
+    glowing: false
+    glowingColor: white
+    turnToPlayer: false
+    messages: []
+    playerCommands:
+    - shop Food
+    serverCommands: []
+    sendMessagesRandomly: false
+    interactionCooldown: 0.0
+    scale: 1.0
+    mirrorSkin: false
+    skin:
+      identifier: https://utfs.io/f/4c97c7bd-123c-448b-ad8b-5f033aa5fe2a-yraecw.png
+      value: ewogICJ0aW1lc3RhbXAiIDogMTcwMTIwMjY1OTc0NiwKICAicHJvZmlsZUlkIiA6ICIzOWEzOTMzZWE4MjU0OGU3ODQwNzQ1YzBjNGY3MjU2ZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJkZW1pbmVjcmFmdGVybG9sIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzNjZTJjMThlMWJiYTU2MGIwMzYxZTAwOWYyZjg3MzBiMTU4NDllY2M1ZTUwYzUzOGE5NzhhZmE3YzVmYTNlOTIiCiAgICB9CiAgfQp9
+      signature: ju2rLcEsacVzhWFoo8Z3NnZx9wPtgh6YWvmx26IrVQSbuwCfgZqkpDEPLUDJSD3tGquUwa1UIxxVsK7TNuMiAMrE8tHNbQ+dtv2UIHfESGjvZ57QwGlQBUdSGLmDEkhJkzDX8WARiYofjbTr2jOjq64sDuZAzWEgCRkIUGwoStlUj21/K7rkPW6WV68Drc7Dig8ADFqADkP5G1VYlxcLkmJeA9vCJTm7DQHqWqLIyuAqKDgaa6YO6Cw71mfGg0ooFHBzc4AZoS0E9QOWYTv3LhVK1H/NXMrFoAXGc/Y1sllzw4DX90BomrNCkfmT44sB9fGst2f3pN6BwEDWQjmJDvc7V77N/52MwgE5pyLO/vzhsS1wgNwD6YBpdJtmxqRG5NZwD/tvAEGJmxVAFeRNFagjIEKd4p/JPEN3VgwQAesOz9iFZD/KFcXbDhooF1VUIHXwlfCpB8xYj1Olo3vGpwkS39AxI9UfIWcZiPmcyarHpgxlf5726UBA7mN8CSrcu2MSZFDlfZPcRkyDcHfusOa5WQZrcpn6g39KyLQtLT/MZvSxYfwdi2hDIfwwG7h9ewgx3x5UXljCzuUzhMKw3NWpp8V6e4yynzGVzvcmEj/1dX1ZezPssCqIt/4G8Q38ufaEn/0sHTHbZeFLYTxNIdBCClJz6OMiPuGxrhKVjeM=
+  b8b807bb-af69-4c10-bd27-0acf4f708a27:
+    name: Agricoltura
+    creator: 43054748-a244-3564-b37a-da1ccea88597
+    displayName: Agricoltura
+    type: PLAYER
+    location:
+      world: Spawn
+      x: -20.3495387902485
+      y: 1.0
+      z: 24.362757746520565
+      yaw: 90.38406
+      pitch: 1.3022211
+    showInTab: false
+    spawnEntity: true
+    collidable: true
+    glowing: false
+    glowingColor: white
+    turnToPlayer: false
+    messages: []
+    playerCommands:
+    - shop Farming
+    serverCommands: []
+    sendMessagesRandomly: false
+    interactionCooldown: 0.0
+    scale: 1.0
+    mirrorSkin: false
+    skin:
+      identifier: https://utfs.io/f/79cb7072-818a-4af3-9479-8d7538fbe19b-3feimb.png
+      value: ewogICJ0aW1lc3RhbXAiIDogMTcwODgwMzE1NTUyOCwKICAicHJvZmlsZUlkIiA6ICI2YTE1NjRiMWY5NzM0NWIzOTNlNWU3N2UwMjU1YWZjNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJEYXJrX0h1IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzRjMjA4MWEwMjVjNjhjOGM0YjVkOTE3ZWYyZDhjMTM1ZTIxZDUwZTgxNjM4NDg4M2QzYzA3MjFlNDg0ZWIwMDUiCiAgICB9CiAgfQp9
+      signature: Yk3hzcSSXhbTZ/7EVK9rZ46OLlkxZXJGtfqVDzXJmukUDfDJNx5vei4kKVy55CwCG/5jnptlhNu3fXmMNUwisDcbHLaqmmvOeLh1z0gQzM8I4Ihk+2EaOmtGB0kVibgT4nmvPSh04SbVLQl+ydg6g3KdqnYZByLGIWCfdEpPdH8ZA8jBD38XhULTLBi0OWDKQdOF7V0tW1TUjOeVbthk6kGvTvTOuWZV54fkfnrZoXG/4j8m9JZMy592ON/94SZ3IzDNkRnVok3r5MlO1WjoUUbDSJB+c67oquTLZhdV6IudqXfcBxtRtdmUo9lAuSjGRqI9KNCfQPMDDfU42rRDX+x/hdALtOzCEZTskO9DacByznkpnMM6Kz2A7uphBeEZtTZ6byhUwBaAeiMZIFkV+SPk1sUsDIPZkVRljfb/qTV4REsW/C/MBx7Huh4tiJvP7qvyRxahUw/FD3KUxzPQMvI71Wn5r8B8cMclCLh3kBliTNBk+WfA5JE//IV+JTzpT3IQFk0SvSGE4NPqYwqwLD6eis311C7U0vUhOVkNLEYuR3EMi/9XAy5QC9YsJepUho6+4ZcwEBlyDM2M0DcpE9WE8DdhOgFzEO82uZmd0iT+wkz1N5cmDh8Uw4sw9poJ4OaOmA1rqgfGaaftS68NkcH0ZBqZPP17Hwj7ZEeNM18=
+

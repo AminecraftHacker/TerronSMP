@@ -1,0 +1,55 @@
+# GP Flags
+# Plugin Version: 5.13.4
+# Server Version: 1.21-2284-4e55e26 (MC: 1.21)
+
+Settings:
+  Log Enter/Exit Messages To Console: true
+World Flags:
+  world:
+    Default Gamemode: survival
+    PvP Only In PvP-Flagged Claims: false
+    Message To Send When PvP Is Denied: Player vs. player combat is restricted to
+      designated areas.
+    Send Message On Enter PvP Enabled Claim: false
+    Message: PvP is enabled in this claim, be careful
+    Send Message On Exit PvP Enabled Claim: false
+    ExitMessage: PvP is disabled in this area, you are now safe
+    NoMonsterSpawn Flag Ignores Spawners and Eggs: true
+    NoMobSpawn Flag Ignores Spawners and Eggs: true
+    Clear Flags On Transfer Claim: false
+  world_nether:
+    Default Gamemode: survival
+    PvP Only In PvP-Flagged Claims: false
+    Message To Send When PvP Is Denied: Player vs. player combat is restricted to
+      designated areas.
+    Send Message On Enter PvP Enabled Claim: false
+    Message: PvP is enabled in this claim, be careful
+    Send Message On Exit PvP Enabled Claim: false
+    ExitMessage: PvP is disabled in this area, you are now safe
+    NoMonsterSpawn Flag Ignores Spawners and Eggs: true
+    NoMobSpawn Flag Ignores Spawners and Eggs: true
+    Clear Flags On Transfer Claim: false
+  world_the_end:
+    Default Gamemode: survival
+    PvP Only In PvP-Flagged Claims: false
+    Message To Send When PvP Is Denied: Player vs. player combat is restricted to
+      designated areas.
+    Send Message On Enter PvP Enabled Claim: false
+    Message: PvP is enabled in this claim, be careful
+    Send Message On Exit PvP Enabled Claim: false
+    ExitMessage: PvP is disabled in this area, you are now safe
+    NoMonsterSpawn Flag Ignores Spawners and Eggs: true
+    NoMobSpawn Flag Ignores Spawners and Eggs: true
+    Clear Flags On Transfer Claim: false
+  Spawn:
+    Default Gamemode: survival
+    PvP Only In PvP-Flagged Claims: false
+    Message To Send When PvP Is Denied: Player vs. player combat is restricted to
+      designated areas.
+    Send Message On Enter PvP Enabled Claim: false
+    Message: PvP is enabled in this claim, be careful
+    Send Message On Exit PvP Enabled Claim: false
+    ExitMessage: PvP is disabled in this area, you are now safe
+    NoMonsterSpawn Flag Ignores Spawners and Eggs: true
+    NoMobSpawn Flag Ignores Spawners and Eggs: true
+    Clear Flags On Transfer Claim: false
