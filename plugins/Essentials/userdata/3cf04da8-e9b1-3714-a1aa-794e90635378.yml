@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 100.102.41.20
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1725037123632
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1725037734880
+  login: 1725034329288
+money: '0'
+lastlocation:
+  world: 4ea0fbb7-6a7c-40ed-a765-628fcb1c7cbd
+  world-name: Spawn
+  x: 25.073258011416243
+  y: -259.97649522775407
+  z: 17.94003191496376
+  yaw: 174.9068145751953
+  pitch: 13.71078109741211
+last-account-name: AverageMovie105
+logoutlocation:
+  world: 6a5c0b84-fc1c-41d0-bed9-0c6108219ecc
+  world-name: world
+  x: 14052.5
+  y: 66.00162929999976
+  z: -6488.5
+  yaw: -99.45004272460938
+  pitch: -9.0

@@ -9,3 +9,28 @@
 [2024-08-18 18:22:59] - ANDREA1720 bought 640 x Lapis Lazuli(Ores.page1.items.18) for $9,241.60 with the buy stacks screen.
 [2024-08-18 18:23:11] - ANDREA1720 sold 64 x Lapis Block(Ores.page1.items.17) for $1,091.84 with the sell screen.
 [2024-08-26 16:21:25] - ANDREA1720 bought 1 x Zombie Spawner(Spawners.page1.items.38) for $240,000 with the buy screen.
+[2024-08-30 15:24:31] - AverageMovie105 bought 3 x Iron Block(Ores.page1.items.15) for $312.60 with the buy screen.
+[2024-08-30 15:25:02] - AverageMovie105 bought 1 x Blast Furnace(Workstations.page1.items.2) for $74.60 with the buy screen.
+[2024-08-30 15:26:22] - AverageMovie105 bought 20 x Coal(Ores.page1.items.4) for $210 with the buy screen.
+[2024-08-30 15:34:01] - kalakko bought 1 x Gold Ingot(Ores.page1.items.14) for $16.54 with the buy screen.
+[2024-08-30 15:59:38] - ANDREA1720 bought 16 x Cooked Beef(Food.page1.items.11) for $201.60 with the buy screen.
+[2024-08-30 16:01:37] - AverageMovie105 bought 10 x Coal(Ores.page1.items.4) for $105 with the buy screen.
+[2024-08-30 16:03:23] - AverageMovie105 bought 17 x Cooked Beef(Food.page1.items.11) for $214.20 with the buy screen.
+[2024-08-30 16:13:09] - kalakko bought 10 x Cooked Porkchop(Food.page1.items.14) for $126 with the buy screen.
+[2024-08-30 16:13:37] - AverageMovie105 sold 26 x Coal(Ores.page1.items.4) for $34.32 with the sell screen.
+[2024-08-30 16:24:16] - ItzMarc233it bought 1 x Gold Ingot(Ores.page1.items.14) for $16.54 with the buy screen.
+[2024-08-30 16:24:32] - ItzMarc233it bought 1 x Diamond(Ores.page1.items.9) for $105 with the buy screen.
+[2024-08-30 16:24:33] - ItzMarc233it bought 1 x Diamond(Ores.page1.items.9) for $105 with the buy screen.
+[2024-08-30 16:24:33] - ItzMarc233it bought 1 x Diamond(Ores.page1.items.9) for $105 with the buy screen.
+[2024-08-30 16:31:35] - kalakko bought 5 x Redstone Torch(Redstone.page1.items.14) for $42.90 with the buy screen.
+[2024-08-30 16:59:23] - AverageMovie105 sold 64 x Copper Ingot(Ores.page1.items.7) for $14.72 with the sell screen.
+[2024-08-30 16:59:25] - AverageMovie105 sold 64 x Copper Ingot(Ores.page1.items.7) for $14.72 with the sell screen.
+[2024-08-30 16:59:27] - AverageMovie105 sold 64 x Copper Ingot(Ores.page1.items.7) for $14.72 with the sell screen.
+[2024-08-30 16:59:28] - AverageMovie105 sold 31 x Copper Ingot(Ores.page1.items.7) for $7.13 with the sell screen.
+[2024-08-30 17:02:00] - AverageMovie105 sold 17 x Blast Furnace(Workstations.page1.items.2) for $158.61 with the sell screen.
+[2024-08-30 17:02:11] - AverageMovie105 sold 12 x Blast Furnace(Workstations.page1.items.2) for $111.96 with the sell screen.
+[2024-08-30 17:04:14] - AverageMovie105 bought 33 x Cooked Beef(Food.page1.items.11) for $415.80 with the buy screen.
+[2024-08-30 17:06:09] - ANDREA1720 sold 26 x Blast Furnace(Workstations.page1.items.2) for $242.58 with the sell screen.
+[2024-08-30 17:06:41] - AverageMovie105 sold 64 x Dripstone Block(Blocks.page1.items.2) for $16 with the sell screen.
+[2024-08-30 17:56:43] - kalakko sold 1 x Bell(Miscellaneous.page1.items.3) for $250 with the sell screen.
+[2024-08-30 17:58:14] - kalakko sold 2 x Bell(Miscellaneous.page1.items.3) for $500 with the sell screen.

@@ -1,0 +1,294 @@
+2024/08/30 15:09:42 logtail started
+2024/08/30 15:09:42 Program starting: v1.72.1-tc02a15244-g5c00d019b, Go 1.22.5: []string{"tailscaled"}
+2024/08/30 15:09:42 LogID: ccffc448e1f11a147c856153dde4c7037ee2ea8a2e1c62a179149265b07d0311
+2024/08/30 15:09:42 logpolicy: using system state directory "/home/masterandrea1720/.local/share/tailscale"
+logpolicy.ConfigFromFile /home/masterandrea1720/.local/share/tailscale/tailscaled.log.conf: open /home/masterandrea1720/.local/share/tailscale/tailscaled.log.conf: no such file or directory
+logpolicy.Config.Validate for /home/masterandrea1720/.local/share/tailscale/tailscaled.log.conf: config is nil
+2024/08/30 15:09:42 dns: resolvedIsActuallyResolver error: resolv.conf doesn't point to systemd-resolved; points to [169.254.169.254]
+2024/08/30 15:09:42 dns: [rc=resolved resolved=not-in-use ret=direct]
+2024/08/30 15:09:42 dns: using "direct" mode
+2024/08/30 15:09:42 dns: using *dns.directManager
+2024/08/30 15:09:42 linuxfw: clear iptables: multiple errors:
+	deleting [-j ts-input] in filter/INPUT: running [/usr/sbin/iptables -t filter -D INPUT -j ts-input --wait]: exit status 4: Fatal: can't open lock file /run/xtables.lock: Permission denied
+
+	deleting [-j ts-forward] in filter/FORWARD: running [/usr/sbin/iptables -t filter -D FORWARD -j ts-forward --wait]: exit status 4: Fatal: can't open lock file /run/xtables.lock: Permission denied
+
+	deleting [-j ts-postrouting] in nat/POSTROUTING: running [/usr/sbin/iptables -t nat -D POSTROUTING -j ts-postrouting --wait]: exit status 4: Fatal: can't open lock file /run/xtables.lock: Permission denied
+
+	flushing filter/ts-input: running [/usr/sbin/iptables -t filter -N ts-input --wait]: exit status 4: Fatal: can't open lock file /run/xtables.lock: Permission denied
+
+	flushing filter/ts-forward: running [/usr/sbin/iptables -t filter -N ts-forward --wait]: exit status 4: Fatal: can't open lock file /run/xtables.lock: Permission denied
+
+	flushing nat/ts-postrouting: running [/usr/sbin/iptables -t nat -N ts-postrouting --wait]: exit status 4: Fatal: can't open lock file /run/xtables.lock: Permission denied
+2024/08/30 15:09:42 linuxfw: clear ip6tables: multiple errors:
+	deleting [-j ts-input] in filter/INPUT: running [/usr/sbin/ip6tables -t filter -D INPUT -j ts-input --wait]: exit status 4: Fatal: can't open lock file /run/xtables.lock: Permission denied
+
+	deleting [-j ts-forward] in filter/FORWARD: running [/usr/sbin/ip6tables -t filter -D FORWARD -j ts-forward --wait]: exit status 4: Fatal: can't open lock file /run/xtables.lock: Permission denied
+
+	deleting [-j ts-postrouting] in nat/POSTROUTING: running [/usr/sbin/ip6tables -t nat -D POSTROUTING -j ts-postrouting --wait]: exit status 4: Fatal: can't open lock file /run/xtables.lock: Permission denied
+
+	flushing filter/ts-input: running [/usr/sbin/ip6tables -t filter -N ts-input --wait]: exit status 4: Fatal: can't open lock file /run/xtables.lock: Permission denied
+
+	flushing filter/ts-forward: running [/usr/sbin/ip6tables -t filter -N ts-forward --wait]: exit status 4: Fatal: can't open lock file /run/xtables.lock: Permission denied
+
+	flushing nat/ts-postrouting: running [/usr/sbin/ip6tables -t nat -N ts-postrouting --wait]: exit status 4: Fatal: can't open lock file /run/xtables.lock: Permission denied
+2024/08/30 15:09:42 cleanup: list tables: netlink receive: operation not permitted
+2024/08/30 15:09:42 flushing log.
+2024/08/30 15:09:42 logger closing down
+2024/08/30 15:09:42 safesocket.Listen: listen unix /var/run/tailscale/tailscaled.sock: bind: no such file or directory
+2024/08/30 15:10:03 logtail started
+2024/08/30 15:10:03 Program starting: v1.72.1-tc02a15244-g5c00d019b, Go 1.22.5: []string{"tailscaled"}
+2024/08/30 15:10:03 LogID: 998a406b2b3eaa7f39d7d692440abeb5354855d2d7d32fb1c132d5d6d4af7f9f
+2024/08/30 15:10:03 logpolicy: using system state directory "/var/lib/tailscale"
+logpolicy.ConfigFromFile /var/lib/tailscale/tailscaled.log.conf: open /var/lib/tailscale/tailscaled.log.conf: no such file or directory
+logpolicy.Config.Validate for /var/lib/tailscale/tailscaled.log.conf: config is nil
+2024/08/30 15:10:03 dns: resolvedIsActuallyResolver error: resolv.conf doesn't point to systemd-resolved; points to [169.254.169.254]
+2024/08/30 15:10:03 dns: [rc=resolved resolved=not-in-use ret=direct]
+2024/08/30 15:10:03 dns: using "direct" mode
+2024/08/30 15:10:03 dns: using *dns.directManager
+2024/08/30 15:10:03 wgengine.NewUserspaceEngine(tun "tailscale0") ...
+2024/08/30 15:10:03 dns: resolvedIsActuallyResolver error: resolv.conf doesn't point to systemd-resolved; points to [169.254.169.254]
+2024/08/30 15:10:03 dns: [rc=resolved resolved=not-in-use ret=direct]
+2024/08/30 15:10:03 dns: using "direct" mode
+2024/08/30 15:10:03 dns: using *dns.directManager
+2024/08/30 15:10:03 link state: interfaces.State{defaultRoute=eth0 ifs={docker0:[172.17.0.1/16] eth0:[10.88.0.5/16]} v4=true v6=false}
+2024/08/30 15:10:03 onPortUpdate(port=32783, network=udp6)
+2024/08/30 15:10:03 router: using firewall mode pref 
+2024/08/30 15:10:03 router: default choosing iptables
+2024/08/30 15:10:03 router: disabling tunneled IPv6 due to system IPv6 config: disable_ipv6 is set
+2024/08/30 15:10:03 onPortUpdate(port=60034, network=udp4)
+2024/08/30 15:10:03 magicsock: disco key = d:7bff7fa1cc03ecef
+2024/08/30 15:10:03 Creating WireGuard device...
+2024/08/30 15:10:03 Bringing WireGuard device up...
+2024/08/30 15:10:03 Bringing router up...
+2024/08/30 15:10:03 external route: up
+2024/08/30 15:10:03 Clearing router settings...
+2024/08/30 15:10:03 Starting network monitor...
+2024/08/30 15:10:03 Engine created.
+2024/08/30 15:10:03 pm: migrating "_daemon" profile to new format
+2024/08/30 15:10:03 logpolicy: using system state directory "/var/lib/tailscale"
+2024/08/30 15:10:03 got LocalBackend in 58ms
+2024/08/30 15:10:03 Start
+2024/08/30 15:10:04 timeout waiting for initial portlist
+2024/08/30 15:10:04 Backend: logs: be:998a406b2b3eaa7f39d7d692440abeb5354855d2d7d32fb1c132d5d6d4af7f9f fe:
+2024/08/30 15:10:04 Switching ipn state NoState -> NeedsLogin (WantRunning=false, nm=false)
+2024/08/30 15:10:04 blockEngineUpdates(true)
+2024/08/30 15:10:04 health(warnable=wantrunning-false): error: Tailscale is stopped.
+2024/08/30 15:10:04 wgengine: Reconfig: configuring userspace WireGuard config (with 0/0 peers)
+2024/08/30 15:10:04 wgengine: Reconfig: configuring router
+2024/08/30 15:10:04 wgengine: Reconfig: configuring DNS
+2024/08/30 15:10:04 dns: Set: {DefaultResolvers:[] Routes:{} SearchDomains:[] Hosts:0}
+2024/08/30 15:10:04 dns: Resolvercfg: {Routes:{} Hosts:0 LocalDomains:[], cloud="gcp"}
+2024/08/30 15:10:04 dns: OScfg: {}
+2024/08/30 15:10:11 logtail started
+2024/08/30 15:10:11 Program starting: v1.72.1-tc02a15244-g5c00d019b, Go 1.22.5: []string{"tailscaled"}
+2024/08/30 15:10:11 LogID: 998a406b2b3eaa7f39d7d692440abeb5354855d2d7d32fb1c132d5d6d4af7f9f
+2024/08/30 15:10:11 logpolicy: using system state directory "/var/lib/tailscale"
+2024/08/30 15:10:11 dns: resolvedIsActuallyResolver error: resolv.conf doesn't point to systemd-resolved; points to [169.254.169.254]
+2024/08/30 15:10:11 dns: [rc=resolved resolved=not-in-use ret=direct]
+2024/08/30 15:10:11 dns: using "direct" mode
+2024/08/30 15:10:11 dns: using *dns.directManager
+2024/08/30 15:10:11 flushing log.
+2024/08/30 15:10:11 logger closing down
+2024/08/30 15:10:11 safesocket.Listen: /var/run/tailscale/tailscaled.sock: address already in use
+2024/08/30 15:10:26 Start
+2024/08/30 15:10:26 generating new machine key
+2024/08/30 15:10:26 machine key written to store
+2024/08/30 15:10:26 Backend: logs: be:998a406b2b3eaa7f39d7d692440abeb5354855d2d7d32fb1c132d5d6d4af7f9f fe:
+2024/08/30 15:10:26 Switching ipn state NoState -> NeedsLogin (WantRunning=true, nm=false)
+2024/08/30 15:10:26 health(warnable=wantrunning-false): ok
+2024/08/30 15:10:26 blockEngineUpdates(true)
+2024/08/30 15:10:26 control: client.Shutdown ...
+2024/08/30 15:10:26 health(warnable=warming-up): error: Tailscale is starting. Please wait.
+2024/08/30 15:10:26 control: mapRoutine: exiting
+2024/08/30 15:10:26 control: authRoutine: exiting
+2024/08/30 15:10:26 control: updateRoutine: exiting
+2024/08/30 15:10:26 control: Client.Shutdown done.
+2024/08/30 15:10:26 StartLoginInteractive: url=false
+2024/08/30 15:10:26 control: client.Login(2)
+2024/08/30 15:10:26 control: LoginInteractive -> regen=true
+2024/08/30 15:10:26 control: doLogin(regen=true, hasUrl=false)
+2024/08/30 15:10:26 control: control server key from https://controlplane.tailscale.com: ts2021=[fSeS+], legacy=[nlFWp]
+2024/08/30 15:10:26 control: Generating a new nodekey.
+2024/08/30 15:10:26 control: RegisterReq: onode= node=[eDpVw] fup=false nks=false
+2024/08/30 15:10:27 control: RegisterReq: got response; nodeKeyExpired=false, machineAuthorized=false; authURL=true
+2024/08/30 15:10:27 control: AuthURL is https://login.tailscale.com/a/17e9bab01c86a
+2024/08/30 15:10:27 control: doLogin(regen=false, hasUrl=true)
+2024/08/30 15:10:27 control: RegisterReq: onode= node=[eDpVw] fup=true nks=false
+2024/08/30 15:10:27 Received auth URL: https://login.tailsc...
+2024/08/30 15:10:27 popBrowserAuthNow: url=true, key-expired=false, seamless-key-renewal=false
+2024/08/30 15:10:27 blockEngineUpdates(true)
+2024/08/30 15:10:27 stopEngineAndWait...
+2024/08/30 15:10:27 requestEngineStatusAndWait
+2024/08/30 15:10:27 requestEngineStatusAndWait: waiting...
+2024/08/30 15:10:27 requestEngineStatusAndWait: got status update.
+2024/08/30 15:10:27 stopEngineAndWait: done.
+2024/08/30 15:10:31 health(warnable=warming-up): ok
+2024/08/30 15:10:37 control: RegisterReq: got response; nodeKeyExpired=false, machineAuthorized=true; authURL=false
+2024/08/30 15:10:37 blockEngineUpdates(false)
+2024/08/30 15:10:37 health(warnable=not-in-map-poll): ok
+2024/08/30 15:10:37 control: netmap: got new dial plan from control
+2024/08/30 15:10:37 using tailnet default auto-update setting: true
+2024/08/30 15:10:37 EditPrefs: MaskedPrefs{AutoUpdate={Apply=true}}
+2024/08/30 15:10:37 offline auto-update: starting update checks
+2024/08/30 15:10:37 active login: nonlosocraft@gmail.com
+2024/08/30 15:10:37 monitor: gateway and self IP changed: gw=10.88.0.1 self=10.88.0.5
+2024/08/30 15:10:37 Switching ipn state NeedsLogin -> Starting (WantRunning=true, nm=true)
+2024/08/30 15:10:37 magicsock: SetPrivateKey called (init)
+2024/08/30 15:10:37 wgengine: Reconfig: configuring userspace WireGuard config (with 0/16 peers)
+2024/08/30 15:10:37 wgengine: Reconfig: configuring router
+2024/08/30 15:10:38 wgengine: Reconfig: configuring DNS
+2024/08/30 15:10:38 dns: Set: {DefaultResolvers:[] Routes:{tail4bbde.ts.net.:[] ts.net.:[199.247.155.53 2620:111:8007::53]}+65arpa SearchDomains:[tail4bbde.ts.net.] Hosts:17}
+2024/08/30 15:10:38 dns: Resolvercfg: {Routes:{.:[169.254.169.254] ts.net.:[199.247.155.53 2620:111:8007::53]} Hosts:17 LocalDomains:[tail4bbde.ts.net.]+65arpa, cloud="gcp"}
+2024/08/30 15:10:38 dns: OScfg: {Nameservers:[100.100.100.100] SearchDomains:[tail4bbde.ts.net. europe-west1-b.c.t71947723978b23cc-tp.internal. c.t71947723978b23cc-tp.internal. google.internal.] }
+2024/08/30 15:10:38 rename of "/etc/resolv.conf" to "/etc/resolv.pre-tailscale-backup.conf" failed (rename /etc/resolv.conf /etc/resolv.pre-tailscale-backup.conf: device or resource busy), falling back to copy+delete
+2024/08/30 15:10:38 peerapi: serving on http://100.93.66.100:60471
+2024/08/30 15:10:38 peerapi: failed to do peerAPI listen, harmless (netstack available) but error was: listen tcp6 [fd7a:115c:a1e0::6101:4265]:0: bind: cannot assign requested address
+2024/08/30 15:10:38 peerapi: serving on http://[fd7a:115c:a1e0::6101:4265]:1
+2024/08/30 15:10:38 magicsock: home is now derp-18 (par)
+2024/08/30 15:10:38 magicsock: adding connection to derp-18 for home-keep-alive
+2024/08/30 15:10:38 magicsock: 1 active derp conns: derp-18=cr0s,wr0s
+2024/08/30 15:10:38 offline auto-update: stopping update checks
+2024/08/30 15:10:38 Switching ipn state Starting -> Running (WantRunning=true, nm=true)
+2024/08/30 15:10:38 magicsock: endpoints changed: 34.140.55.85:60034 (stun), 10.88.0.5:60034 (local), 172.17.0.1:60034 (local)
+2024/08/30 15:10:38 derphttp.Client.Connect: connecting to derp-18 (par)
+2024/08/30 15:10:38 control: NetInfo: NetInfo{varies=false hairpin= ipv6=false ipv6os=false udp=true icmpv4=false derp=#18 portmap= link="" firewallmode="ipt-default"}
+2024/08/30 15:10:38 magicsock: derp-18 connected; connGen=1
+2024/08/30 15:10:38 health(warnable=no-derp-connection): ok
+2024/08/30 15:10:38 health(warnable=no-derp-home): ok
+2024/08/30 15:12:42 wgengine: idle peer [LuHoY] now active, reconfiguring WireGuard
+2024/08/30 15:12:42 wgengine: Reconfig: configuring userspace WireGuard config (with 1/16 peers)
+2024/08/30 15:12:43 magicsock: disco: node [LuHoY] d:b8ca08c6cecf177d now using 79.23.197.220:41641 mtu=1360 tx=f54f7839a206
+2024/08/30 15:12:56 wgengine: idle peer [3v0Bh] now active, reconfiguring WireGuard
+2024/08/30 15:12:56 wgengine: Reconfig: configuring userspace WireGuard config (with 2/16 peers)
+2024/08/30 15:12:56 magicsock: disco: node [3v0Bh] d:9a0212c79445d745 now using 80.180.166.113:41641 mtu=1360 tx=b2d38237ac2e
+2024/08/30 15:13:25 wgengine: idle peer [er1xB] now active, reconfiguring WireGuard
+2024/08/30 15:13:25 wgengine: Reconfig: configuring userspace WireGuard config (with 3/16 peers)
+2024/08/30 15:13:25 magicsock: disco: node [er1xB] d:fb9286db4eb45e8a now using 2.38.204.230:10979 mtu=1360 tx=513e56f6c953
+2024/08/30 15:13:41 wgengine: idle peer [YXZsI] now active, reconfiguring WireGuard
+2024/08/30 15:13:41 wgengine: Reconfig: configuring userspace WireGuard config (with 4/16 peers)
+2024/08/30 15:13:41 magicsock: disco: node [YXZsI] d:8e98595af1b5d609 now using 87.7.1.38:41641 mtu=1360 tx=68ae018b8a6f
+2024/08/30 15:14:28 wgengine: idle peer [QgTDc] now active, reconfiguring WireGuard
+2024/08/30 15:14:28 wgengine: Reconfig: configuring userspace WireGuard config (with 5/16 peers)
+2024/08/30 15:14:28 wg: [QgTDc] - Failed to send handshake response: no UDP or DERP addr
+2024/08/30 15:14:28 magicsock: disco: node [QgTDc] d:bb788a90f0492616 now using 82.59.14.149:41641 mtu=1360 tx=1e28e9c385bb
+2024/08/30 15:15:05 Received error: PollNetMap: unexpected EOF
+2024/08/30 15:15:06 control: netmap: got new dial plan from control
+2024/08/30 15:15:47 magicsock: adding connection to derp-4 for [YXZsI]
+2024/08/30 15:15:47 magicsock: 2 active derp conns: derp-4=cr0s,wr0s derp-18=cr5m0s,wr1s
+2024/08/30 15:15:47 derphttp.Client.Send: connecting to derp-4 (fra)
+2024/08/30 15:15:47 magicsock: derp-4 connected; connGen=1
+2024/08/30 15:22:15 wgengine: Reconfig: configuring userspace WireGuard config (with 3/16 peers)
+2024/08/30 15:26:53 wgengine: idle peer [YXZsI] now active, reconfiguring WireGuard
+2024/08/30 15:26:53 wgengine: Reconfig: configuring userspace WireGuard config (with 4/16 peers)
+2024/08/30 15:27:52 wgengine: idle peer [QgTDc] now active, reconfiguring WireGuard
+2024/08/30 15:27:52 wgengine: Reconfig: configuring userspace WireGuard config (with 5/16 peers)
+2024/08/30 15:48:27 wgengine: Reconfig: configuring router
+2024/08/30 15:48:27 wgengine: Reconfig: configuring DNS
+2024/08/30 15:48:27 dns: Set: {DefaultResolvers:[] Routes:{tail4bbde.ts.net.:[] ts.net.:[199.247.155.53 2620:111:8007::53]}+65arpa SearchDomains:[tail4bbde.ts.net.] Hosts:18}
+2024/08/30 15:48:27 dns: Resolvercfg: {Routes:{.:[169.254.169.254] ts.net.:[199.247.155.53 2620:111:8007::53]} Hosts:18 LocalDomains:[tail4bbde.ts.net.]+65arpa, cloud="gcp"}
+2024/08/30 15:48:27 dns: OScfg: {Nameservers:[100.100.100.100] SearchDomains:[tail4bbde.ts.net. europe-west1-b.c.t71947723978b23cc-tp.internal. c.t71947723978b23cc-tp.internal. google.internal.] }
+2024/08/30 15:48:27 wgengine: Reconfig: configuring userspace WireGuard config (with 5/17 peers)
+2024/08/30 15:48:27 wgengine: Reconfig: configuring router
+2024/08/30 15:48:27 wgengine: Reconfig: configuring DNS
+2024/08/30 15:48:27 dns: Set: {DefaultResolvers:[] Routes:{tail4bbde.ts.net.:[] ts.net.:[199.247.155.53 2620:111:8007::53]}+65arpa SearchDomains:[tail4bbde.ts.net.] Hosts:18}
+2024/08/30 15:48:27 dns: Resolvercfg: {Routes:{.:[169.254.169.254] ts.net.:[199.247.155.53 2620:111:8007::53]} Hosts:18 LocalDomains:[tail4bbde.ts.net.]+65arpa, cloud="gcp"}
+2024/08/30 15:48:27 dns: OScfg: {Nameservers:[100.100.100.100] SearchDomains:[tail4bbde.ts.net. europe-west1-b.c.t71947723978b23cc-tp.internal. c.t71947723978b23cc-tp.internal. google.internal.] }
+2024/08/30 15:49:03 wgengine: Reconfig: configuring userspace WireGuard config (with 5/17 peers)
+2024/08/30 15:49:28 wgengine: Reconfig: configuring userspace WireGuard config (with 5/17 peers)
+2024/08/30 16:22:55 [unexpected] magicsock: derp-4 does not know about peer [YXZsI], removing route
+2024/08/30 16:23:01 [unexpected] magicsock: derp-4 does not know about peer [YXZsI], removing route
+2024/08/30 16:23:07 [unexpected] magicsock: derp-4 does not know about peer [YXZsI], removing route
+2024/08/30 16:23:13 [unexpected] magicsock: derp-4 does not know about peer [YXZsI], removing route
+2024/08/30 16:23:19 [unexpected] magicsock: derp-4 does not know about peer [YXZsI], removing route
+2024/08/30 16:23:25 [unexpected] magicsock: derp-4 does not know about peer [YXZsI], removing route
+2024/08/30 16:23:31 [unexpected] magicsock: derp-4 does not know about peer [YXZsI], removing route
+2024/08/30 16:55:17 magicsock: closing connection to derp-4 (idle), age 1h39m30s
+2024/08/30 16:55:17 magicsock: 1 active derp conns: derp-18=cr1h45m0s,wr1h40m0s
+2024/08/30 16:56:14 magicsock: adding connection to derp-4 for [er1xB]
+2024/08/30 16:56:14 magicsock: 2 active derp conns: derp-4=cr0s,wr0s derp-18=cr1h46m0s,wr1h40m0s
+2024/08/30 16:56:14 derphttp.Client.Recv: connecting to derp-4 (fra)
+2024/08/30 16:56:14 magicsock: derp-4 connected; connGen=1
+2024/08/30 16:57:14 magicsock: closing connection to derp-4 (idle), age 1m0s
+2024/08/30 16:57:14 magicsock: 1 active derp conns: derp-18=cr1h47m0s,wr1h41m0s
+2024/08/30 16:57:14 magicsock: adding connection to derp-4 for [er1xB]
+2024/08/30 16:57:14 magicsock: 2 active derp conns: derp-4=cr0s,wr0s derp-18=cr1h47m0s,wr1h41m0s
+2024/08/30 16:57:14 derphttp.Client.Recv: connecting to derp-4 (fra)
+2024/08/30 16:57:14 magicsock: derp-4 connected; connGen=1
+2024/08/30 16:58:14 magicsock: closing connection to derp-4 (idle), age 1m0s
+2024/08/30 16:58:14 magicsock: 1 active derp conns: derp-18=cr1h48m0s,wr1h42m0s
+2024/08/30 16:58:14 magicsock: adding connection to derp-4 for [er1xB]
+2024/08/30 16:58:14 magicsock: 2 active derp conns: derp-4=cr0s,wr0s derp-18=cr1h48m0s,wr1h42m0s
+2024/08/30 16:58:14 derphttp.Client.Send: connecting to derp-4 (fra)
+2024/08/30 16:58:14 magicsock: derp-4 connected; connGen=1
+2024/08/30 16:59:14 magicsock: closing connection to derp-4 (idle), age 1m0s
+2024/08/30 16:59:14 magicsock: 1 active derp conns: derp-18=cr1h49m0s,wr1h43m0s
+2024/08/30 16:59:14 magicsock: adding connection to derp-4 for [er1xB]
+2024/08/30 16:59:14 magicsock: 2 active derp conns: derp-4=cr0s,wr0s derp-18=cr1h49m0s,wr1h43m0s
+2024/08/30 16:59:14 derphttp.Client.Send: connecting to derp-4 (fra)
+2024/08/30 16:59:14 magicsock: derp-4 connected; connGen=1
+2024/08/30 17:00:14 magicsock: closing connection to derp-4 (idle), age 1m0s
+2024/08/30 17:00:14 magicsock: 1 active derp conns: derp-18=cr1h50m0s,wr1h44m0s
+2024/08/30 17:00:14 magicsock: adding connection to derp-4 for [er1xB]
+2024/08/30 17:00:14 magicsock: 2 active derp conns: derp-4=cr0s,wr0s derp-18=cr1h50m0s,wr1h44m0s
+2024/08/30 17:00:14 derphttp.Client.Send: connecting to derp-4 (fra)
+2024/08/30 17:00:14 magicsock: derp-4 connected; connGen=1
+2024/08/30 17:01:14 magicsock: closing connection to derp-4 (idle), age 1m0s
+2024/08/30 17:01:14 magicsock: 1 active derp conns: derp-18=cr1h51m0s,wr1h45m0s
+2024/08/30 17:01:14 magicsock: adding connection to derp-4 for [er1xB]
+2024/08/30 17:01:14 magicsock: 2 active derp conns: derp-4=cr0s,wr0s derp-18=cr1h51m0s,wr1h45m0s
+2024/08/30 17:01:14 derphttp.Client.Send: connecting to derp-4 (fra)
+2024/08/30 17:01:14 magicsock: derp-4 connected; connGen=1
+2024/08/30 17:02:14 magicsock: closing connection to derp-4 (idle), age 1m0s
+2024/08/30 17:02:14 magicsock: 1 active derp conns: derp-18=cr1h52m0s,wr1h46m0s
+2024/08/30 17:02:14 magicsock: adding connection to derp-4 for [er1xB]
+2024/08/30 17:02:14 magicsock: 2 active derp conns: derp-4=cr0s,wr0s derp-18=cr1h52m0s,wr1h46m0s
+2024/08/30 17:02:14 derphttp.Client.Send: connecting to derp-4 (fra)
+2024/08/30 17:02:14 magicsock: derp-4 connected; connGen=1
+2024/08/30 17:03:14 magicsock: closing connection to derp-4 (idle), age 1m0s
+2024/08/30 17:03:14 magicsock: 1 active derp conns: derp-18=cr1h53m0s,wr1h47m0s
+2024/08/30 17:03:14 magicsock: adding connection to derp-4 for [er1xB]
+2024/08/30 17:03:14 magicsock: 2 active derp conns: derp-4=cr0s,wr0s derp-18=cr1h53m0s,wr1h47m0s
+2024/08/30 17:03:14 derphttp.Client.Send: connecting to derp-4 (fra)
+2024/08/30 17:03:14 magicsock: derp-4 connected; connGen=1
+2024/08/30 17:04:14 magicsock: closing connection to derp-4 (idle), age 1m0s
+2024/08/30 17:04:14 magicsock: 1 active derp conns: derp-18=cr1h54m0s,wr1h48m0s
+2024/08/30 17:04:14 magicsock: adding connection to derp-4 for [er1xB]
+2024/08/30 17:04:14 magicsock: 2 active derp conns: derp-4=cr0s,wr0s derp-18=cr1h54m0s,wr1h48m0s
+2024/08/30 17:04:14 derphttp.Client.Recv: connecting to derp-4 (fra)
+2024/08/30 17:04:14 magicsock: derp-4 connected; connGen=1
+2024/08/30 17:05:14 magicsock: closing connection to derp-4 (idle), age 1m0s
+2024/08/30 17:05:14 magicsock: 1 active derp conns: derp-18=cr1h55m0s,wr1h49m0s
+2024/08/30 17:05:14 magicsock: adding connection to derp-4 for [er1xB]
+2024/08/30 17:05:14 magicsock: 2 active derp conns: derp-4=cr0s,wr0s derp-18=cr1h55m0s,wr1h49m0s
+2024/08/30 17:05:14 derphttp.Client.Send: connecting to derp-4 (fra)
+2024/08/30 17:05:14 magicsock: derp-4 connected; connGen=1
+2024/08/30 17:06:14 magicsock: closing connection to derp-4 (idle), age 1m0s
+2024/08/30 17:06:14 magicsock: 1 active derp conns: derp-18=cr1h56m0s,wr1h50m0s
+2024/08/30 17:06:14 magicsock: adding connection to derp-4 for [er1xB]
+2024/08/30 17:06:14 magicsock: 2 active derp conns: derp-4=cr0s,wr0s derp-18=cr1h56m0s,wr1h50m0s
+2024/08/30 17:06:14 derphttp.Client.Send: connecting to derp-4 (fra)
+2024/08/30 17:06:14 magicsock: derp-4 connected; connGen=1
+2024/08/30 17:07:14 magicsock: closing connection to derp-4 (idle), age 1m0s
+2024/08/30 17:07:14 magicsock: 1 active derp conns: derp-18=cr1h57m0s,wr1h51m0s
+2024/08/30 17:07:14 magicsock: adding connection to derp-4 for [er1xB]
+2024/08/30 17:07:14 magicsock: 2 active derp conns: derp-4=cr0s,wr0s derp-18=cr1h57m0s,wr1h51m0s
+2024/08/30 17:07:14 derphttp.Client.Send: connecting to derp-4 (fra)
+2024/08/30 17:07:14 magicsock: derp-4 connected; connGen=1
+2024/08/30 17:08:14 magicsock: closing connection to derp-4 (idle), age 1m0s
+2024/08/30 17:08:14 magicsock: 1 active derp conns: derp-18=cr1h58m0s,wr1h52m0s
+2024/08/30 17:08:14 magicsock: adding connection to derp-4 for [er1xB]
+2024/08/30 17:08:14 magicsock: 2 active derp conns: derp-4=cr0s,wr0s derp-18=cr1h58m0s,wr1h52m0s
+2024/08/30 17:08:14 derphttp.Client.Recv: connecting to derp-4 (fra)
+2024/08/30 17:08:14 magicsock: derp-4 connected; connGen=1
+2024/08/30 17:09:14 magicsock: closing connection to derp-4 (idle), age 1m0s
+2024/08/30 17:09:14 magicsock: 1 active derp conns: derp-18=cr1h59m0s,wr1h53m0s
+2024/08/30 17:09:14 magicsock: adding connection to derp-4 for [er1xB]
+2024/08/30 17:09:14 magicsock: 2 active derp conns: derp-4=cr0s,wr0s derp-18=cr1h59m0s,wr1h53m0s
+2024/08/30 17:09:14 derphttp.Client.Recv: connecting to derp-4 (fra)
+2024/08/30 17:09:14 magicsock: derp-4 connected; connGen=1
+2024/08/30 17:09:36 [unexpected] magicsock: derp-4 does not know about peer [3v0Bh], removing route
+2024/08/30 18:00:37 [unexpected] magicsock: derp-4 does not know about peer [LuHoY], removing route
+2024/08/30 18:00:43 [unexpected] magicsock: derp-4 does not know about peer [LuHoY], removing route
+2024/08/30 18:09:29 magicsock: closing connection to derp-4 (idle), age 1h0m15s
+2024/08/30 18:09:29 magicsock: 1 active derp conns: derp-18=cr2h59m0s,wr2h54m0s

@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 100.117.23.48
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1725036168519
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1725036601022
+  login: 1725032598308
+money: '0'
+last-account-name: ItzMarc233it
+lastlocation:
+  world: 1b5eb061-fa2e-429f-934b-77cb90b2bb83
+  world-name: world_nether
+  x: 180.3398072036277
+  y: 77.16499999441207
+  z: 240.31897444673064
+  yaw: 165.6214599609375
+  pitch: 45.75004959106445
+logoutlocation:
+  world: 4ea0fbb7-6a7c-40ed-a765-628fcb1c7cbd
+  world-name: Spawn
+  x: 4.002323099177118
+  y: -3.2935121395305744
+  z: 79.32733766627275
+  yaw: -114.7430191040039
+  pitch: 51.96076965332031
+homes:
+  home:
+    world: 6a5c0b84-fc1c-41d0-bed9-0c6108219ecc
+    world-name: world
+    x: 1291.8036824099122
+    y: 60.0
+    z: 2918.566721233923
+    yaw: -119.4346923828125
+    pitch: 18.000633239746094
