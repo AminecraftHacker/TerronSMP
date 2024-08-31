@@ -163,8 +163,8 @@ feature:
   random-bounty:
     enabled: true
     rewardType: MONEY
-    reward: 10000
-    per-second: 3600
+    reward: 1000
+    per-second: 14400
     player-value: CONSOLE
   bountyfinder:
     no-bounty-nearby: '&cNon ci sono taglie nella vicinanza'

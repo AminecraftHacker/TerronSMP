@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 100.75.193.28
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1725118995176
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1725122162790
+  login: 1725121992966
+money: '0'
+last-account-name: verdojk
+lastlocation:
+  world: 4ea0fbb7-6a7c-40ed-a765-628fcb1c7cbd
+  world-name: Spawn
+  x: -4.594168727925173
+  y: 3.0
+  z: -4.811422411199738
+  yaw: 170.55718994140625
+  pitch: 62.16080856323242
+logoutlocation:
+  world: 6a5c0b84-fc1c-41d0-bed9-0c6108219ecc
+  world-name: world
+  x: 1764.6586623099167
+  y: 69.0
+  z: 3227.3960224020157
+  yaw: -170.90826416015625
+  pitch: 63.149986267089844

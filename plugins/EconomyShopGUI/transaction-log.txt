@@ -34,3 +34,66 @@
 [2024-08-30 17:06:41] - AverageMovie105 sold 64 x Dripstone Block(Blocks.page1.items.2) for $16 with the sell screen.
 [2024-08-30 17:56:43] - kalakko sold 1 x Bell(Miscellaneous.page1.items.3) for $250 with the sell screen.
 [2024-08-30 17:58:14] - kalakko sold 2 x Bell(Miscellaneous.page1.items.3) for $500 with the sell screen.
+[2024-08-31 14:10:11] - ItzMarc233it bought 1 x Gold Ingot(Ores.page1.items.14) for $16.54 with the buy screen.
+[2024-08-31 14:15:33] - ItzMarc233it bought 1 x Shulker Shell(Miscellaneous.page1.items.29) for $14 with the buy screen.
+[2024-08-31 14:15:33] - ItzMarc233it bought 1 x Shulker Shell(Miscellaneous.page1.items.29) for $14 with the buy screen.
+[2024-08-31 14:16:03] - delinead bought 2 x Shulker Shell(Miscellaneous.page1.items.29) for $28 with the buy screen.
+[2024-08-31 14:48:17] - AverageMovie105 bought 2 x Smoker(Workstations.page1.items.11) for $74.40 with the buy screen.
+[2024-08-31 15:12:58] - bohea56 bought 1 x Shulker Shell(Miscellaneous.page1.items.29) for $14 with the buy screen.
+[2024-08-31 15:13:00] - bohea56 bought 1 x Shulker Shell(Miscellaneous.page1.items.29) for $14 with the buy screen.
+[2024-08-31 15:13:01] - bohea56 bought 1 x Shulker Shell(Miscellaneous.page1.items.29) for $14 with the buy screen.
+[2024-08-31 15:13:01] - bohea56 bought 1 x Shulker Shell(Miscellaneous.page1.items.29) for $14 with the buy screen.
+[2024-08-31 15:13:02] - bohea56 bought 1 x Shulker Shell(Miscellaneous.page1.items.29) for $14 with the buy screen.
+[2024-08-31 15:13:03] - bohea56 bought 1 x Shulker Shell(Miscellaneous.page1.items.29) for $14 with the buy screen.
+[2024-08-31 15:13:03] - bohea56 bought 1 x Shulker Shell(Miscellaneous.page1.items.29) for $14 with the buy screen.
+[2024-08-31 15:13:03] - bohea56 bought 1 x Shulker Shell(Miscellaneous.page1.items.29) for $14 with the buy screen.
+[2024-08-31 15:13:05] - bohea56 bought 1 x Shulker Shell(Miscellaneous.page1.items.29) for $14 with the buy screen.
+[2024-08-31 15:13:05] - bohea56 bought 1 x Shulker Shell(Miscellaneous.page1.items.29) for $14 with the buy screen.
+[2024-08-31 15:16:50] - AverageMovie105 sold 64 x Cobblestone(Blocks.page1.items.51) for $10.88 with the sell screen.
+[2024-08-31 15:16:51] - AverageMovie105 sold 64 x Cobblestone(Blocks.page1.items.51) for $10.88 with the sell screen.
+[2024-08-31 15:16:58] - AverageMovie105 sold 32 x Cobblestone(Blocks.page1.items.51) for $5.44 with the sell screen.
+[2024-08-31 15:17:46] - AverageMovie105 sold 49 x Tuff(Blocks.page4.items.188) for $24.50 with the sell screen.
+[2024-08-31 15:18:17] - AverageMovie105 sold 10 x White Wool(Blocks.page6.items.261) for $73.50 with the sell screen.
+[2024-08-31 15:19:52] - ItzMarc233it bought 1 x Copper Ingot(Ores.page1.items.7) for $1.84 with the buy screen.
+[2024-08-31 15:19:59] - ItzMarc233it sold 148 x Copper Ingot(Ores.page1.items.7) for $34.04 with the quick sell screen.
+[2024-08-31 15:20:23] - AverageMovie105 sold 9 x Rotten Flesh(Mobs.page1.items.17) for $11.25 with the sell screen.
+[2024-08-31 15:23:08] - AverageMovie105 sold 49 x Redstone(Ores.page1.items.23) for $43.12 with the sell screen.
+[2024-08-31 15:36:55] - Cicciobomba_9 sold 1 x Bell(Miscellaneous.page1.items.3) for $250 with the sell screen.
+[2024-08-31 15:39:02] - verdojk sold 1 x Dirt(Blocks.page3.items.109) for $0.75 with the sell screen.
+[2024-08-31 15:39:02] - delinead bought 17 x Cooked Beef(Food.page1.items.11) for $214.20 with the buy screen.
+[2024-08-31 15:39:02] - verdojk sold 1 x Dirt(Blocks.page3.items.109) for $0.75 with the sell screen.
+[2024-08-31 15:39:37] - ItzMarc233it bought 1 x Red Dye(Dyes.page1.items.14) for $2.10 with the buy screen.
+[2024-08-31 15:39:38] - ItzMarc233it bought 1 x Red Dye(Dyes.page1.items.14) for $2.10 with the buy screen.
+[2024-08-31 15:40:57] - ANDREA1720 bought 64 x Sugar Cane(Farming.page1.items.25) for $12.80 with the buy screen.
+[2024-08-31 15:45:36] - ANDREA1720 bought 16 x Sugar Cane(Farming.page1.items.25) for $3.20 with the buy screen.
+[2024-08-31 15:54:48] - bohea56 sold 40 x Copper Ingot(Ores.page1.items.7) for $9.20 with the sell screen.
+[2024-08-31 16:01:23] - AverageMovie105 sold 296 x Oak Planks(Blocks.page5.items.231) for $82.88 with the sell screen.
+[2024-08-31 16:01:52] - AverageMovie105 sold 448 x Oak Planks(Blocks.page5.items.231) for $125.44 with the sell screen.
+[2024-08-31 16:02:07] - AverageMovie105 sold 256 x Oak Planks(Blocks.page5.items.231) for $71.68 with the sell screen.
+[2024-08-31 16:02:31] - AverageMovie105 sold 4 x Magma Block(Blocks.page1.items.5) for $33.64 with the sell screen.
+[2024-08-31 16:02:37] - ANDREA1720 bought 8 x Sugar Cane(Farming.page1.items.25) for $1.60 with the buy screen.
+[2024-08-31 16:06:36] - AverageMovie105 sold 848 x Glass Pane(Blocks.page3.items.120) for $534.24 with the sell screen.
+[2024-08-31 16:06:44] - AverageMovie105 sold 2 x Glass(Blocks.page3.items.119) for $3.16 with the sell screen.
+[2024-08-31 16:07:23] - AverageMovie105 sold 40 x Red Dye(Dyes.page1.items.14) for $10.80 with the sell screen.
+[2024-08-31 16:13:47] - AverageMovie105 bought 1 x Gravel(Blocks.page3.items.111) for $16 with the buy screen.
+[2024-08-31 16:35:45] - AverageMovie105 bought 1 x Enchanted Book(Enchanting.page1.items.23) for $320 with the buy screen.
+[2024-08-31 16:35:50] - AverageMovie105 bought 1 x Enchanted Book(Enchanting.page1.items.14) for $1,411.20 with the buy screen.
+[2024-08-31 16:36:45] - AverageMovie105 bought 2 x Enchanted Book(Enchanting.page1.items.23) for $640 with the buy screen.
+[2024-08-31 16:54:29] - ANDREA1720 bought 4 x Shulker Shell(Miscellaneous.page1.items.29) for $56 with the buy screen.
+[2024-08-31 16:57:51] - AverageMovie105 sold 70 x Amethyst Block(Ores.page1.items.1) for $96.60 with the sell screen.
+[2024-08-31 17:00:59] - AverageMovie105 sold 128 x Soul Sand(Blocks.page1.items.10) for $320 with the sell screen.
+[2024-08-31 17:06:34] - AverageMovie105 sold 384 x Soul Sand(Blocks.page1.items.10) for $960 with the sell screen.
+[2024-08-31 17:12:13] - AverageMovie105 sold 355 x Soul Sand(Blocks.page1.items.10) for $887.50 with the sell screen.
+[2024-08-31 17:15:18] - AverageMovie105 bought 2 x Enchanted Book(Enchanting.page1.items.28) for $1,852.20 with the buy screen.
+[2024-08-31 17:15:30] - AverageMovie105 bought 1 x Enchanted Book(Enchanting.page1.items.11) for $672 with the buy screen.
+[2024-08-31 17:22:53] - ANDREA1720 bought 1 x Enchanted Book(Enchanting.page1.items.9) for $1,944.82 with the buy screen.
+[2024-08-31 17:26:59] - AverageMovie105 sold 382 x Soul Sand(Blocks.page1.items.10) for $955 with the sell screen.
+[2024-08-31 17:30:37] - AverageMovie105 sold 142 x Soul Sand(Blocks.page1.items.10) for $355 with the sell screen.
+[2024-08-31 17:34:16] - AverageMovie105 sold 234 x White Dye(Dyes.page1.items.15) for $95.93 with the sell screen.
+[2024-08-31 17:40:22] - AverageMovie105 sold 129 x Quartz(Ores.page1.items.21) for $267.03 with the sell screen.
+[2024-08-31 17:42:19] - ANDREA1720 bought 2 x Shulker Shell(Miscellaneous.page1.items.29) for $28 with the buy screen.
+[2024-08-31 17:44:00] - AverageMovie105 sold 336 x Soul Sand(Blocks.page1.items.10) for $840 with the sell screen.
+[2024-08-31 17:45:19] - AverageMovie105 sold 353 x Soul Sand(Blocks.page1.items.10) for $882.50 with the sell screen.
+[2024-08-31 17:47:10] - AverageMovie105 sold 339 x Soul Sand(Blocks.page1.items.10) for $847.50 with the sell screen.
+[2024-08-31 17:49:29] - AverageMovie105 sold 320 x Soul Sand(Blocks.page1.items.10) for $800 with the sell screen.
+[2024-08-31 17:50:33] - AverageMovie105 sold 320 x Soul Sand(Blocks.page1.items.10) for $800 with the sell screen.

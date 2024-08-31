@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 100.107.25.125
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1725121194647
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1725124149697
+  login: 1725123404710
+money: '0'
+last-account-name: bohea56
+lastlocation:
+  world: 6a5c0b84-fc1c-41d0-bed9-0c6108219ecc
+  world-name: world
+  x: 1762.862017299616
+  y: 69.0
+  z: 3217.220964416085
+  yaw: 112.98672485351562
+  pitch: 46.25680160522461
+logoutlocation:
+  world: 4ea0fbb7-6a7c-40ed-a765-628fcb1c7cbd
+  world-name: Spawn
+  x: 6.858501971452289
+  y: 1.0
+  z: 6.004238733883132
+  yaw: 7.248101711273193
+  pitch: 19.435714721679688
+homes:
+  home:
+    world: 6a5c0b84-fc1c-41d0-bed9-0c6108219ecc
+    world-name: world
+    x: 1930.699999988079
+    y: 69.0
+    z: 2687.300000011921
+    yaw: 82.51791381835938
+    pitch: 65.91683959960938
