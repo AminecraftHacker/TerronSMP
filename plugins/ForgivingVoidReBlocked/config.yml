@@ -1,0 +1,6 @@
+teleportYLevel: 300
+teleportOnlyPlayers: true
+allowedWorlds:
+- spawn
+applyEffects: true
+effectDuration: 20

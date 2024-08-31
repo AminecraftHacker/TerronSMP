@@ -1,0 +1,15 @@
+{
+  "drug": "KETAMINE",
+  "type": "SHAPED",
+  "recipe": {
+    "1": "SNOWBALL",
+    "2": "SNOWBALL",
+    "3": "SNOWBALL",
+    "4": "SNOWBALL",
+    "5": "LAVA_BUCKET",
+    "6": "SNOWBALL",
+    "7": "SNOWBALL",
+    "8": "SNOWBALL",
+    "9": "SNOWBALL"
+  }
+}

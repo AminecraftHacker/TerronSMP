@@ -1,0 +1,32 @@
+{
+  "name": "METH",
+  "displayname": "§b§lMETH",
+  "effects": [
+    {
+      "type": "ABSORPTION",
+      "time": 90,
+      "intensity": 1
+    },
+    {
+      "type": "DAMAGE_RESISTANCE",
+      "time": 90,
+      "intensity": 1
+    },
+    {
+      "type": "FIRE_RESISTANCE",
+      "time": 90,
+      "intensity": 1
+    },
+    {
+      "type": "LEVITATION",
+      "time": 90,
+      "intensity": 1
+    }
+  ],
+  "item": "PRISMARINE_SHARD",
+  "permission": "drugs.use.meth",
+  "addictionLevel": 0.3,
+  "craftingpermission": "drugs.craft.meth",
+  "sellPrice": 500.0,
+  "buyPrice": 1000.0
+}

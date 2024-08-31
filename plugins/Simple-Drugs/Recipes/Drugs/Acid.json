@@ -1,0 +1,15 @@
+{
+  "drug": "ACID",
+  "type": "SHAPED",
+  "recipe": {
+    "1": "SPIDER_EYE",
+    "2": "PAPER",
+    "3": "SPIDER_EYE",
+    "4": "PAPER",
+    "5": "WATER_BUCKET",
+    "6": "PAPER",
+    "7": "SPIDER_EYE",
+    "8": "PAPER",
+    "9": "SPIDER_EYE"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "name": "SALVIA",
+  "displayname": "§2§lSALVIA",
+  "effects": [
+    {
+      "type": "NIGHT_VISION",
+      "time": 90,
+      "intensity": 1
+    },
+    {
+      "type": "REGENERATION",
+      "time": 90,
+      "intensity": 1
+    },
+    {
+      "type": "WEAKNESS",
+      "time": 90,
+      "intensity": 1
+    },
+    {
+      "type": "GLOWING",
+      "time": 90,
+      "intensity": 1
+    }
+  ],
+  "item": "DRIED_KELP",
+  "permission": "drugs.use.salvia",
+  "addictionLevel": 0.2,
+  "craftingpermission": "drugs.craft.salvia",
+  "sellPrice": 500.0,
+  "buyPrice": 1000.0
+}

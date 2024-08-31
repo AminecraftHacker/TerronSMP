@@ -1,0 +1,20 @@
+{
+  "drug": "MOLLY",
+  "type": "SHAPELESS",
+  "recipe": {
+    "items": [
+      "IRON_NUGGET",
+      "IRON_NUGGET",
+      "IRON_NUGGET",
+      "GLOWSTONE_DUST"
+    ]
+  },
+  "seed-item": {
+    "displayname": "§b§lMOLLY Seeds",
+    "material": "WHEAT_SEEDS",
+    "lore": [
+      "§7- §ePlant these to make a §2§oMOLLY Plant"
+    ]
+  },
+  "harvest-amount": 1
+}

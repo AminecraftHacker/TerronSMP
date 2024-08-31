@@ -1,0 +1,27 @@
+{
+  "name": "PCP",
+  "displayname": "§5§lPCP",
+  "effects": [
+    {
+      "type": "DAMAGE_RESISTANCE",
+      "time": 90,
+      "intensity": 1
+    },
+    {
+      "type": "BAD_OMEN",
+      "time": 90,
+      "intensity": 1
+    },
+    {
+      "type": "CONFUSION",
+      "time": 90,
+      "intensity": 1
+    }
+  ],
+  "item": "SPORE_BLOSSOM",
+  "permission": "drugs.use.pcp",
+  "addictionLevel": 0.6,
+  "craftingpermission": "drugs.craft.pcp",
+  "sellPrice": 500.0,
+  "buyPrice": 1000.0
+}

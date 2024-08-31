@@ -1,0 +1,32 @@
+{
+  "name": "HEROIN",
+  "displayname": "§4§lHEROIN",
+  "effects": [
+    {
+      "type": "WEAKNESS",
+      "time": 90,
+      "intensity": 1
+    },
+    {
+      "type": "SLOW",
+      "time": 90,
+      "intensity": 1
+    },
+    {
+      "type": "UNLUCK",
+      "time": 90,
+      "intensity": 1
+    },
+    {
+      "type": "POISON",
+      "time": 90,
+      "intensity": 1
+    }
+  ],
+  "item": "WITHER_ROSE",
+  "permission": "drugs.use.heroin",
+  "addictionLevel": 0.8,
+  "craftingpermission": "drugs.craft.heroin",
+  "sellPrice": 500.0,
+  "buyPrice": 1000.0
+}

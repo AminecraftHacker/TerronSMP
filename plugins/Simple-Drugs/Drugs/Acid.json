@@ -1,0 +1,32 @@
+{
+  "name": "ACID",
+  "displayname": "§b§lACID",
+  "effects": [
+    {
+      "type": "CONFUSION",
+      "time": 90,
+      "intensity": 1
+    },
+    {
+      "type": "NIGHT_VISION",
+      "time": 90,
+      "intensity": 1
+    },
+    {
+      "type": "HEALTH_BOOST",
+      "time": 90,
+      "intensity": 1
+    },
+    {
+      "type": "SLOW_FALLING",
+      "time": 90,
+      "intensity": 1
+    }
+  ],
+  "item": "PAPER",
+  "permission": "drugs.use.acid",
+  "addictionLevel": 0.4,
+  "craftingpermission": "drugs.craft.acid",
+  "sellPrice": 500.0,
+  "buyPrice": 1000.0
+}

@@ -1,0 +1,19 @@
+{
+  "drug": "KETAMINE",
+  "type": "SHAPELESS",
+  "recipe": {
+    "items": [
+      "POWDER_SNOW_BUCKET",
+      "POWDER_SNOW_BUCKET",
+      "GLOWSTONE_DUST"
+    ]
+  },
+  "seed-item": {
+    "displayname": "§4§lKETAMINE Seeds",
+    "material": "WHEAT_SEEDS",
+    "lore": [
+      "§7- §ePlant these to make a §2§oKETAMINE Plant"
+    ]
+  },
+  "harvest-amount": 1
+}

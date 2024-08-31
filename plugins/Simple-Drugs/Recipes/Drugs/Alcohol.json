@@ -1,0 +1,15 @@
+{
+  "drug": "ALCOHOL",
+  "type": "SHAPED",
+  "recipe": {
+    "1": "AIR",
+    "2": "PAPER",
+    "3": "AIR",
+    "4": "GUNPOWDER",
+    "5": "GUNPOWDER",
+    "6": "GUNPOWDER",
+    "7": "WATER_BUCKET",
+    "8": "WATER_BUCKET",
+    "9": "WATER_BUCKET"
+  }
+}

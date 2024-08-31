@@ -1,0 +1,15 @@
+{
+  "drug": "METH",
+  "type": "SHAPED",
+  "recipe": {
+    "1": "AIR",
+    "2": "DIRT",
+    "3": "AIR",
+    "4": "AIR",
+    "5": "PAPER",
+    "6": "AIR",
+    "7": "AIR",
+    "8": "GUNPOWDER",
+    "9": "AIR"
+  }
+}

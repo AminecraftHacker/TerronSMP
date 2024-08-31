@@ -1,0 +1,20 @@
+{
+  "drug": "SHROOMS",
+  "type": "SHAPELESS",
+  "recipe": {
+    "items": [
+      "BROWN_MUSHROOM",
+      "BROWN_MUSHROOM",
+      "BROWN_MUSHROOM",
+      "GLOWSTONE_DUST"
+    ]
+  },
+  "seed-item": {
+    "displayname": "§7§lSHROOMS Seeds",
+    "material": "WHEAT_SEEDS",
+    "lore": [
+      "§7- §ePlant these to make a §2§oSHROOMS Plant"
+    ]
+  },
+  "harvest-amount": 1
+}

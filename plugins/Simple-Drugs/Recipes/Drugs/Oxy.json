@@ -1,0 +1,15 @@
+{
+  "drug": "OXY",
+  "type": "SHAPED",
+  "recipe": {
+    "1": "WHITE_WOOL",
+    "2": "WHITE_WOOL",
+    "3": "WHITE_WOOL",
+    "4": "WATER_BUCKET",
+    "5": "AIR",
+    "6": "WATER_BUCKET",
+    "7": "AIR",
+    "8": "LAVA_BUCKET",
+    "9": "AIR"
+  }
+}

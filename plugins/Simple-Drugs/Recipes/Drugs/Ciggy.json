@@ -1,0 +1,15 @@
+{
+  "drug": "CIGGY",
+  "type": "SHAPED",
+  "recipe": {
+    "1": "AIR",
+    "2": "GUNPOWDER",
+    "3": "AIR",
+    "4": "PAPER",
+    "5": "STICK",
+    "6": "PAPER",
+    "7": "PAPER",
+    "8": "PAPER",
+    "9": "PAPER"
+  }
+}

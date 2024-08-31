@@ -1,0 +1,37 @@
+{
+  "name": "KETAMINE",
+  "displayname": "§4§lKETAMINE",
+  "effects": [
+    {
+      "type": "NIGHT_VISION",
+      "time": 90,
+      "intensity": 1
+    },
+    {
+      "type": "SPEED",
+      "time": 90,
+      "intensity": 1
+    },
+    {
+      "type": "FAST_DIGGING",
+      "time": 90,
+      "intensity": 1
+    },
+    {
+      "type": "CONFUSION",
+      "time": 90,
+      "intensity": 1
+    },
+    {
+      "type": "SLOW_FALLING",
+      "time": 90,
+      "intensity": 1
+    }
+  ],
+  "item": "POWDER_SNOW_BUCKET",
+  "permission": "drugs.use.ketamine",
+  "addictionLevel": 0.3,
+  "craftingpermission": "drugs.craft.ketamine",
+  "sellPrice": 500.0,
+  "buyPrice": 1000.0
+}

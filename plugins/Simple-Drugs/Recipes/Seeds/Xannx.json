@@ -1,0 +1,20 @@
+{
+  "drug": "XANNX",
+  "type": "SHAPELESS",
+  "recipe": {
+    "items": [
+      "GREEN_CANDLE",
+      "GREEN_CANDLE",
+      "GREEN_CANDLE",
+      "GLOWSTONE_DUST"
+    ]
+  },
+  "seed-item": {
+    "displayname": "§2§lXANAX Seeds",
+    "material": "WHEAT_SEEDS",
+    "lore": [
+      "§7- §ePlant these to make a §2§oXANNX Plant"
+    ]
+  },
+  "harvest-amount": 1
+}

@@ -1,0 +1,32 @@
+{
+  "name": "OXY",
+  "displayname": "§b§lOXY",
+  "effects": [
+    {
+      "type": "ABSORPTION",
+      "time": 90,
+      "intensity": 1
+    },
+    {
+      "type": "DAMAGE_RESISTANCE",
+      "time": 90,
+      "intensity": 1
+    },
+    {
+      "type": "CONFUSION",
+      "time": 90,
+      "intensity": 1
+    },
+    {
+      "type": "GLOWING",
+      "time": 90,
+      "intensity": 1
+    }
+  ],
+  "item": "WHITE_DYE",
+  "permission": "drugs.use.oxy",
+  "addictionLevel": 0.2,
+  "craftingpermission": "drugs.craft.oxy",
+  "sellPrice": 500.0,
+  "buyPrice": 1000.0
+}

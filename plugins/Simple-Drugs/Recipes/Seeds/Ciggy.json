@@ -1,0 +1,20 @@
+{
+  "drug": "CIGGY",
+  "type": "SHAPELESS",
+  "recipe": {
+    "items": [
+      "REDSTONE_TORCH",
+      "REDSTONE_TORCH",
+      "REDSTONE_TORCH",
+      "GLOWSTONE_DUST"
+    ]
+  },
+  "seed-item": {
+    "displayname": "§6§lCIGGY Seeds",
+    "material": "WHEAT_SEEDS",
+    "lore": [
+      "§7- §ePlant these to make a §2§oCIGGY Plant"
+    ]
+  },
+  "harvest-amount": 1
+}

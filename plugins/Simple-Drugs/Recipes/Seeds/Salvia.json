@@ -1,0 +1,20 @@
+{
+  "drug": "SALVIA",
+  "type": "SHAPELESS",
+  "recipe": {
+    "items": [
+      "DRIED_KELP",
+      "DRIED_KELP",
+      "DRIED_KELP",
+      "GLOWSTONE_DUST"
+    ]
+  },
+  "seed-item": {
+    "displayname": "§2§lSALVIA Seeds",
+    "material": "WHEAT_SEEDS",
+    "lore": [
+      "§7- §ePlant these to make a §2§oSALVIA Plant"
+    ]
+  },
+  "harvest-amount": 1
+}

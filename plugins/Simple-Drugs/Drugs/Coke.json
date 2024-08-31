@@ -1,0 +1,32 @@
+{
+  "name": "COKE",
+  "displayname": "§b§lCOKE",
+  "effects": [
+    {
+      "type": "INCREASE_DAMAGE",
+      "time": 90,
+      "intensity": 1
+    },
+    {
+      "type": "FAST_DIGGING",
+      "time": 90,
+      "intensity": 1
+    },
+    {
+      "type": "HEALTH_BOOST",
+      "time": 90,
+      "intensity": 1
+    },
+    {
+      "type": "DAMAGE_RESISTANCE",
+      "time": 90,
+      "intensity": 1
+    }
+  ],
+  "item": "SUGAR",
+  "permission": "drugs.use.coke",
+  "addictionLevel": 0.5,
+  "craftingpermission": "drugs.craft.coke",
+  "sellPrice": 500.0,
+  "buyPrice": 1000.0
+}

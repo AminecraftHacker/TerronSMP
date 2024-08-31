@@ -1,0 +1,32 @@
+{
+  "name": "FLAKKA",
+  "displayname": "§e§lFLAKKA",
+  "effects": [
+    {
+      "type": "SPEED",
+      "time": 90,
+      "intensity": 1
+    },
+    {
+      "type": "DAMAGE_RESISTANCE",
+      "time": 90,
+      "intensity": 1
+    },
+    {
+      "type": "UNLUCK",
+      "time": 90,
+      "intensity": 1
+    },
+    {
+      "type": "DOLPHINS_GRACE",
+      "time": 90,
+      "intensity": 1
+    }
+  ],
+  "item": "QUARTZ",
+  "permission": "drugs.use.flakka",
+  "addictionLevel": 0.4,
+  "craftingpermission": "drugs.craft.flakka",
+  "sellPrice": 500.0,
+  "buyPrice": 1000.0
+}

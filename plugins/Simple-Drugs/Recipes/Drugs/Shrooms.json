@@ -1,0 +1,15 @@
+{
+  "drug": "SHROOMS",
+  "type": "SHAPED",
+  "recipe": {
+    "1": "DIRT",
+    "2": "DIRT",
+    "3": "DIRT",
+    "4": "STICK",
+    "5": "AIR",
+    "6": "STICK",
+    "7": "AIR",
+    "8": "BROWN_MUSHROOM",
+    "9": "AIR"
+  }
+}

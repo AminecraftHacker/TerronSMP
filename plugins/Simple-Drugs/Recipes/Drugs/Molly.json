@@ -1,0 +1,15 @@
+{
+  "drug": "MOLLY",
+  "type": "SHAPED",
+  "recipe": {
+    "1": "IRON_INGOT",
+    "2": "IRON_INGOT",
+    "3": "IRON_INGOT",
+    "4": "GUNPOWDER",
+    "5": "WATER_BUCKET",
+    "6": "GUNPOWDER",
+    "7": "IRON_INGOT",
+    "8": "IRON_INGOT",
+    "9": "IRON_INGOT"
+  }
+}

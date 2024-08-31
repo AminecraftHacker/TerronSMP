@@ -1,0 +1,15 @@
+{
+  "drug": "PERCOCET",
+  "type": "SHAPED",
+  "recipe": {
+    "1": "ARROW",
+    "2": "ARROW",
+    "3": "ARROW",
+    "4": "MILK_BUCKET",
+    "5": "WHITE_DYE",
+    "6": "MILK_BUCKET",
+    "7": "MILK_BUCKET",
+    "8": "MILK_BUCKET",
+    "9": "MILK_BUCKET"
+  }
+}

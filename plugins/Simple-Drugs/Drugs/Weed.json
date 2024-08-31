@@ -1,0 +1,32 @@
+{
+  "name": "WEED",
+  "displayname": "§2§lWeed",
+  "effects": [
+    {
+      "type": "SLOW",
+      "time": 90,
+      "intensity": 1
+    },
+    {
+      "type": "LUCK",
+      "time": 90,
+      "intensity": 1
+    },
+    {
+      "type": "SLOW_FALLING",
+      "time": 90,
+      "intensity": 1
+    },
+    {
+      "type": "SLOW_DIGGING",
+      "time": 90,
+      "intensity": 1
+    }
+  ],
+  "item": "GREEN_DYE",
+  "permission": "drugs.use.weed",
+  "addictionLevel": 0.1,
+  "craftingpermission": "drugs.craft.weed",
+  "sellPrice": 100.0,
+  "buyPrice": 200.0
+}

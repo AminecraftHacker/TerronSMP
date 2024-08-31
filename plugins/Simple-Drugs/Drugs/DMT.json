@@ -1,0 +1,32 @@
+{
+  "name": "DMT",
+  "displayname": "§3§lDMT",
+  "effects": [
+    {
+      "type": "DAMAGE_RESISTANCE",
+      "time": 90,
+      "intensity": 1
+    },
+    {
+      "type": "SLOW_FALLING",
+      "time": 90,
+      "intensity": 1
+    },
+    {
+      "type": "SLOW",
+      "time": 90,
+      "intensity": 1
+    },
+    {
+      "type": "GLOWING",
+      "time": 90,
+      "intensity": 1
+    }
+  ],
+  "item": "GLOWSTONE_DUST",
+  "permission": "drugs.use.dmt",
+  "addictionLevel": 0.3,
+  "craftingpermission": "drugs.craft.dmt",
+  "sellPrice": 500.0,
+  "buyPrice": 1000.0
+}

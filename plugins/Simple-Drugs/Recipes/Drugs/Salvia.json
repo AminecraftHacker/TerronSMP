@@ -1,0 +1,15 @@
+{
+  "drug": "SALVIA",
+  "type": "SHAPED",
+  "recipe": {
+    "1": "AIR",
+    "2": "GREEN_BED",
+    "3": "AIR",
+    "4": "GREEN_CANDLE",
+    "5": "GREEN_CANDLE",
+    "6": "GREEN_CANDLE",
+    "7": "GREEN_DYE",
+    "8": "AIR",
+    "9": "GREEN_DYE"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "name": "PERCOCET",
+  "displayname": "§f§lPERCOCET",
+  "effects": [
+    {
+      "type": "CONFUSION",
+      "time": 90,
+      "intensity": 1
+    },
+    {
+      "type": "SLOW",
+      "time": 90,
+      "intensity": 1
+    },
+    {
+      "type": "LUCK",
+      "time": 90,
+      "intensity": 1
+    },
+    {
+      "type": "NIGHT_VISION",
+      "time": 90,
+      "intensity": 1
+    }
+  ],
+  "item": "PUMPKIN_SEEDS",
+  "permission": "drugs.use.percocet",
+  "addictionLevel": 0.3,
+  "craftingpermission": "drugs.craft.percocet",
+  "sellPrice": 500.0,
+  "buyPrice": 1000.0
+}

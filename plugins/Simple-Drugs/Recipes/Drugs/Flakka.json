@@ -1,0 +1,15 @@
+{
+  "drug": "FLAKKA",
+  "type": "SHAPED",
+  "recipe": {
+    "1": "AIR",
+    "2": "BIRCH_DOOR",
+    "3": "AIR",
+    "4": "SWEET_BERRIES",
+    "5": "SWEET_BERRIES",
+    "6": "SWEET_BERRIES",
+    "7": "WATER_BUCKET",
+    "8": "AIR",
+    "9": "WATER_BUCKET"
+  }
+}

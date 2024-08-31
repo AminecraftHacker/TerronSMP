@@ -1,0 +1,20 @@
+{
+  "drug": "ALCOHOL",
+  "type": "SHAPELESS",
+  "recipe": {
+    "items": [
+      "WATER_BUCKET",
+      "BROWN_MUSHROOM",
+      "RED_MUSHROOM",
+      "GLOWSTONE_DUST"
+    ]
+  },
+  "seed-item": {
+    "displayname": "§6§lALCOHOL Seeds",
+    "material": "WHEAT_SEEDS",
+    "lore": [
+      "§7- §ePlant these to make a §2§oALCOHOL Plant"
+    ]
+  },
+  "harvest-amount": 1
+}

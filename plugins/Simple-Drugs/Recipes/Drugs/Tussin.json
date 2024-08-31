@@ -1,0 +1,15 @@
+{
+  "drug": "TUSSIN",
+  "type": "SHAPED",
+  "recipe": {
+    "1": "WATER_BUCKET",
+    "2": "AIR",
+    "3": "WATER_BUCKET",
+    "4": "GLASS_BOTTLE",
+    "5": "AIR",
+    "6": "GLASS_BOTTLE",
+    "7": "WATER_BUCKET",
+    "8": "GLASS_BOTTLE",
+    "9": "WATER_BUCKET"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "name": "SHROOMS",
+  "displayname": "§7§lSHROOMS",
+  "effects": [
+    {
+      "type": "LUCK",
+      "time": 90,
+      "intensity": 1
+    },
+    {
+      "type": "NIGHT_VISION",
+      "time": 90,
+      "intensity": 1
+    },
+    {
+      "type": "CONFUSION",
+      "time": 90,
+      "intensity": 1
+    },
+    {
+      "type": "GLOWING",
+      "time": 90,
+      "intensity": 1
+    }
+  ],
+  "item": "CRIMSON_FUNGUS",
+  "permission": "drugs.use.shrooms",
+  "addictionLevel": 0.3,
+  "craftingpermission": "drugs.craft.shrooms",
+  "sellPrice": 500.0,
+  "buyPrice": 1000.0
+}

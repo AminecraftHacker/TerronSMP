@@ -1,0 +1,37 @@
+{
+  "name": "MOLLY",
+  "displayname": "§b§lMOLLY",
+  "effects": [
+    {
+      "type": "CONFUSION",
+      "time": 90,
+      "intensity": 1
+    },
+    {
+      "type": "SPEED",
+      "time": 90,
+      "intensity": 1
+    },
+    {
+      "type": "FAST_DIGGING",
+      "time": 90,
+      "intensity": 1
+    },
+    {
+      "type": "FIRE_RESISTANCE",
+      "time": 90,
+      "intensity": 1
+    },
+    {
+      "type": "NIGHT_VISION",
+      "time": 90,
+      "intensity": 1
+    }
+  ],
+  "item": "IRON_NUGGET",
+  "permission": "drugs.use.molly",
+  "addictionLevel": 0.2,
+  "craftingpermission": "drugs.craft.molly",
+  "sellPrice": 500.0,
+  "buyPrice": 1000.0
+}

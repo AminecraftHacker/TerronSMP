@@ -1,0 +1,19 @@
+{
+  "drug": "METH",
+  "type": "SHAPELESS",
+  "recipe": {
+    "items": [
+      "PRISMARINE_SHARD",
+      "GLOWSTONE_DUST",
+      "GLOWSTONE_DUST"
+    ]
+  },
+  "seed-item": {
+    "displayname": "§b§lMETH Seeds",
+    "material": "WHEAT_SEEDS",
+    "lore": [
+      "§7- §ePlant these to make a §2§oMETH Plant"
+    ]
+  },
+  "harvest-amount": 1
+}

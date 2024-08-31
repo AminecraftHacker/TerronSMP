@@ -1,0 +1,15 @@
+{
+  "drug": "DMT",
+  "type": "SHAPED",
+  "recipe": {
+    "1": "SUGAR",
+    "2": "SUGAR",
+    "3": "SUGAR",
+    "4": "SUGAR",
+    "5": "GLOWSTONE_DUST",
+    "6": "SUGAR",
+    "7": "SUGAR",
+    "8": "GLOWSTONE_DUST",
+    "9": "SUGAR"
+  }
+}

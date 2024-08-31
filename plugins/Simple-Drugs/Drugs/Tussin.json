@@ -1,0 +1,32 @@
+{
+  "name": "TUSSIN",
+  "displayname": "§5§lTUSSIN",
+  "effects": [
+    {
+      "type": "INCREASE_DAMAGE",
+      "time": 90,
+      "intensity": 1
+    },
+    {
+      "type": "HEAL",
+      "time": 90,
+      "intensity": 1
+    },
+    {
+      "type": "JUMP",
+      "time": 90,
+      "intensity": 1
+    },
+    {
+      "type": "CONFUSION",
+      "time": 90,
+      "intensity": 1
+    }
+  ],
+  "item": "PURPLE_CANDLE",
+  "permission": "drugs.use.tussin",
+  "addictionLevel": 0.4,
+  "craftingpermission": "drugs.craft.tussin",
+  "sellPrice": 500.0,
+  "buyPrice": 1000.0
+}

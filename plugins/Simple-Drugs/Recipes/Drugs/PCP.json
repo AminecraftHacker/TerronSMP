@@ -1,0 +1,15 @@
+{
+  "drug": "PCP",
+  "type": "SHAPED",
+  "recipe": {
+    "1": "WHEAT_SEEDS",
+    "2": "MELON_SEEDS",
+    "3": "PUMPKIN_SEEDS",
+    "4": "PUMPKIN_SEEDS",
+    "5": "MELON_SEEDS",
+    "6": "WHEAT_SEEDS",
+    "7": "WHEAT_SEEDS",
+    "8": "MELON_SEEDS",
+    "9": "PUMPKIN_SEEDS"
+  }
+}

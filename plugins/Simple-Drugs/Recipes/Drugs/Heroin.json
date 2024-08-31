@@ -1,0 +1,15 @@
+{
+  "drug": "HEROIN",
+  "type": "SHAPED",
+  "recipe": {
+    "1": "DIRT",
+    "2": "RED_MUSHROOM",
+    "3": "RED_MUSHROOM",
+    "4": "AIR",
+    "5": "DIRT",
+    "6": "WOODEN_SWORD",
+    "7": "AIR",
+    "8": "DIRT",
+    "9": "AIR"
+  }
+}

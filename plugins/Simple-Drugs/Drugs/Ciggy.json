@@ -1,0 +1,32 @@
+{
+  "name": "CIGGY",
+  "displayname": "§6§lCIGGY",
+  "effects": [
+    {
+      "type": "SATURATION",
+      "time": 90,
+      "intensity": 1
+    },
+    {
+      "type": "DAMAGE_RESISTANCE",
+      "time": 90,
+      "intensity": 1
+    },
+    {
+      "type": "JUMP",
+      "time": 90,
+      "intensity": 1
+    },
+    {
+      "type": "SLOW_DIGGING",
+      "time": 90,
+      "intensity": 1
+    }
+  ],
+  "item": "REDSTONE_TORCH",
+  "permission": "drugs.use.ciggy",
+  "addictionLevel": 0.3,
+  "craftingpermission": "drugs.craft.ciggy",
+  "sellPrice": 500.0,
+  "buyPrice": 1000.0
+}

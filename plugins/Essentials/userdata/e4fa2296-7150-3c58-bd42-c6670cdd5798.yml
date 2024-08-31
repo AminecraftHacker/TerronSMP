@@ -11,30 +11,39 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1724424820072
+  lastteleport: 1725099463989
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1724427157710
-  login: 1724422807338
+  logout: 1725099844649
+  login: 1725098782237
   kits:
     tools: 1723802141644
 money: '0'
 last-account-name: Cicciobomba_9
 lastlocation:
-  world: 4ea0fbb7-6a7c-40ed-a765-628fcb1c7cbd
-  world-name: Spawn
-  x: 0.3184015475680034
-  y: 1.0
-  z: 6.495215652076158
-  yaw: 148.95703125
-  pitch: 9.810785293579102
+  world: 6a5c0b84-fc1c-41d0-bed9-0c6108219ecc
+  world-name: world
+  x: -6246.699999988079
+  y: 61.0
+  z: -3175.699999988079
+  yaw: -111.58534240722656
+  pitch: 5.018185138702393
 logoutlocation:
-  world: 4ea0fbb7-6a7c-40ed-a765-628fcb1c7cbd
-  world-name: Spawn
-  x: 2.6944710514280326
-  y: 1.0
-  z: 49.86018625939304
-  yaw: 7.345790386199951
-  pitch: 29.366901397705078
+  world: 6a5c0b84-fc1c-41d0-bed9-0c6108219ecc
+  world-name: world
+  x: -6242.579121663392
+  y: 63.0
+  z: -3179.300596808592
+  yaw: 159.99053955078125
+  pitch: 35.99999237060547
+homes:
+  home:
+    world: 6a5c0b84-fc1c-41d0-bed9-0c6108219ecc
+    world-name: world
+    x: -6224.763015423262
+    y: 63.0
+    z: -3185.7920499647457
+    yaw: -16.196691513061523
+    pitch: 34.43156051635742

@@ -1,0 +1,20 @@
+{
+  "drug": "WEED",
+  "type": "SHAPELESS",
+  "recipe": {
+    "items": [
+      "WHEAT_SEEDS",
+      "WHEAT_SEEDS",
+      "WHEAT_SEEDS",
+      "GLOWSTONE_DUST"
+    ]
+  },
+  "seed-item": {
+    "displayname": "§2§lWeed Seeds",
+    "material": "WHEAT_SEEDS",
+    "lore": [
+      "§7- §ePlant these to make a §2§oWEED Plant"
+    ]
+  },
+  "harvest-amount": 1
+}
