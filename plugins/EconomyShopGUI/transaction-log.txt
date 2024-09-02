@@ -333,3 +333,5 @@
 [2024-09-02 11:13:30] - ANDREA1720 sold 180 x White Wool(Blocks.page6.items.261) for $1,323 with the sell all command.
 [2024-09-02 11:14:53] - Cicciobomba_9 sold 145 x White Wool(Blocks.page6.items.261) for $1,065.75 with the sell all command.
 [2024-09-02 11:14:58] - ANDREA1720 bought 64 x Experience Bottle(Miscellaneous.page1.items.11) for $13,816.32 with the buy screen.
+[2024-09-02 12:33:02] - ANDREA1720 sold 705 x White Wool(Blocks.page6.items.261) for $5,181.74 with the sell all command.
+[2024-09-02 12:38:01] - ANDREA1720 sold 631 x White Wool(Blocks.page6.items.261) for $4,637.84 with the sell all command.

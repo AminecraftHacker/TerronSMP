@@ -543,6 +543,10 @@ Security:
             check: false
             # If the password is used more than this number of times, it is considered unsafe.
             limit: 0
+        emailVerification:
+            # Require email verification when changing password if email feature enabled.
+            # Original behavior is true
+            required: true
     captcha:
         # Enable captcha when a player uses wrong password too many times
         useCaptcha: false

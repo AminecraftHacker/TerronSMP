@@ -49,7 +49,7 @@ Gui:
   colour-overfill-slots-glow: true
 
 # Time in milliseconds, 1 second = 1000 milliseconds
-backpack-cooldown: 2000
+backpack-cooldown: 0
 
 # Set to true if it should return items after canceling a crafting change
 return-items-on-close: true
