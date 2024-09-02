@@ -55,6 +55,7 @@
       "apple": "2024-09-01 16:32:33 +0000",
       "chicken": "2024-08-30 16:34:52 +0000",
       "bread": "2024-08-30 16:53:07 +0000",
+      "rotten_flesh": "2024-09-02 13:02:43 +0000",
       "cooked_beef": "2024-08-30 15:24:07 +0000",
       "beef": "2024-08-30 16:39:05 +0000",
       "melon_slice": "2024-08-30 16:41:24 +0000",
@@ -2806,6 +2807,12 @@
   "minecraft:nether/netherite_armor": {
     "criteria": {
       "netherite_armor": "2024-09-02 11:09:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2024-09-02 13:12:03 +0000"
     },
     "done": true
   },

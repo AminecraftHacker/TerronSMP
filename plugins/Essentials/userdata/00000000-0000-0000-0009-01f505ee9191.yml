@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 100.91.194.105
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1725284971369
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1725285084797
+  login: 1725284183353
+money: '0'
+last-account-name: Marck0009
+lastlocation:
+  world: 6a5c0b84-fc1c-41d0-bed9-0c6108219ecc
+  world-name: world
+  x: 11180.5
+  y: 89.0
+  z: 383.5
+  yaw: -62.14044189453125
+  pitch: 55.07818603515625
+logoutlocation:
+  world: 6a5c0b84-fc1c-41d0-bed9-0c6108219ecc
+  world-name: world
+  x: -602.5
+  y: 69.0
+  z: 1921.5
+  yaw: 211.86776733398438
+  pitch: 0.0
