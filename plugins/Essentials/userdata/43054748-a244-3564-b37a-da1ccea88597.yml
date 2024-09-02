@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1725214277506
-  login: 1725204564600
+  logout: 1725275950811
+  login: 1725275046614
   kits:
     tools: 1725031296946
     notch: 1723715858058
@@ -29,11 +29,11 @@ last-account-name: ANDREA1720
 logoutlocation:
   world: 6a5c0b84-fc1c-41d0-bed9-0c6108219ecc
   world-name: world
-  x: -6200.137329508917
-  y: 62.0
-  z: -3220.300000011921
-  yaw: 8.275177001953125
-  pitch: 21.406587600708008
+  x: -6238.766871389606
+  y: 63.0
+  z: -3199.1993995515586
+  yaw: -85.31008911132812
+  pitch: 21.194475173950195
 lastlocation:
   world: 6a5c0b84-fc1c-41d0-bed9-0c6108219ecc
   world-name: world
