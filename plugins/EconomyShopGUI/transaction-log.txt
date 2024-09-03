@@ -391,3 +391,22 @@
 [2024-09-03 11:30:50] - ANDREA1720 bought 64 x Crafter(Redstone.page1.items.2) for $6,433.28 with the buy screen.
 [2024-09-03 11:31:08] - ANDREA1720 sold 708 x White Wool(Blocks.page6.items.261) for $5,203.79 with the sell all command.
 [2024-09-03 11:34:49] - kalakko sold 1124 x White Wool(Blocks.page6.items.261) for $8,261.39 with the sell all command.
+[2024-09-03 14:22:59] - kalakko sold 1280 x White Wool(Blocks.page6.items.261) for $9,407.99 with the sell all command.
+[2024-09-03 14:23:13] - kalakko sold 489 x White Wool(Blocks.page6.items.261) for $3,594.15 with the sell all command.
+[2024-09-03 14:25:09] - ItzMarc233it sold 123 x Copper Ingot(Ores.page1.items.7) for $28.29 with the quick sell screen.
+[2024-09-03 14:25:47] - ANDREA1720 bought 64 x Glass(Blocks.page3.items.119) for $806.40 with the buy screen.
+[2024-09-03 14:28:52] - ANDREA1720 sold 872 x White Wool(Blocks.page6.items.261) for $6,409.19 with the sell all command.
+[2024-09-03 14:29:28] - ANDREA1720 sold 187 x White Wool(Blocks.page6.items.261) for $1,374.44 with the sell all command.
+[2024-09-03 14:32:22] - ANDREA1720 sold 705 x White Wool(Blocks.page6.items.261) for $5,181.74 with the sell all command.
+[2024-09-03 14:34:36] - ANDREA1720 sold 668 x White Wool(Blocks.page6.items.261) for $4,909.80 with the sell all command.
+[2024-09-03 14:36:27] - ANDREA1720 sold 510 x White Wool(Blocks.page6.items.261) for $3,748.50 with the sell all command.
+[2024-09-03 14:38:23] - ItzMarc233it bought 20 x Diamond(Ores.page1.items.9) for $2,100 with the buy screen.
+[2024-09-03 14:38:37] - ItzMarc233it bought 20 x Diamond(Ores.page1.items.9) for $2,100 with the buy screen.
+[2024-09-03 14:42:05] - ANDREA1720 sold 1088 x White Wool(Blocks.page6.items.261) for $7,996.79 with the sell all command.
+[2024-09-03 14:43:57] - ANDREA1720 bought 1 x Potion(Potions.page1.items.6) for $54.92 with the buy screen.
+[2024-09-03 14:46:31] - ANDREA1720 bought 1 x Potion(Potions.page1.items.23) for $65.62 with the buy screen.
+[2024-09-03 15:10:08] - kalakko bought 4 x Oak Planks(Blocks.page5.items.231) for $8.88 with the buy screen.
+[2024-09-03 15:10:23] - kalakko bought 10 x Gold Ingot(Ores.page1.items.14) for $165.39 with the buy screen.
+[2024-09-03 15:30:00] - AverageMovie105 sold 809 x Packed Ice(Blocks.page1.items.6) for $2,734.42 with the sell screen.
+[2024-09-03 15:30:16] - ANDREA1720 sold 896 x White Wool(Blocks.page6.items.261) for $6,585.59 with the sell all command.
+[2024-09-03 15:30:20] - ANDREA1720 sold 178 x White Wool(Blocks.page6.items.261) for $1,308.30 with the sell all command.

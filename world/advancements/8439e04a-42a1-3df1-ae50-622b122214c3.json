@@ -339,16 +339,17 @@
     "criteria": {
       "minecraft:pillager": "2024-08-31 17:25:12 +0000",
       "minecraft:skeleton": "2024-08-30 16:20:01 +0000",
+      "minecraft:zombified_piglin": "2024-09-03 15:11:25 +0000",
+      "minecraft:witch": "2024-08-30 17:54:55 +0000",
+      "minecraft:ghast": "2024-09-03 10:42:58 +0000",
+      "minecraft:hoglin": "2024-09-03 10:20:44 +0000",
       "minecraft:piglin": "2024-09-03 10:20:45 +0000",
       "minecraft:enderman": "2024-08-30 17:02:30 +0000",
-      "minecraft:witch": "2024-08-30 17:54:55 +0000",
       "minecraft:spider": "2024-08-30 15:55:23 +0000",
       "minecraft:piglin_brute": "2024-09-03 10:21:04 +0000",
       "minecraft:zombie": "2024-08-30 15:33:29 +0000",
       "minecraft:creeper": "2024-08-30 16:17:02 +0000",
-      "minecraft:drowned": "2024-09-01 10:59:07 +0000",
-      "minecraft:ghast": "2024-09-03 10:42:58 +0000",
-      "minecraft:hoglin": "2024-09-03 10:20:44 +0000"
+      "minecraft:drowned": "2024-09-01 10:59:07 +0000"
     },
     "done": false
   },
@@ -1944,6 +1945,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2024-09-03 15:08:05 +0000",
       "minecraft:nether_wastes": "2024-08-31 14:59:40 +0000",
       "minecraft:soul_sand_valley": "2024-08-31 14:54:33 +0000"
     },
@@ -2882,6 +2884,48 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_the_recipe": "2024-09-03 10:45:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2024-09-03 15:15:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sniper_duel": {
+    "criteria": {
+      "killed_skeleton": "2024-09-03 14:30:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2024-09-03 14:41:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2024-09-03 15:14:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2024-09-03 14:41:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2024-09-03 14:41:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2024-09-03 15:11:33 +0000"
     },
     "done": true
   },

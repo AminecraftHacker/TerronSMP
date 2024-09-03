@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 100.83.97.82
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1725377267592
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1725377500783
+  login: 1725375585431
+money: '0'
+last-account-name: Pocho01
+lastlocation:
+  world: 6a5c0b84-fc1c-41d0-bed9-0c6108219ecc
+  world-name: world
+  x: 1292.5468143448243
+  y: 60.0
+  z: 2917.90719751245
+  yaw: -168.2890625
+  pitch: 15.46379280090332
+homes:
+  home:
+    world: 6a5c0b84-fc1c-41d0-bed9-0c6108219ecc
+    world-name: world
+    x: 1292.1524547637239
+    y: 60.0
+    z: 2919.3231888901905
+    yaw: -137.2193603515625
+    pitch: 59.961669921875
+logoutlocation:
+  world: 6a5c0b84-fc1c-41d0-bed9-0c6108219ecc
+  world-name: world
+  x: 2028.699999988079
+  y: 46.0
+  z: 3491.699999988079
+  yaw: 49.56414794921875
+  pitch: 72.85063934326172
