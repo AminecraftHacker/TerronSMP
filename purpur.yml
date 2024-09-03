@@ -109,14 +109,14 @@ settings:
       second: '%02d second'
       seconds: '%02d seconds'
   enchantment:
-    allow-looting-on-shears: false
+    allow-looting-on-shears: true
     anvil:
-      allow-unsafe-enchants: false
+      allow-unsafe-enchants: true
       allow-inapplicable-enchants: true
       allow-incompatible-enchants: true
       allow-higher-enchants-levels: true
       replace-incompatible-enchants: false
-    allow-unsafe-enchant-command: false
+    allow-unsafe-enchant-command: true
     clamp-levels: false
   network:
     upnp-port-forwarding: false

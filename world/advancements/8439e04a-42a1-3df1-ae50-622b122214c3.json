@@ -23,6 +23,7 @@
       "minecraft:beach": "2024-08-30 17:54:34 +0000",
       "minecraft:dark_forest": "2024-08-31 09:49:00 +0000",
       "minecraft:forest": "2024-08-30 15:23:39 +0000",
+      "minecraft:taiga": "2024-09-03 11:06:03 +0000",
       "minecraft:mangrove_swamp": "2024-08-30 17:12:34 +0000",
       "minecraft:sparse_jungle": "2024-08-30 15:27:05 +0000",
       "minecraft:river": "2024-08-30 15:46:28 +0000",
@@ -167,6 +168,7 @@
       "salmon": "2024-08-31 16:47:51 +0000",
       "cooked_beef": "2024-08-30 15:30:02 +0000",
       "cooked_salmon": "2024-09-01 16:03:17 +0000",
+      "golden_carrot": "2024-09-03 09:55:55 +0000",
       "carrot": "2024-08-31 14:24:41 +0000"
     },
     "done": false
@@ -337,12 +339,16 @@
     "criteria": {
       "minecraft:pillager": "2024-08-31 17:25:12 +0000",
       "minecraft:skeleton": "2024-08-30 16:20:01 +0000",
+      "minecraft:piglin": "2024-09-03 10:20:45 +0000",
       "minecraft:enderman": "2024-08-30 17:02:30 +0000",
       "minecraft:witch": "2024-08-30 17:54:55 +0000",
       "minecraft:spider": "2024-08-30 15:55:23 +0000",
+      "minecraft:piglin_brute": "2024-09-03 10:21:04 +0000",
       "minecraft:zombie": "2024-08-30 15:33:29 +0000",
       "minecraft:creeper": "2024-08-30 16:17:02 +0000",
-      "minecraft:drowned": "2024-09-01 10:59:07 +0000"
+      "minecraft:drowned": "2024-09-01 10:59:07 +0000",
+      "minecraft:ghast": "2024-09-03 10:42:58 +0000",
+      "minecraft:hoglin": "2024-09-03 10:20:44 +0000"
     },
     "done": false
   },
@@ -2846,6 +2852,36 @@
   "minecraft:recipes/building_blocks/blue_ice": {
     "criteria": {
       "has_packed_ice": "2024-09-03 09:05:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2024-09-03 10:25:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2024-09-03 10:25:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2024-09-03 10:25:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2024-09-03 10:42:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_the_recipe": "2024-09-03 10:45:12 +0000"
     },
     "done": true
   },

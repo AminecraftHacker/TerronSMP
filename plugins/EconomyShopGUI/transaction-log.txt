@@ -358,3 +358,36 @@
 [2024-09-03 09:01:56] - ANDREA1720 bought 17 x Ender Pearl(Mobs.page1.items.6) for $238 with the buy screen.
 [2024-09-03 09:03:53] - ANDREA1720 bought 128 x Glass(Blocks.page3.items.119) for $1,612.80 with the buy stacks screen.
 [2024-09-03 09:05:26] - kalakko bought 63 x Packed Ice(Blocks.page1.items.6) for $1,701 with the buy screen.
+[2024-09-03 09:36:13] - ANDREA1720 bought 2 x Hopper(Redstone.page1.items.6) for $154.68 with the buy screen.
+[2024-09-03 09:36:56] - Cicciobomba_9 bought 64 x Bamboo Planks(Blocks.page1.items.22) for $64 with the buy screen.
+[2024-09-03 09:36:56] - Cicciobomba_9 bought 64 x Bamboo Planks(Blocks.page1.items.22) for $64 with the buy screen.
+[2024-09-03 09:36:57] - Cicciobomba_9 bought 64 x Bamboo Planks(Blocks.page1.items.22) for $64 with the buy screen.
+[2024-09-03 09:36:57] - Cicciobomba_9 bought 64 x Bamboo Planks(Blocks.page1.items.22) for $64 with the buy screen.
+[2024-09-03 09:36:58] - Cicciobomba_9 bought 64 x Bamboo Planks(Blocks.page1.items.22) for $64 with the buy screen.
+[2024-09-03 09:36:59] - Cicciobomba_9 bought 64 x Bamboo Planks(Blocks.page1.items.22) for $64 with the buy screen.
+[2024-09-03 09:36:59] - Cicciobomba_9 bought 64 x Bamboo Planks(Blocks.page1.items.22) for $64 with the buy screen.
+[2024-09-03 09:37:00] - Cicciobomba_9 bought 64 x Bamboo Planks(Blocks.page1.items.22) for $64 with the buy screen.
+[2024-09-03 09:55:51] - kalakko bought 64 x Golden Carrot(Food.page1.items.8) for $1,561.60 with the buy screen.
+[2024-09-03 10:11:54] - Cicciobomba_9 sold 305 x White Wool(Blocks.page6.items.261) for $2,241.75 with the sell all command.
+[2024-09-03 10:14:19] - Cicciobomba_9 sold 512 x White Wool(Blocks.page6.items.261) for $3,763.20 with the sell all command.
+[2024-09-03 10:15:49] - Cicciobomba_9 sold 562 x White Wool(Blocks.page6.items.261) for $4,130.70 with the sell all command.
+[2024-09-03 10:20:25] - Cicciobomba_9 bought 6 x Enchanted Book(Enchanting.page1.items.23) for $1,920 with the buy screen.
+[2024-09-03 10:20:27] - ANDREA1720 bought 1 x Enchanted Book(Enchanting.page1.items.9) for $1,944.82 with the buy screen.
+[2024-09-03 10:20:57] - Cicciobomba_9 bought 1 x Enchanted Book(Enchanting.page1.items.9) for $1,944.82 with the buy screen.
+[2024-09-03 10:22:30] - kalakko bought 4 x Oak Planks(Blocks.page5.items.231) for $8.88 with the buy screen.
+[2024-09-03 10:31:44] - Cicciobomba_9 sold 275 x White Wool(Blocks.page6.items.261) for $2,021.25 with the sell all command.
+[2024-09-03 10:44:20] - kalakko bought 4 x Enchanted Book(Enchanting.page1.items.23) for $1,280 with the buy screen.
+[2024-09-03 10:45:36] - ANDREA1720 bought 32 x Crafter(Redstone.page1.items.2) for $3,216.64 with the buy screen.
+[2024-09-03 10:48:23] - ANDREA1720 bought 64 x Hopper(Redstone.page1.items.6) for $4,949.76 with the buy screen.
+[2024-09-03 10:58:42] - ANDREA1720 bought 64 x Glass(Blocks.page3.items.119) for $806.40 with the buy screen.
+[2024-09-03 11:01:26] - ANDREA1720 bought 64 x Observer(Redstone.page1.items.12) for $2,600.96 with the buy screen.
+[2024-09-03 11:15:29] - ANDREA1720 bought 32 x Hopper(Redstone.page1.items.6) for $2,474.88 with the buy screen.
+[2024-09-03 11:19:52] - Cicciobomba_9 bought 1 x Enchanted Book(Enchanting.page1.items.34) for $400 with the buy screen.
+[2024-09-03 11:24:13] - ANDREA1720 sold 1083 x White Wool(Blocks.page6.items.261) for $7,960.04 with the sell all command.
+[2024-09-03 11:27:08] - kalakko sold 79 x White Wool(Blocks.page6.items.261) for $580.65 with the sell all command.
+[2024-09-03 11:28:26] - kalakko sold 1280 x White Wool(Blocks.page6.items.261) for $9,407.99 with the sell all command.
+[2024-09-03 11:28:38] - kalakko sold 140 x White Wool(Blocks.page6.items.261) for $1,029 with the sell all command.
+[2024-09-03 11:30:01] - ANDREA1720 bought 64 x Observer(Redstone.page1.items.12) for $2,600.96 with the buy screen.
+[2024-09-03 11:30:50] - ANDREA1720 bought 64 x Crafter(Redstone.page1.items.2) for $6,433.28 with the buy screen.
+[2024-09-03 11:31:08] - ANDREA1720 sold 708 x White Wool(Blocks.page6.items.261) for $5,203.79 with the sell all command.
+[2024-09-03 11:34:49] - kalakko sold 1124 x White Wool(Blocks.page6.items.261) for $8,261.39 with the sell all command.

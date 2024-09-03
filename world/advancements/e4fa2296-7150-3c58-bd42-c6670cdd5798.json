@@ -24,6 +24,7 @@
       "minecraft:beach": "2024-08-31 16:33:56 +0000",
       "minecraft:stony_peaks": "2024-08-31 16:38:16 +0000",
       "minecraft:forest": "2024-08-31 09:05:04 +0000",
+      "minecraft:taiga": "2024-09-03 10:59:01 +0000",
       "minecraft:sparse_jungle": "2024-08-31 09:05:55 +0000",
       "minecraft:deep_ocean": "2024-08-31 16:40:39 +0000",
       "minecraft:river": "2024-08-31 09:20:56 +0000",
@@ -33,10 +34,12 @@
       "minecraft:dripstone_caves": "2024-08-31 09:28:13 +0000",
       "minecraft:snowy_taiga": "2024-08-31 15:47:31 +0000",
       "minecraft:old_growth_birch_forest": "2024-08-31 10:08:52 +0000",
+      "minecraft:frozen_ocean": "2024-09-03 11:23:32 +0000",
       "minecraft:frozen_river": "2024-08-31 15:47:29 +0000",
       "minecraft:ocean": "2024-08-31 16:42:25 +0000",
       "minecraft:jungle": "2024-08-31 15:40:12 +0000",
       "minecraft:windswept_hills": "2024-08-31 09:10:18 +0000",
+      "minecraft:snowy_beach": "2024-09-03 11:18:33 +0000",
       "minecraft:savanna": "2024-08-31 16:36:51 +0000",
       "minecraft:bamboo_jungle": "2024-08-31 10:02:16 +0000",
       "minecraft:plains": "2024-08-31 09:10:03 +0000"
@@ -231,7 +234,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-09-03 10:57:11 +0000",
       "minecraft:skeleton": "2024-08-31 09:11:10 +0000",
+      "minecraft:witch": "2024-09-03 11:23:55 +0000",
       "minecraft:spider": "2024-08-31 09:16:26 +0000",
       "minecraft:zombie": "2024-08-31 09:12:48 +0000",
       "minecraft:creeper": "2024-08-31 09:16:36 +0000"
@@ -1658,6 +1663,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-09-02 11:05:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2024-09-02 11:08:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/netherite_block": {
     "criteria": {
       "has_netherite_ingot": "2024-09-02 11:08:22 +0000"
@@ -1688,12 +1705,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
-    "criteria": {
-      "has_netherite_upgrade_smithing_template": "2024-09-02 11:08:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/netherite_leggings_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-09-02 11:08:22 +0000"
@@ -1703,18 +1714,6 @@
   "minecraft:recipes/tools/netherite_axe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-09-02 11:08:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/composter": {
-    "criteria": {
-      "has_wood_slab": "2024-09-02 11:05:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_chestplate": "2024-09-02 11:09:29 +0000"
     },
     "done": true
   },
@@ -1736,15 +1735,147 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-09-02 11:08:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2024-09-02 11:09:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/netherite_armor": {
     "criteria": {
       "netherite_armor": "2024-09-02 11:10:13 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/netherite_helmet_smithing": {
+  "minecraft:recipes/redstone/bamboo_trapdoor": {
     "criteria": {
-      "has_netherite_ingot": "2024-09-02 11:08:22 +0000"
+      "has_planks": "2024-09-03 09:36:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-09-03 09:36:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_slab": {
+    "criteria": {
+      "has_planks": "2024-09-03 09:36:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_button": {
+    "criteria": {
+      "has_planks": "2024-09-03 09:36:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-09-03 09:36:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_stairs": {
+    "criteria": {
+      "has_planks": "2024-09-03 09:36:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/bamboo_sign": {
+    "criteria": {
+      "has_planks": "2024-09-03 09:36:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_door": {
+    "criteria": {
+      "has_planks": "2024-09-03 09:36:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/bamboo_fence": {
+    "criteria": {
+      "has_planks": "2024-09-03 09:36:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2024-09-03 11:00:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2024-09-03 11:12:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2024-09-03 11:23:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-09-03 10:51:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2024-09-03 11:12:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-09-03 10:57:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2024-09-03 11:12:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2024-09-03 11:00:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2024-09-03 11:12:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2024-09-03 11:32:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2024-09-03 11:25:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2024-09-03 11:23:44 +0000"
     },
     "done": true
   },
