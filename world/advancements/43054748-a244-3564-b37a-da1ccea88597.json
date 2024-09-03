@@ -37,6 +37,7 @@
       "minecraft:sunflower_plains": "2024-08-31 09:21:22 +0000",
       "minecraft:birch_forest": "2024-08-30 17:36:44 +0000",
       "minecraft:windswept_hills": "2024-08-31 09:09:26 +0000",
+      "minecraft:snowy_beach": "2024-09-03 17:06:38 +0000",
       "minecraft:savanna": "2024-08-30 16:07:24 +0000",
       "minecraft:bamboo_jungle": "2024-08-30 15:32:06 +0000",
       "minecraft:windswept_savanna": "2024-08-30 16:58:51 +0000",
@@ -393,13 +394,15 @@
     "criteria": {
       "minecraft:pillager": "2024-08-30 17:51:20 +0000",
       "minecraft:skeleton": "2024-08-30 16:03:07 +0000",
+      "minecraft:piglin": "2024-09-03 17:43:56 +0000",
       "minecraft:witch": "2024-09-01 13:37:59 +0000",
       "minecraft:spider": "2024-08-30 16:21:34 +0000",
       "minecraft:piglin_brute": "2024-08-31 15:04:41 +0000",
       "minecraft:zombie": "2024-08-30 16:21:02 +0000",
       "minecraft:creeper": "2024-08-30 15:39:57 +0000",
       "minecraft:drowned": "2024-08-30 17:57:50 +0000",
-      "minecraft:zombie_villager": "2024-08-31 09:35:14 +0000"
+      "minecraft:zombie_villager": "2024-08-31 09:35:14 +0000",
+      "minecraft:ghast": "2024-09-03 17:36:34 +0000"
     },
     "done": false
   },
@@ -2875,6 +2878,72 @@
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-09-03 11:05:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2024-09-03 15:57:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2024-09-03 15:57:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_door": {
+    "criteria": {
+      "has_copper_ingot": "2024-09-03 15:57:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2024-09-03 15:57:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_trapdoor": {
+    "criteria": {
+      "has_copper_ingot": "2024-09-03 15:57:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sponge": {
+    "criteria": {
+      "has_wet_sponge": "2024-09-03 16:03:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/obtain_netherite_hoe": {
+    "criteria": {
+      "netherite_hoe": "2024-09-03 16:09:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2024-09-03 17:16:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-09-03 17:27:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2024-09-03 17:36:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2024-09-03 17:06:57 +0000"
     },
     "done": true
   },
