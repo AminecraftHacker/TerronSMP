@@ -343,3 +343,18 @@
 [2024-09-02 13:22:15] - ANDREA1720 bought 64 x Cooked Beef(Food.page1.items.11) for $806.40 with the buy screen.
 [2024-09-02 13:33:57] - ANDREA1720 bought 1 x Tripwire Hook(Redstone.page1.items.17) for $7.56 with the buy screen.
 [2024-09-02 13:47:13] - ANDREA1720 bought 1 x Tripwire Hook(Redstone.page1.items.17) for $7.56 with the buy screen.
+[2024-09-03 08:20:43] - ANDREA1720 bought 20 x Tripwire Hook(Redstone.page1.items.17) for $151.20 with the buy screen.
+[2024-09-03 08:20:51] - ANDREA1720 bought 128 x Cobblestone(Blocks.page1.items.51) for $174.08 with the buy stacks screen.
+[2024-09-03 08:21:05] - ANDREA1720 bought 64 x Dirt(Blocks.page3.items.109) for $384 with the buy screen.
+[2024-09-03 08:22:30] - ANDREA1720 bought 64 x Bamboo Planks(Blocks.page1.items.22) for $64 with the buy screen.
+[2024-09-03 08:23:53] - ANDREA1720 bought 64 x Dirt(Blocks.page3.items.109) for $384 with the buy screen.
+[2024-09-03 08:30:29] - ANDREA1720 bought 64 x Dirt(Blocks.page3.items.109) for $384 with the buy screen.
+[2024-09-03 08:30:29] - ANDREA1720 bought 64 x Dirt(Blocks.page3.items.109) for $384 with the buy screen.
+[2024-09-03 08:47:33] - ANDREA1720 bought 17 x Redstone Torch(Redstone.page1.items.14) for $145.86 with the buy screen.
+[2024-09-03 08:51:21] - ANDREA1720 sold 1216 x White Wool(Blocks.page6.items.261) for $8,937.59 with the sell all command.
+[2024-09-03 08:51:25] - ANDREA1720 sold 238 x White Wool(Blocks.page6.items.261) for $1,749.30 with the sell all command.
+[2024-09-03 09:00:11] - ANDREA1720 bought 320 x Glass(Blocks.page3.items.119) for $4,032 with the buy stacks screen.
+[2024-09-03 09:00:28] - kalakko sold 279 x String(Mobs.page1.items.20) for $488.25 with the sell all command.
+[2024-09-03 09:01:56] - ANDREA1720 bought 17 x Ender Pearl(Mobs.page1.items.6) for $238 with the buy screen.
+[2024-09-03 09:03:53] - ANDREA1720 bought 128 x Glass(Blocks.page3.items.119) for $1,612.80 with the buy stacks screen.
+[2024-09-03 09:05:26] - kalakko bought 63 x Packed Ice(Blocks.page1.items.6) for $1,701 with the buy screen.

@@ -11,31 +11,31 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1725211157440
+  lastteleport: 1725353093017
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1725214018213
-  login: 1725204583655
+  logout: 1725354410416
+  login: 1725353512694
 money: '0'
 last-account-name: kalakko
 lastlocation:
-  world: 6a5c0b84-fc1c-41d0-bed9-0c6108219ecc
-  world-name: world
-  x: -6236.5
-  y: 63.0
-  z: -3198.5
-  yaw: 177.11842346191406
-  pitch: 15.719569206237793
+  world: 4ea0fbb7-6a7c-40ed-a765-628fcb1c7cbd
+  world-name: Spawn
+  x: 0.5445230391026051
+  y: 1.0000001
+  z: 0.5428047769913698
+  yaw: 1.9455657005310059
+  pitch: 10.110779762268066
 logoutlocation:
   world: 6a5c0b84-fc1c-41d0-bed9-0c6108219ecc
   world-name: world
-  x: -6235.748452041301
+  x: -6200.93445967645
   y: 63.0
-  z: -3202.4466518372024
-  yaw: -115.74693298339844
-  pitch: 29.6949520111084
+  z: -3199.8175507603414
+  yaw: -163.382080078125
+  pitch: 39.22972106933594
 homes:
   home:
     world: 6a5c0b84-fc1c-41d0-bed9-0c6108219ecc
