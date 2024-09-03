@@ -494,3 +494,41 @@
 [2024-09-03 17:39:16] - kalakko bought 3 x Splash Potion(Potions.page2.items.69) for $145.92 with the buy screen.
 [2024-09-03 17:45:50] - kalakko bought 1 x Warped Fungus On A Stick(Miscellaneous.page1.items.40) for $47.30 with the buy screen.
 [2024-09-03 17:45:55] - kalakko bought 1 x Saddle(Miscellaneous.page1.items.26) for $120 with the buy screen.
+[2024-09-03 18:03:11] - kalakko bought 1 x Spire Armor Trim Smithing Template(Decoration.page4.items.148) for $389.36 with the buy screen.
+[2024-09-03 18:03:16] - kalakko bought 1 x Silence Armor Trim Smithing Template(Decoration.page4.items.146) for $386.60 with the buy screen.
+[2024-09-03 18:06:35] - ANDREA1720 bought 4 x Tide Armor Trim Smithing Template(Decoration.page4.items.149) for $1,667.04 with the buy screen.
+[2024-09-03 18:08:22] - kalakko bought 4 x Silence Armor Trim Smithing Template(Decoration.page4.items.146) for $1,546.40 with the buy screen.
+[2024-09-03 18:10:01] - ANDREA1720 bought 4 x Enchanted Book(Enchanting.page1.items.39) for $7,056 with the buy screen.
+[2024-09-03 18:10:30] - kalakko sold 1472 x White Wool(Blocks.page6.items.261) for $10,819.19 with the sell all command.
+[2024-09-03 18:10:42] - kalakko sold 363 x White Wool(Blocks.page6.items.261) for $2,668.05 with the sell all command.
+[2024-09-03 18:10:44] - ANDREA1720 sold 648 x White Wool(Blocks.page6.items.261) for $4,762.79 with the sell all command.
+[2024-09-03 18:11:04] - ANDREA1720 sold 69 x White Wool(Blocks.page6.items.261) for $507.15 with the sell all command.
+[2024-09-03 18:11:36] - ANDREA1720 sold 649 x Quartz(Ores.page1.items.21) for $1,343.43 with the sell all command.
+[2024-09-03 18:11:53] - ANDREA1720 sold 56 x Gold Ingot(Ores.page1.items.14) for $115.91 with the sell all command.
+[2024-09-03 18:12:44] - ANDREA1720 bought 64 x Cooked Beef(Food.page1.items.11) for $806.40 with the buy screen.
+[2024-09-03 18:13:04] - ANDREA1720 sold 287 x White Wool(Blocks.page6.items.261) for $2,109.45 with the sell all command.
+[2024-09-03 18:16:53] - ANDREA1720 sold 583 x White Wool(Blocks.page6.items.261) for $4,285.05 with the sell all command.
+[2024-09-03 18:19:52] - ANDREA1720 sold 446 x White Wool(Blocks.page6.items.261) for $3,278.10 with the sell all command.
+[2024-09-03 18:21:34] - ANDREA1720 sold 300 x White Wool(Blocks.page6.items.261) for $2,205 with the sell all command.
+[2024-09-03 18:24:10] - ANDREA1720 sold 576 x White Wool(Blocks.page6.items.261) for $4,233.60 with the sell all command.
+[2024-09-03 18:24:13] - ANDREA1720 sold 29 x White Wool(Blocks.page6.items.261) for $213.14 with the sell all command.
+[2024-09-03 18:24:26] - ANDREA1720 sold 576 x White Wool(Blocks.page6.items.261) for $4,233.60 with the sell all command.
+[2024-09-03 18:24:35] - ANDREA1720 sold 576 x White Wool(Blocks.page6.items.261) for $4,233.60 with the sell all command.
+[2024-09-03 18:24:40] - ANDREA1720 sold 576 x White Wool(Blocks.page6.items.261) for $4,233.60 with the sell all command.
+[2024-09-03 18:24:44] - ANDREA1720 sold 386 x White Wool(Blocks.page6.items.261) for $2,837.10 with the sell all command.
+[2024-09-03 18:24:49] - ANDREA1720 sold 576 x White Wool(Blocks.page6.items.261) for $4,233.60 with the sell all command.
+[2024-09-03 18:24:55] - ANDREA1720 sold 576 x White Wool(Blocks.page6.items.261) for $4,233.60 with the sell all command.
+[2024-09-03 18:24:58] - ANDREA1720 sold 320 x White Wool(Blocks.page6.items.261) for $2,352 with the sell all command.
+[2024-09-03 18:25:00] - ANDREA1720 sold 320 x White Wool(Blocks.page6.items.261) for $2,352 with the sell all command.
+[2024-09-03 18:25:07] - ANDREA1720 sold 576 x White Wool(Blocks.page6.items.261) for $4,233.60 with the sell all command.
+[2024-09-03 18:25:24] - ANDREA1720 sold 896 x White Wool(Blocks.page6.items.261) for $6,585.59 with the sell all command.
+[2024-09-03 18:25:47] - ANDREA1720 sold 1088 x White Wool(Blocks.page6.items.261) for $7,996.79 with the sell all command.
+[2024-09-03 18:26:24] - ANDREA1720 sold 1088 x White Wool(Blocks.page6.items.261) for $7,996.79 with the sell all command.
+[2024-09-03 18:26:27] - ANDREA1720 sold 984 x White Wool(Blocks.page6.items.261) for $7,232.39 with the sell all command.
+[2024-09-03 18:26:34] - ANDREA1720 sold 1088 x White Wool(Blocks.page6.items.261) for $7,996.79 with the sell all command.
+[2024-09-03 18:26:39] - ANDREA1720 sold 1023 x White Wool(Blocks.page6.items.261) for $7,519.04 with the sell all command.
+[2024-09-03 18:26:57] - ANDREA1720 sold 1088 x White Wool(Blocks.page6.items.261) for $7,996.79 with the sell all command.
+[2024-09-03 18:27:42] - ANDREA1720 sold 1088 x White Wool(Blocks.page6.items.261) for $7,996.79 with the sell all command.
+[2024-09-03 18:30:21] - ANDREA1720 sold 956 x White Wool(Blocks.page6.items.261) for $7,026.59 with the sell all command.
+[2024-09-03 18:30:24] - ANDREA1720 sold 16 x White Wool(Blocks.page6.items.261) for $117.60 with the sell all command.
+[2024-09-03 18:32:15] - ANDREA1720 sold 556 x White Wool(Blocks.page6.items.261) for $4,086.60 with the sell all command.

@@ -1887,9 +1887,10 @@
       "minecraft:crimson_forest": "2024-08-31 15:02:35 +0000",
       "minecraft:soul_sand_valley": "2024-08-31 14:29:21 +0000",
       "minecraft:nether_wastes": "2024-08-31 15:01:57 +0000",
-      "minecraft:basalt_deltas": "2024-08-31 14:36:27 +0000"
+      "minecraft:basalt_deltas": "2024-08-31 14:36:27 +0000",
+      "minecraft:warped_forest": "2024-09-03 17:58:55 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/redstone/observer": {
     "criteria": {
@@ -2923,6 +2924,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2024-09-03 17:06:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2024-09-03 17:16:38 +0000"
@@ -2941,9 +2948,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/packed_ice": {
+  "minecraft:adventure/trim_with_all_exclusive_armor_patterns": {
     "criteria": {
-      "has_ice": "2024-09-03 17:06:57 +0000"
+      "armor_trimmed_minecraft:tide_armor_trim_smithing_template_smithing_trim": "2024-09-03 18:06:48 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-09-03 18:23:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/tide_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-09-03 18:06:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/tide_armor_trim_smithing_template": {
+    "criteria": {
+      "has_tide_armor_trim_smithing_template": "2024-09-03 18:06:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trim_with_any_armor_pattern": {
+    "criteria": {
+      "armor_trimmed_minecraft:tide_armor_trim_smithing_template_smithing_trim": "2024-09-03 18:06:48 +0000"
     },
     "done": true
   },
