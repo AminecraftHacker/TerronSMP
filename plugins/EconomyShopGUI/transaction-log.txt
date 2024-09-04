@@ -532,3 +532,33 @@
 [2024-09-03 18:30:21] - ANDREA1720 sold 956 x White Wool(Blocks.page6.items.261) for $7,026.59 with the sell all command.
 [2024-09-03 18:30:24] - ANDREA1720 sold 16 x White Wool(Blocks.page6.items.261) for $117.60 with the sell all command.
 [2024-09-03 18:32:15] - ANDREA1720 sold 556 x White Wool(Blocks.page6.items.261) for $4,086.60 with the sell all command.
+[2024-09-04 15:06:29] - ANDREA1720 sold 448 x White Wool(Blocks.page6.items.261) for $3,292.80 with the sell all command.
+[2024-09-04 15:06:37] - ANDREA1720 sold 506 x Sugar Cane(Farming.page1.items.25) for $15.18 with the sell all command.
+[2024-09-04 15:06:44] - ANDREA1720 sold 960 x White Wool(Blocks.page6.items.261) for $7,055.99 with the sell all command.
+[2024-09-04 15:06:47] - ANDREA1720 sold 960 x White Wool(Blocks.page6.items.261) for $7,055.99 with the sell all command.
+[2024-09-04 15:07:12] - ANDREA1720 sold 1216 x White Wool(Blocks.page6.items.261) for $8,937.59 with the sell all command.
+[2024-09-04 15:07:34] - ANDREA1720 sold 1536 x White Wool(Blocks.page6.items.261) for $11,289.59 with the sell all command.
+[2024-09-04 15:07:41] - ANDREA1720 sold 1536 x White Wool(Blocks.page6.items.261) for $11,289.59 with the sell all command.
+[2024-09-04 15:07:59] - ANDREA1720 sold 1536 x White Wool(Blocks.page6.items.261) for $11,289.59 with the sell all command.
+[2024-09-04 15:08:02] - ANDREA1720 sold 780 x White Wool(Blocks.page6.items.261) for $5,732.99 with the sell all command.
+[2024-09-04 15:08:07] - ANDREA1720 sold 1122 x White Wool(Blocks.page6.items.261) for $8,246.69 with the sell all command.
+[2024-09-04 15:08:11] - ANDREA1720 sold 467 x White Wool(Blocks.page6.items.261) for $3,432.45 with the sell all command.
+[2024-09-04 15:08:14] - ANDREA1720 sold 361 x White Wool(Blocks.page6.items.261) for $2,653.35 with the sell all command.
+[2024-09-04 15:08:23] - ANDREA1720 sold 175 x White Wool(Blocks.page6.items.261) for $1,286.25 with the sell all command.
+[2024-09-04 15:08:28] - ANDREA1720 sold 321 x White Wool(Blocks.page6.items.261) for $2,359.35 with the sell all command.
+[2024-09-04 15:09:33] - kalakko bought 4 x Leather(Farming.page1.items.15) for $268.80 with the buy screen.
+[2024-09-04 15:11:50] - kalakko bought 1 x Ward Armor Trim Smithing Template(Decoration.page4.items.151) for $386.60 with the buy screen.
+[2024-09-04 15:11:54] - kalakko bought 1 x Vex Armor Trim Smithing Template(Decoration.page4.items.150) for $386.60 with the buy screen.
+[2024-09-04 15:11:58] - kalakko bought 1 x Tide Armor Trim Smithing Template(Decoration.page4.items.149) for $416.76 with the buy screen.
+[2024-09-04 15:12:02] - kalakko bought 1 x Spire Armor Trim Smithing Template(Decoration.page4.items.148) for $389.36 with the buy screen.
+[2024-09-04 15:12:07] - kalakko bought 1 x Wayfinder Armor Trim Smithing Template(Decoration.page4.items.152) for $409.04 with the buy screen.
+[2024-09-04 15:12:17] - kalakko bought 1 x Netherite Upgrade Smithing Template(Decoration.page4.items.141) for $386.10 with the buy screen.
+[2024-09-04 15:12:22] - kalakko bought 1 x Snout Armor Trim Smithing Template(Decoration.page4.items.147) for $386.68 with the buy screen.
+[2024-09-04 15:12:52] - kalakko bought 1 x Netherite Ingot(Ores.page1.items.20) for $4,735.24 with the buy screen.
+[2024-09-04 15:15:02] - kalakko bought 1 x Silence Armor Trim Smithing Template(Decoration.page4.items.146) for $386.60 with the buy screen.
+[2024-09-04 15:15:07] - kalakko bought 1 x Rib Armor Trim Smithing Template(Decoration.page4.items.143) for $386.10 with the buy screen.
+[2024-09-04 15:17:24] - kalakko bought 1 x Saddle(Miscellaneous.page1.items.26) for $120 with the buy screen.
+[2024-09-04 15:31:58] - AverageMovie105 bought 64 x Dirt(Blocks.page3.items.109) for $384 with the buy screen.
+[2024-09-04 15:32:38] - AverageMovie105 sold 23 x Cobblestone(Blocks.page1.items.51) for $3.91 with the sell screen.
+[2024-09-04 15:32:52] - AverageMovie105 sold 84 x Diorite(Blocks.page2.items.101) for $15.12 with the sell screen.
+[2024-09-04 15:33:13] - AverageMovie105 sold 139 x Stone(Blocks.page4.items.173) for $25.02 with the sell screen.

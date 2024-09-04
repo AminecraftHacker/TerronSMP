@@ -1,4 +1,4 @@
-####################################################################################################
+# ###################################################################################################
 # +----------------------------------------------------------------------------------------------+ #
 # |                                   __         __   ___  __         __                         | #
 # |                        |    |  | /  ` |__/  |__) |__  |__)  |\/| /__`                        | #
@@ -16,7 +16,7 @@
 # |  New options are not added to this file automatically. Default values are used if an         | #
 # |  option cannot be found. The latest config versions can be obtained at the link above.       | #
 # +----------------------------------------------------------------------------------------------+ #
-####################################################################################################
+# ###################################################################################################
 
 # +----------------------------------------------------------------------------------------------+ #
 # |                                                                                              | #
@@ -90,54 +90,54 @@ storage-method: h2
 # - You don't need to touch any of the settings here if you're using a local storage method!
 # - The connection detail options are shared between all remote storage types.
 data:
-
+  
   # Define the address and port for the database.
   # - The standard DB engine port is used by default
   #   (MySQL: 3306, PostgreSQL: 5432, MongoDB: 27017)
   # - Specify as "host:port" if differs
   address: localhost
-
+  
   # The name of the database to store LuckPerms data in.
   # - This must be created already. Don't worry about this setting if you're using MongoDB.
   database: minecraft
-
+  
   # Credentials for the database.
   username: root
   password: ''
-
+  
   # These settings apply to the MySQL connection pool.
   # - The default values will be suitable for the majority of users.
   # - Do not change these settings unless you know what you're doing!
   pool-settings:
-
+    
     # Sets the maximum size of the MySQL connection pool.
     # - Basically this value will determine the maximum number of actual
     #   connections to the database backend.
     # - More information about determining the size of connection pools can be found here:
     #   https://github.com/brettwooldridge/HikariCP/wiki/About-Pool-Sizing
     maximum-pool-size: 10
-
+    
     # Sets the minimum number of idle connections that the pool will try to maintain.
     # - For maximum performance and responsiveness to spike demands, it is recommended to not set
     #   this value and instead allow the pool to act as a fixed size connection pool.
     #   (set this value to the same as 'maximum-pool-size')
     minimum-idle: 10
-
+    
     # This setting controls the maximum lifetime of a connection in the pool in milliseconds.
     # - The value should be at least 30 seconds less than any database or infrastructure imposed
     #   connection time limit.
     maximum-lifetime: 1800000 # 30 minutes
-
+    
     # This setting controls how frequently the pool will 'ping' a connection in order to prevent it
     # from being timed out by the database or network infrastructure, measured in milliseconds.
     # - The value should be less than maximum-lifetime and greater than 30000 (30 seconds).
     # - Setting the value to zero will disable the keepalive functionality.
     keepalive-time: 0
-
+    
     # This setting controls the maximum number of milliseconds that the plugin will wait for a
     # connection from the pool, before timing out.
     connection-timeout: 5000 # 5 seconds
-
+    
     # This setting allows you to define extra properties for connections.
     #
     # By default, the following options are set to enable utf8 encoding. (you may need to remove
@@ -150,22 +150,22 @@ data:
     properties:
       useUnicode: true
       characterEncoding: utf8
-      #useSSL: false
-      #verifyServerCertificate: false
+  # useSSL: false
+  # verifyServerCertificate: false
 
-  # The prefix for all LuckPerms SQL tables.
+    # The prefix for all LuckPerms SQL tables.
   #
   # - This only applies for remote SQL storage types (MySQL, MariaDB, etc).
   # - Change this if you want to use different tables for different servers.
-  table-prefix: 'luckperms_'
-
+  table-prefix: luckperms_
+  
   # The prefix to use for all LuckPerms MongoDB collections.
   #
   # - This only applies for the MongoDB storage type.
   # - Change this if you want to use different collections for different servers. The default is no
   # prefix.
   mongodb-collection-prefix: ''
-
+  
   # The connection string URI to use to connect to the MongoDB instance.
   #
   # - When configured, this setting will override anything defined in the address, database,
@@ -282,9 +282,9 @@ nats:
 rabbitmq:
   enabled: false
   address: localhost
-  vhost: '/'
-  username: 'guest'
-  password: 'guest'
+  vhost: /
+  username: guest
+  password: guest
 
 
 
@@ -343,11 +343,6 @@ require-sender-group-membership-to-modify: false
 # - They can also be temporarily enabled/disabled on a per-user basis using
 #   '/lp log notify <on|off>'
 log-notify: true
-
-# Defines a list of log entries which should not be sent as notifications to users.
-#
-# - Each entry in the list is a RegEx expression which is matched against the log entry description.
-log-notify-filtered-descriptions:
 #  - "parent add example"
 
 # If LuckPerms should automatically install translation bundles and periodically update them.
@@ -404,18 +399,18 @@ auto-install-translations: true
 meta-formatting:
   prefix:
     format:
-      - "highest"
+    - highest
     duplicates: first-only
-    start-spacer: ""
-    middle-spacer: " "
-    end-spacer: ""
+    start-spacer: ''
+    middle-spacer: ' '
+    end-spacer: ''
   suffix:
     format:
-      - "highest"
+    - highest
     duplicates: first-only
-    start-spacer: ""
-    middle-spacer: " "
-    end-spacer: ""
+    start-spacer: ''
+    middle-spacer: ' '
+    end-spacer: ''
 
 
 
@@ -457,10 +452,6 @@ post-traversal-inheritance-sort: false
 #   => all-values-per-key           Set A will be satisfied by another set B, if all key-value
 #                                   entries in A are also in B.
 context-satisfy-mode: at-least-one-value-per-key
-
-# LuckPerms has a number of built-in contexts. These can be disabled by adding the context key to
-# the list below.
-disabled-contexts:
 #  - "world"
 
 # +----------------------------------------------------------------------------------------------+ #
@@ -492,9 +483,6 @@ apply-global-world-groups: true
 #   => highest-number   Selects the highest numerical meta value
 #   => lowest-number    Selects the lowest numerical meta value
 meta-value-selection-default: inheritance
-
-# Defines how meta values should be selected per key.
-meta-value-selection:
 #  max-homes: highest-number
 
 # +----------------------------------------------------------------------------------------------+ #
@@ -569,20 +557,6 @@ apply-bukkit-attachment-permissions: true
 #   => specifying the Java class name used by the calculator (e.g. com.example.ExampleCalculator)
 #   => specifying a sub-section of the Java package used by the calculator (e.g. com.example)
 disabled-context-calculators: []
-
-# Allows you to set "aliases" for the worlds sent forward for context calculation.
-#
-# - These aliases are provided in addition to the real world name. Applied recursively.
-# - Remove the comment characters for the default aliases to apply.
-world-rewrite:
-#  world_nether: world
-#  world_the_end: world
-
-# Define special group weights for this server.
-#
-# - Group weights can also be applied directly to group data, using the setweight command.
-# - This section allows weights to be set on a per-server basis.
-group-weight:
 #  admin: 10
 
 

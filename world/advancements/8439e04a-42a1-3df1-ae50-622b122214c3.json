@@ -347,6 +347,7 @@
       "minecraft:hoglin": "2024-09-03 10:20:44 +0000",
       "minecraft:piglin": "2024-09-03 10:20:45 +0000",
       "minecraft:enderman": "2024-08-30 17:02:30 +0000",
+      "minecraft:magma_cube": "2024-09-04 15:32:25 +0000",
       "minecraft:spider": "2024-08-30 15:55:23 +0000",
       "minecraft:piglin_brute": "2024-09-03 10:21:04 +0000",
       "minecraft:zombie": "2024-08-30 15:33:29 +0000",
@@ -3089,16 +3090,21 @@
     },
     "done": true
   },
-  "minecraft:adventure/trim_with_all_exclusive_armor_patterns": {
+  "minecraft:adventure/trim_with_any_armor_pattern": {
     "criteria": {
-      "armor_trimmed_minecraft:silence_armor_trim_smithing_template_smithing_trim": "2024-09-03 18:06:10 +0000",
-      "armor_trimmed_minecraft:spire_armor_trim_smithing_template_smithing_trim": "2024-09-03 18:06:13 +0000"
+      "armor_trimmed_minecraft:sentry_armor_trim_smithing_template_smithing_trim": "2024-09-03 18:01:37 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/spire_armor_trim_smithing_template": {
     "criteria": {
       "has_spire_armor_trim_smithing_template": "2024-09-03 18:03:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-09-03 18:03:11 +0000"
     },
     "done": true
   },
@@ -3114,15 +3120,142 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/spire_armor_trim_smithing_template_smithing_trim": {
+  "minecraft:adventure/trim_with_all_exclusive_armor_patterns": {
     "criteria": {
-      "has_smithing_trim_template": "2024-09-03 18:03:11 +0000"
+      "armor_trimmed_minecraft:silence_armor_trim_smithing_template_smithing_trim": "2024-09-03 18:06:10 +0000",
+      "armor_trimmed_minecraft:wayfinder_armor_trim_smithing_template_smithing_trim": "2024-09-04 15:13:15 +0000",
+      "armor_trimmed_minecraft:tide_armor_trim_smithing_template_smithing_trim": "2024-09-04 15:13:22 +0000",
+      "armor_trimmed_minecraft:spire_armor_trim_smithing_template_smithing_trim": "2024-09-03 18:06:13 +0000",
+      "armor_trimmed_minecraft:vex_armor_trim_smithing_template_smithing_trim": "2024-09-04 15:13:25 +0000",
+      "armor_trimmed_minecraft:ward_armor_trim_smithing_template_smithing_trim": "2024-09-04 15:13:31 +0000",
+      "armor_trimmed_minecraft:snout_armor_trim_smithing_template_smithing_trim": "2024-09-04 15:13:13 +0000",
+      "armor_trimmed_minecraft:rib_armor_trim_smithing_template_smithing_trim": "2024-09-04 15:15:19 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/trim_with_any_armor_pattern": {
+  "minecraft:recipes/building_blocks/dye_brown_bed": {
     "criteria": {
-      "armor_trimmed_minecraft:sentry_armor_trim_smithing_template_smithing_trim": "2024-09-03 18:01:37 +0000"
+      "has_needed_dye": "2024-09-04 15:10:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2024-09-04 15:08:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
+    "criteria": {
+      "has_snout_armor_trim_smithing_template": "2024-09-04 15:12:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ward_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-09-04 15:11:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wayfinder_armor_trim_smithing_template": {
+    "criteria": {
+      "has_wayfinder_armor_trim_smithing_template": "2024-09-04 15:12:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-09-04 15:11:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-09-04 15:12:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-09-04 15:15:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_brown_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-09-04 15:10:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/tide_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-09-04 15:11:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_brown_dye": "2024-09-04 15:10:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/obtain_netherite_hoe": {
+    "criteria": {
+      "netherite_hoe": "2024-09-04 15:33:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2024-09-04 15:32:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
+    "criteria": {
+      "has_rib_armor_trim_smithing_template": "2024-09-04 15:15:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_candle": {
+    "criteria": {
+      "has_brown_dye": "2024-09-04 15:10:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ward_armor_trim_smithing_template": {
+    "criteria": {
+      "has_ward_armor_trim_smithing_template": "2024-09-04 15:11:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2024-09-04 15:32:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/tide_armor_trim_smithing_template": {
+    "criteria": {
+      "has_tide_armor_trim_smithing_template": "2024-09-04 15:11:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_brown_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-09-04 15:10:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
+    "criteria": {
+      "has_vex_armor_trim_smithing_template": "2024-09-04 15:11:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wayfinder_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-09-04 15:12:07 +0000"
     },
     "done": true
   },

@@ -17,9 +17,9 @@ settings:
     MUSIC_DISC_PIGSTEP: 148
     MUSIC_DISC_OTHERSIDE: 195
     MUSIC_DISC_5: 120
-
+  
   model-data:
-    0: 100
-
+    '0': 100
+  
   namespace:
     example.namespace: 100

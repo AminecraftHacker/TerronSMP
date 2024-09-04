@@ -14,7 +14,7 @@
 bedrock:
   # The IP address that will listen for connections.
   # Generally, you should only uncomment and change this if you want to limit what IPs can connect to your server.
-  #address: 0.0.0.0
+  # address: 0.0.0.0
   # The port that will listen for connections
   port: 19132
   # Some hosting services change your Java port everytime you start the server and require the same port to be used for Bedrock.
@@ -23,10 +23,10 @@ bedrock:
   clone-remote-port: false
   # The MOTD that will be broadcasted to Minecraft: Bedrock Edition clients. This is irrelevant if "passthrough-motd" is set to true
   # If either of these are empty, the respective string will default to "Geyser"
-  motd1: "Geyser"
-  motd2: "Another Geyser server."
+  motd1: Geyser
+  motd2: Another Geyser server.
   # The Server Name that will be sent to Minecraft: Bedrock Edition clients. This is visible in both the pause menu and the settings menu.
-  server-name: "Geyser"
+  server-name: Geyser
   # How much to compress network traffic to the Bedrock client. The higher the number, the more CPU usage used, but
   # the smaller the bandwidth used. Does not have any effect below -1 or above 9. Set to -1 to disable.
   compression-level: 6
@@ -36,11 +36,11 @@ bedrock:
   # Whether to enable PROXY protocol or not for clients. You DO NOT WANT this feature unless you run UDP reverse proxy
   # in front of your Geyser instance.
   enable-proxy-protocol: false
-  # A list of allowed PROXY protocol speaking proxy IP addresses/subnets. Only effective when "enable-proxy-protocol" is enabled, and
-  # should really only be used when you are not able to use a proper firewall (usually true with shared hosting providers etc.).
-  # Keeping this list empty means there is no IP address whitelist.
-  # IP addresses, subnets, and links to plain text files are supported.
-  #proxy-protocol-whitelisted-ips: [ "127.0.0.1", "172.18.0.0/16", "https://example.com/whitelist.txt" ]
+# A list of allowed PROXY protocol speaking proxy IP addresses/subnets. Only effective when "enable-proxy-protocol" is enabled, and
+# should really only be used when you are not able to use a proper firewall (usually true with shared hosting providers etc.).
+# Keeping this list empty means there is no IP address whitelist.
+# IP addresses, subnets, and links to plain text files are supported.
+# proxy-protocol-whitelisted-ips: [ "127.0.0.1", "172.18.0.0/16", "https://example.com/whitelist.txt" ]
 remote:
   # The IP address of the remote (Java Edition) server
   # If it is "auto", for standalone version the remote address will be set to 127.0.0.1,
@@ -77,8 +77,8 @@ floodgate-key-file: key.pem
 # Removing a name from this list will delete its cached login information on the next Geyser startup.
 # The file that tokens will be saved in is in the same folder as this config, named "saved-refresh-tokens.json".
 saved-user-logins:
-  - ThisExampleUsernameShouldBeLongEnoughToNeverBeAnXboxUsername
-  - ThisOtherExampleUsernameShouldAlsoBeLongEnough
+- ThisExampleUsernameShouldBeLongEnoughToNeverBeAnXboxUsername
+- ThisOtherExampleUsernameShouldAlsoBeLongEnough
 
 # Specify how many seconds to wait while user authorizes Geyser to access their Microsoft account.
 # User is allowed to disconnect from the server during this period.
@@ -128,7 +128,7 @@ disable-bedrock-scaffolding: false
 # disabled - the default/fallback, which doesn't apply this workaround
 # no-emotes - emotes will NOT be sent to other Bedrock clients and offhand will be swapped. This effectively disables all emotes from being seen.
 # emotes-and-offhand - emotes will be sent to Bedrock clients and offhand will be swapped
-emote-offhand-workaround: "disabled"
+emote-offhand-workaround: disabled
 
 # The default locale if we dont have the one the client requested. Uncomment to not use the default system language.
 # default-locale: en_us

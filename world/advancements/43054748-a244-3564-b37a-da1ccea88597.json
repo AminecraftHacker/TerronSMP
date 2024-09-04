@@ -395,6 +395,7 @@
       "minecraft:pillager": "2024-08-30 17:51:20 +0000",
       "minecraft:skeleton": "2024-08-30 16:03:07 +0000",
       "minecraft:piglin": "2024-09-03 17:43:56 +0000",
+      "minecraft:magma_cube": "2024-09-04 15:31:15 +0000",
       "minecraft:witch": "2024-09-01 13:37:59 +0000",
       "minecraft:spider": "2024-08-30 16:21:34 +0000",
       "minecraft:piglin_brute": "2024-08-31 15:04:41 +0000",
@@ -2948,18 +2949,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/trim_with_all_exclusive_armor_patterns": {
-    "criteria": {
-      "armor_trimmed_minecraft:tide_armor_trim_smithing_template_smithing_trim": "2024-09-03 18:06:48 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
-    "criteria": {
-      "has_carrot": "2024-09-03 18:23:02 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/tide_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2024-09-03 18:06:35 +0000"
@@ -2972,9 +2961,51 @@
     },
     "done": true
   },
+  "minecraft:adventure/trim_with_all_exclusive_armor_patterns": {
+    "criteria": {
+      "armor_trimmed_minecraft:tide_armor_trim_smithing_template_smithing_trim": "2024-09-03 18:06:48 +0000"
+    },
+    "done": false
+  },
   "minecraft:adventure/trim_with_any_armor_pattern": {
     "criteria": {
       "armor_trimmed_minecraft:tide_armor_trim_smithing_template_smithing_trim": "2024-09-03 18:06:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-09-03 18:23:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2024-09-04 15:28:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2024-09-04 15:28:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2024-09-04 15:30:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2024-09-04 15:30:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2024-09-04 15:36:16 +0000"
     },
     "done": true
   },

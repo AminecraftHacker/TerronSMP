@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1725385280848
-  login: 1725382764399
+  logout: 1725464294178
+  login: 1725463658838
 money: '0'
 lastlocation:
   world: 6a5c0b84-fc1c-41d0-bed9-0c6108219ecc
@@ -31,11 +31,11 @@ last-account-name: AverageMovie105
 logoutlocation:
   world: 6a5c0b84-fc1c-41d0-bed9-0c6108219ecc
   world-name: world
-  x: -536.2866025888326
-  y: 51.0
-  z: -1913.9345442086758
-  yaw: 135.582275390625
-  pitch: 15.299999237060547
+  x: -513.0278442208368
+  y: 64.16610926093821
+  z: -1993.3474534218935
+  yaw: 164.9849853515625
+  pitch: 17.849990844726562
 homes:
   home:
     world: 6a5c0b84-fc1c-41d0-bed9-0c6108219ecc

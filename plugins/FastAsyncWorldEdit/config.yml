@@ -1,10 +1,10 @@
 # These first 6 aren't configurable
-issues: "https://github.com/IntellectualSites/FastAsyncWorldEdit/issues"
-wiki: "https://intellectualsites.github.io/fastasyncworldedit-documentation/"
-date: "Sun Sep 22 00:00:00 UTC 2024"
-build: "https://ci.athion.net/job/FastAsyncWorldEdit/884"
-commit: "https://github.com/IntellectualSites/FastAsyncWorldEdit/commit/fe598b8e"
-platform: "Bukkit"
+issues: https://github.com/IntellectualSites/FastAsyncWorldEdit/issues
+wiki: https://intellectualsites.github.io/fastasyncworldedit-documentation/
+date: Sun Sep 22 00:00:00 UTC 2024
+build: https://ci.athion.net/job/FastAsyncWorldEdit/884
+commit: https://github.com/IntellectualSites/FastAsyncWorldEdit/commit/fe598b8e
+platform: Bukkit
 # Set true to enable WorldEdit restrictions per region (e.g. PlotSquared or WorldGuard).
 # To be allowed to WorldEdit in a region, users need the appropriate
 # fawe.<plugin>  permission. See the Permissions page for supported region plugins.
@@ -79,15 +79,15 @@ web:
   #  - All schematics are anonymous and private
   #  - Downloads can be deleted by the user
   #  - Supports clipboard uploads, downloads and saves
-  url: "https://schem.intellectualsites.com/fawe/"
+  url: https://schem.intellectualsites.com/fawe/
   # The url of the backend server (Arkitektonika)
-  arkitektonika-backend-url: "https://api.schematic.cloud/"
+  arkitektonika-backend-url: https://api.schematic.cloud/
   # The url used to generate a download link from.
   # {key} will be replaced with the generated key
-  arkitektonika-download-url: "https://schematic.cloud/download/{key}"
+  arkitektonika-download-url: https://schematic.cloud/download/{key}
   # The url used to generate a deletion link from.
   # {key} will be replaced with the generated key
-  arkitektonika-delete-url: "https://schematic.cloud/delete/{key}"
+  arkitektonika-delete-url: https://schematic.cloud/delete/{key}
   # The maximum amount of time in seconds the plugin can attempt to load images for.
   max-image-load-time: 5
   # The maximum size (width x length) an image being loaded can be.
@@ -97,14 +97,14 @@ web:
   #  - Adding '*' to the list will allow any host, but this is NOT adviseable
   #  - Crash exploits exist with malformed images
   #  - See: https://medium.com/chargebee-engineering/perils-of-parsing-pixel-flood-attack-on-java-imageio-a97aeb06637d
-  allowed-image-hosts: 
-  - "i.imgur.com"
+  allowed-image-hosts:
+  - i.imgur.com
 
 extent:
   # Don't bug console when these plugins slow down WorldEdit operations
   #  - You'll see a message in console or ingame if you need to change this option
-  allowed-plugins: 
-  - "com.example.ExamplePlugin"
+  allowed-plugins:
+  - com.example.ExamplePlugin
   # Should debug messages be sent when third party extents are used?
   debug: true
 
@@ -148,7 +148,7 @@ queue:
     #  - title = Display progress titles
     #  - chat = Display progress in chat
     #  - Currently not implemented
-    display: "false"
+    display: 'false'
     # How often edit progress is displayed
     interval: 1
     # Delay sending progress in milliseconds (so quick edits don't spam)
@@ -239,12 +239,12 @@ history:
 # Paths for various directories
 paths:
   # Put any minecraft or mod jars for FAWE to be aware of block textures
-  textures: "textures"
-  heightmap: "heightmap"
-  history: "history"
+  textures: textures
+  heightmap: heightmap
+  history: history
   # Multiple servers can use the same clipboards
   #  - Use a shared directory or NFS/Samba
-  clipboard: "clipboard"
+  clipboard: clipboard
   # Each player has his or her own sub directory for schematics
   per-player-schematics: false
 
@@ -253,7 +253,7 @@ region-restrictions-options:
   # What type of users are allowed to WorldEdit in a region
   #  - MEMBER = Players added to a region
   #  - OWNER = Players who own the region
-  mode: "MEMBER"
+  mode: MEMBER
   # Allow region blacklists.
   #  - Currently only implemented for WorldGuard
   #  - see region-restrictions-options.worldguard-region-blacklist
@@ -263,8 +263,8 @@ region-restrictions-options:
   # managers are not checked if an exclusive manager allows an edit.
   #  - May be useful to add PlotSquared if using both P2 and WorldGuard on a server
   #  - Some custom-implementations in other plugins may override this setting
-  exclusive-managers: 
-  - "ExamplePlugin"
+  exclusive-managers:
+  - ExamplePlugin
   # If a worldguard-protected world should be considered as a region blacklist.
   #  - This will create a blacklist of regions where an edit cannot operate.
   #  - Useful for a "freebuild" worlds with few protected areas.
@@ -361,10 +361,10 @@ limits:
     #  - "minecraft:conduit[waterlogged=true]"
     #  - "minecraft:piston[extended=false,facing=west]"
     #  - "minecraft:wheat[age=7]"
-    disallowed-blocks: 
-    - "minecraft:wheat"
-    - "minecraft:fire"
-    - "minecraft:redstone_wire"
+    disallowed-blocks:
+    - minecraft:wheat
+    - minecraft:fire
+    - minecraft:redstone_wire
     # List of block properties that should be remapped if used in an edit. Entries should take the form
     # "property_name[value1_old:value1_new,value2_old:value2_new]". For example:
     #  - "waterlogged[true:false]"
