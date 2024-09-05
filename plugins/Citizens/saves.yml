@@ -20,7 +20,7 @@ npc:
         pitch: -2.1672
       type: PLAYER
       spawned: true
-    traitnames: hologramtrait,inventory,owner,type,spawned,scoreboardtrait,skintrait,location
+    traitnames: location,skintrait,type,hologramtrait,inventory,owner,spawned,scoreboardtrait
     navigator:
       speedmodifier: 1.0
       avoidwater: false
@@ -43,7 +43,7 @@ npc:
         pitch: -3.1495
       type: PLAYER
       spawned: true
-    traitnames: hologramtrait,inventory,owner,type,spawned,scoreboardtrait,skintrait,location
+    traitnames: location,skintrait,type,hologramtrait,inventory,owner,spawned,scoreboardtrait
     navigator:
       speedmodifier: 1.0
       avoidwater: false
@@ -66,7 +66,7 @@ npc:
         pitch: 2.0891
       type: PLAYER
       spawned: true
-    traitnames: hologramtrait,inventory,owner,type,spawned,scoreboardtrait,skintrait,location
+    traitnames: location,skintrait,type,hologramtrait,inventory,owner,spawned,scoreboardtrait
     navigator:
       speedmodifier: 1.0
       avoidwater: false
