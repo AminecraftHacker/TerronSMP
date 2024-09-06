@@ -11,31 +11,31 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1725551457111
+  lastteleport: 1725642947219
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1725551725108
-  login: 1725547387341
+  logout: 1725643167924
+  login: 1725630571240
 money: '0'
 lastlocation:
-  world: 6a5c0b84-fc1c-41d0-bed9-0c6108219ecc
-  world-name: world
-  x: 1995.294641468794
-  y: 63.41999998688698
-  z: 2937.3734436693207
-  yaw: -160.798828125
-  pitch: 11.250101089477539
+  world: 4ea0fbb7-6a7c-40ed-a765-628fcb1c7cbd
+  world-name: Spawn
+  x: 2.0278834084671216
+  y: 1.0
+  z: 0.19665841073455573
+  yaw: 66.90713500976562
+  pitch: 35.460750579833984
 last-account-name: AverageMovie105
 logoutlocation:
   world: 6a5c0b84-fc1c-41d0-bed9-0c6108219ecc
   world-name: world
-  x: 2148.6999141823308
-  y: 69.0
-  z: 3065.932488427198
-  yaw: 114.14756774902344
-  pitch: 15.000016212463379
+  x: -538.7603873409229
+  y: 46.0
+  z: -1904.4145853731436
+  yaw: -85.51617431640625
+  pitch: 28.199934005737305
 homes:
   home:
     world: 6a5c0b84-fc1c-41d0-bed9-0c6108219ecc

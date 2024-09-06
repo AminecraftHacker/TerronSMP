@@ -737,3 +737,247 @@
 [2024-09-05 15:54:23] - ANDREA1720 sold 768 x White Wool(Blocks.page6.items.261) for $5,644.79 with the sell all command.
 [2024-09-05 15:54:48] - ANDREA1720 sold 896 x White Wool(Blocks.page6.items.261) for $6,585.59 with the sell all command.
 [2024-09-05 15:54:52] - ANDREA1720 sold 62 x White Wool(Blocks.page6.items.261) for $455.70 with the sell all command.
+[2024-09-06 13:25:55] - ANDREA1720 sold 922 x White Wool(Blocks.page6.items.261) for $6,776.69 with the sell all command.
+[2024-09-06 13:26:06] - ANDREA1720 sold 908 x White Wool(Blocks.page6.items.261) for $6,673.79 with the sell all command.
+[2024-09-06 13:26:15] - ANDREA1720 sold 960 x White Wool(Blocks.page6.items.261) for $7,055.99 with the sell all command.
+[2024-09-06 13:28:05] - ANDREA1720 sold 859 x White Wool(Blocks.page6.items.261) for $6,313.64 with the sell all command.
+[2024-09-06 13:33:44] - ANDREA1720 sold 896 x White Wool(Blocks.page6.items.261) for $6,585.59 with the sell all command.
+[2024-09-06 13:33:48] - ANDREA1720 sold 896 x White Wool(Blocks.page6.items.261) for $6,585.59 with the sell all command.
+[2024-09-06 13:33:59] - ANDREA1720 sold 1108 x White Wool(Blocks.page6.items.261) for $8,143.79 with the sell all command.
+[2024-09-06 13:42:38] - AverageMovie105 sold 256 x Tuff(Blocks.page4.items.188) for $128 with the sell screen.
+[2024-09-06 13:48:11] - AverageMovie105 sold 576 x Packed Ice(Blocks.page1.items.6) for $1,946.87 with the sell screen.
+[2024-09-06 13:51:28] - AverageMovie105 sold 528 x Packed Ice(Blocks.page1.items.6) for $1,784.63 with the sell screen.
+[2024-09-06 13:56:45] - AverageMovie105 bought 1 x Ancient Debris(Ores.page1.items.3) for $1,058 with the buy screen.
+[2024-09-06 13:57:36] - AverageMovie105 bought 3 x Ancient Debris(Ores.page1.items.3) for $3,174 with the buy screen.
+[2024-09-06 14:01:50] - AverageMovie105 bought 17 x Wheat(Farming.page1.items.28) for $170 with the buy screen.
+[2024-09-06 14:02:30] - AverageMovie105 bought 4 x Experience Bottle(Miscellaneous.page1.items.11) for $863.52 with the buy screen.
+[2024-09-06 14:07:12] - AverageMovie105 sold 150 x Stone(Blocks.page4.items.173) for $27 with the sell screen.
+[2024-09-06 14:07:50] - AverageMovie105 bought 64 x Spruce Planks(Blocks.page5.items.236) for $142.08 with the buy screen.
+[2024-09-06 14:08:25] - AverageMovie105 sold 37 x White Wool(Blocks.page6.items.261) for $271.95 with the sell screen.
+[2024-09-06 14:09:36] - AverageMovie105 bought 6 x Crafter(Redstone.page1.items.2) for $603.12 with the buy screen.
+[2024-09-06 14:10:06] - AverageMovie105 bought 4 x Hopper(Redstone.page1.items.6) for $309.36 with the buy screen.
+[2024-09-06 14:10:35] - AverageMovie105 bought 4 x Observer(Redstone.page1.items.12) for $162.56 with the buy screen.
+[2024-09-06 14:10:41] - AverageMovie105 bought 4 x Note Block(Redstone.page1.items.11) for $103.52 with the buy screen.
+[2024-09-06 14:10:48] - AverageMovie105 bought 4 x Tripwire Hook(Redstone.page1.items.17) for $30.24 with the buy screen.
+[2024-09-06 14:17:01] - AverageMovie105 bought 4 x Glass(Blocks.page3.items.119) for $50.40 with the buy screen.
+[2024-09-06 14:20:32] - AverageMovie105 bought 3 x Oak Trapdoor(Redstone.page1.items.33) for $20.88 with the buy screen.
+[2024-09-06 14:20:50] - AverageMovie105 sold 1 x Oak Trapdoor(Redstone.page1.items.33) for $0.87 with the sell screen.
+[2024-09-06 14:20:55] - AverageMovie105 sold 2 x Note Block(Redstone.page1.items.11) for $6.48 with the sell screen.
+[2024-09-06 14:20:58] - AverageMovie105 sold 2 x Crafter(Redstone.page1.items.2) for $25.14 with the sell screen.
+[2024-09-06 14:21:03] - AverageMovie105 sold 2 x Observer(Redstone.page1.items.12) for $10.16 with the sell screen.
+[2024-09-06 14:21:09] - AverageMovie105 sold 2 x Tripwire Hook(Redstone.page1.items.17) for $1.90 with the sell screen.
+[2024-09-06 14:21:57] - AverageMovie105 bought 2 x String(Mobs.page1.items.20) for $28 with the buy screen.
+[2024-09-06 14:23:05] - AverageMovie105 bought 1 x Lever(Redstone.page1.items.9) for $2.66 with the buy screen.
+[2024-09-06 14:24:30] - AverageMovie105 bought 4 x Glass(Blocks.page3.items.119) for $50.40 with the buy screen.
+[2024-09-06 14:26:46] - AverageMovie105 sold 133 x White Wool(Blocks.page6.items.261) for $977.55 with the sell screen.
+[2024-09-06 14:26:53] - AverageMovie105 sold 8 x Andesite(Blocks.page1.items.12) for $1.44 with the sell screen.
+[2024-09-06 14:27:46] - AverageMovie105 bought 17 x Wheat(Farming.page1.items.28) for $170 with the buy screen.
+[2024-09-06 14:29:01] - AverageMovie105 sold 279 x White Wool(Blocks.page6.items.261) for $2,050.65 with the sell screen.
+[2024-09-06 14:33:24] - AverageMovie105 bought 3 x Note Block(Redstone.page1.items.11) for $77.64 with the buy screen.
+[2024-09-06 14:33:31] - AverageMovie105 sold 1 x Note Block(Redstone.page1.items.11) for $3.24 with the sell screen.
+[2024-09-06 14:33:55] - kalakko bought 1 x Crafter(Redstone.page1.items.2) for $100.52 with the buy screen.
+[2024-09-06 14:34:04] - AverageMovie105 sold 301 x White Wool(Blocks.page6.items.261) for $2,212.35 with the sell screen.
+[2024-09-06 14:34:20] - AverageMovie105 sold 344 x White Wool(Blocks.page6.items.261) for $2,528.40 with the sell screen.
+[2024-09-06 14:36:53] - AverageMovie105 bought 2 x Oak Trapdoor(Redstone.page1.items.33) for $13.92 with the buy screen.
+[2024-09-06 14:38:33] - AverageMovie105 sold 468 x White Wool(Blocks.page6.items.261) for $3,439.80 with the sell screen.
+[2024-09-06 14:39:19] - AverageMovie105 bought 2 x String(Mobs.page1.items.20) for $28 with the buy screen.
+[2024-09-06 14:39:27] - AverageMovie105 sold 1 x String(Mobs.page1.items.20) for $1.75 with the sell screen.
+[2024-09-06 14:39:44] - AverageMovie105 bought 2 x Tripwire Hook(Redstone.page1.items.17) for $15.12 with the buy screen.
+[2024-09-06 14:42:18] - AverageMovie105 bought 8 x Glass(Blocks.page3.items.119) for $100.80 with the buy screen.
+[2024-09-06 14:42:55] - AverageMovie105 bought 1 x Lever(Redstone.page1.items.9) for $2.66 with the buy screen.
+[2024-09-06 14:43:36] - AverageMovie105 bought 4 x Hopper(Redstone.page1.items.6) for $309.36 with the buy screen.
+[2024-09-06 14:46:53] - AverageMovie105 bought 2 x String(Mobs.page1.items.20) for $28 with the buy screen.
+[2024-09-06 14:47:49] - AverageMovie105 bought 18 x String(Mobs.page1.items.20) for $252 with the buy screen.
+[2024-09-06 14:57:43] - AverageMovie105 sold 478 x White Wool(Blocks.page6.items.261) for $3,513.30 with the sell screen.
+[2024-09-06 14:57:55] - AverageMovie105 sold 576 x White Wool(Blocks.page6.items.261) for $4,233.60 with the sell screen.
+[2024-09-06 14:58:10] - AverageMovie105 sold 576 x White Wool(Blocks.page6.items.261) for $4,233.60 with the sell screen.
+[2024-09-06 14:58:26] - AverageMovie105 sold 576 x White Wool(Blocks.page6.items.261) for $4,233.60 with the sell screen.
+[2024-09-06 14:59:46] - ANDREA1720 sold 640 x White Wool(Blocks.page6.items.261) for $4,704 with the sell all command.
+[2024-09-06 15:00:18] - ANDREA1720 sold 1280 x White Wool(Blocks.page6.items.261) for $9,407.99 with the sell all command.
+[2024-09-06 15:00:25] - ANDREA1720 sold 1280 x White Wool(Blocks.page6.items.261) for $9,407.99 with the sell all command.
+[2024-09-06 15:00:28] - ANDREA1720 sold 380 x White Wool(Blocks.page6.items.261) for $2,793 with the sell all command.
+[2024-09-06 15:01:37] - ANDREA1720 bought 192 x Oak Log(Blocks.page5.items.230) for $1,152 with the buy stacks screen.
+[2024-09-06 15:09:36] - AverageMovie105 sold 25 x String(Mobs.page1.items.20) for $43.75 with the sell screen.
+[2024-09-06 15:10:16] - AverageMovie105 sold 832 x White Wool(Blocks.page6.items.261) for $6,115.19 with the sell screen.
+[2024-09-06 15:10:17] - ANDREA1720 bought 64 x Cooked Beef(Food.page1.items.11) for $806.40 with the buy screen.
+[2024-09-06 15:10:44] - AverageMovie105 sold 762 x White Wool(Blocks.page6.items.261) for $5,600.69 with the sell screen.
+[2024-09-06 15:10:48] - ANDREA1720 bought 128 x Oak Log(Blocks.page5.items.230) for $768 with the buy stacks screen.
+[2024-09-06 15:16:49] - AverageMovie105 sold 768 x White Wool(Blocks.page6.items.261) for $5,644.79 with the sell screen.
+[2024-09-06 15:18:02] - AverageMovie105 bought 64 x Spruce Planks(Blocks.page5.items.236) for $142.08 with the buy screen.
+[2024-09-06 15:18:07] - AverageMovie105 bought 32 x Spruce Planks(Blocks.page5.items.236) for $71.04 with the buy screen.
+[2024-09-06 15:18:50] - Marck009 sold 1072 x White Wool(Blocks.page6.items.261) for $7,879.19 with the sell screen.
+[2024-09-06 15:19:03] - AverageMovie105 bought 4 x Hopper(Redstone.page1.items.6) for $309.36 with the buy screen.
+[2024-09-06 15:19:20] - AverageMovie105 bought 4 x Crafter(Redstone.page1.items.2) for $402.08 with the buy screen.
+[2024-09-06 15:19:36] - ANDREA1720 sold 1152 x White Wool(Blocks.page6.items.261) for $8,467.19 with the sell all command.
+[2024-09-06 15:20:13] - ANDREA1720 sold 1152 x White Wool(Blocks.page6.items.261) for $8,467.19 with the sell all command.
+[2024-09-06 15:20:15] - AverageMovie105 bought 33 x Diamond(Ores.page1.items.9) for $3,465 with the buy screen.
+[2024-09-06 15:20:24] - ANDREA1720 sold 661 x White Wool(Blocks.page6.items.261) for $4,858.35 with the sell all command.
+[2024-09-06 15:21:44] - AverageMovie105 bought 10 x Experience Bottle(Miscellaneous.page1.items.11) for $2,158.80 with the buy screen.
+[2024-09-06 15:23:13] - AverageMovie105 bought 1 x Enchanted Book(Enchanting.page1.items.9) for $1,944.82 with the buy screen.
+[2024-09-06 15:23:23] - AverageMovie105 bought 1 x Enchanted Book(Enchanting.page1.items.34) for $400 with the buy screen.
+[2024-09-06 15:23:39] - AverageMovie105 bought 9 x Experience Bottle(Miscellaneous.page1.items.11) for $1,942.92 with the buy screen.
+[2024-09-06 15:24:14] - AverageMovie105 bought 2 x Note Block(Redstone.page1.items.11) for $51.76 with the buy screen.
+[2024-09-06 15:24:19] - AverageMovie105 bought 2 x Observer(Redstone.page1.items.12) for $81.28 with the buy screen.
+[2024-09-06 15:24:26] - AverageMovie105 bought 2 x Tripwire Hook(Redstone.page1.items.17) for $15.12 with the buy screen.
+[2024-09-06 15:24:37] - AverageMovie105 bought 2 x Oak Trapdoor(Redstone.page1.items.33) for $13.92 with the buy screen.
+[2024-09-06 15:26:01] - AverageMovie105 sold 704 x White Wool(Blocks.page6.items.261) for $5,174.40 with the sell screen.
+[2024-09-06 15:26:23] - AverageMovie105 sold 704 x White Wool(Blocks.page6.items.261) for $5,174.40 with the sell screen.
+[2024-09-06 15:27:45] - ANDREA1720 bought 64 x Bamboo Planks(Blocks.page1.items.22) for $64 with the buy screen.
+[2024-09-06 15:27:45] - AverageMovie105 bought 8 x Tinted Glass(Blocks.page3.items.121) for $97.12 with the buy screen.
+[2024-09-06 15:28:04] - AverageMovie105 bought 2 x String(Mobs.page1.items.20) for $28 with the buy screen.
+[2024-09-06 15:28:25] - ANDREA1720 bought 64 x Ender Pearl(Mobs.page1.items.6) for $896 with the buy screen.
+[2024-09-06 15:28:25] - AverageMovie105 bought 1 x Lever(Redstone.page1.items.9) for $2.66 with the buy screen.
+[2024-09-06 15:30:02] - AverageMovie105 bought 2 x String(Mobs.page1.items.20) for $28 with the buy screen.
+[2024-09-06 15:30:51] - AverageMovie105 bought 2 x String(Mobs.page1.items.20) for $28 with the buy screen.
+[2024-09-06 15:33:07] - ANDREA1720 sold 205 x White Wool(Blocks.page6.items.261) for $1,506.75 with the sell all command.
+[2024-09-06 15:33:42] - kalakko bought 64 x Golden Carrot(Food.page1.items.8) for $1,561.60 with the buy screen.
+[2024-09-06 15:34:15] - ANDREA1720 sold 896 x White Wool(Blocks.page6.items.261) for $6,585.59 with the sell all command.
+[2024-09-06 15:34:55] - ANDREA1720 sold 1152 x White Wool(Blocks.page6.items.261) for $8,467.19 with the sell all command.
+[2024-09-06 15:35:09] - ANDREA1720 sold 1062 x White Wool(Blocks.page6.items.261) for $7,805.69 with the sell all command.
+[2024-09-06 15:35:26] - ANDREA1720 sold 1152 x White Wool(Blocks.page6.items.261) for $8,467.19 with the sell all command.
+[2024-09-06 15:35:40] - ANDREA1720 sold 1152 x White Wool(Blocks.page6.items.261) for $8,467.19 with the sell all command.
+[2024-09-06 15:35:57] - ANDREA1720 sold 1073 x White Wool(Blocks.page6.items.261) for $7,886.54 with the sell all command.
+[2024-09-06 15:36:00] - ANDREA1720 sold 319 x White Wool(Blocks.page6.items.261) for $2,344.65 with the sell all command.
+[2024-09-06 15:36:11] - ANDREA1720 sold 1152 x White Wool(Blocks.page6.items.261) for $8,467.19 with the sell all command.
+[2024-09-06 15:36:33] - ANDREA1720 sold 1070 x White Wool(Blocks.page6.items.261) for $7,864.49 with the sell all command.
+[2024-09-06 15:37:59] - AverageMovie105 sold 10 x String(Mobs.page1.items.20) for $17.50 with the sell screen.
+[2024-09-06 15:38:07] - AverageMovie105 sold 5 x Granite(Blocks.page3.items.122) for $0.89 with the sell screen.
+[2024-09-06 15:38:35] - AverageMovie105 sold 1088 x White Wool(Blocks.page6.items.261) for $7,996.79 with the sell screen.
+[2024-09-06 15:38:59] - AverageMovie105 sold 1088 x White Wool(Blocks.page6.items.261) for $7,996.79 with the sell screen.
+[2024-09-06 15:41:02] - AverageMovie105 sold 223 x String(Mobs.page1.items.20) for $390.25 with the sell screen.
+[2024-09-06 15:41:11] - AverageMovie105 sold 576 x White Wool(Blocks.page6.items.261) for $4,233.60 with the sell screen.
+[2024-09-06 15:43:21] - ANDREA1720 bought 17 x Obsidian(Blocks.page3.items.143) for $1,062.50 with the buy screen.
+[2024-09-06 15:44:11] - Marck009 sold 1194 x White Wool(Blocks.page6.items.261) for $8,775.89 with the sell screen.
+[2024-09-06 15:45:03] - AverageMovie105 sold 1088 x White Wool(Blocks.page6.items.261) for $7,996.79 with the sell screen.
+[2024-09-06 15:47:53] - AverageMovie105 sold 992 x White Wool(Blocks.page6.items.261) for $7,291.19 with the sell screen.
+[2024-09-06 15:49:00] - AverageMovie105 bought 64 x Oak Log(Blocks.page5.items.230) for $384 with the buy screen.
+[2024-09-06 15:51:31] - AverageMovie105 sold 1084 x White Wool(Blocks.page6.items.261) for $7,967.39 with the sell screen.
+[2024-09-06 15:53:55] - AverageMovie105 sold 1088 x White Wool(Blocks.page6.items.261) for $7,996.79 with the sell screen.
+[2024-09-06 15:58:02] - AverageMovie105 bought 33 x Tnt(Blocks.page1.items.11) for $7,034.28 with the buy screen.
+[2024-09-06 16:04:42] - kalakko sold 1272 x White Wool(Blocks.page6.items.261) for $9,349.19 with the sell all command.
+[2024-09-06 16:05:00] - AverageMovie105 sold 78 x Andesite(Blocks.page1.items.12) for $14.04 with the sell screen.
+[2024-09-06 16:05:09] - AverageMovie105 sold 267 x Cobbled Deepslate(Blocks.page2.items.94) for $45.39 with the sell screen.
+[2024-09-06 16:05:17] - AverageMovie105 sold 64 x Tuff(Blocks.page4.items.188) for $32 with the sell screen.
+[2024-09-06 16:05:22] - AverageMovie105 sold 96 x Stone(Blocks.page4.items.173) for $17.28 with the sell screen.
+[2024-09-06 16:05:23] - kalakko sold 456 x White Wool(Blocks.page6.items.261) for $3,351.60 with the sell all command.
+[2024-09-06 16:05:29] - AverageMovie105 sold 33 x Cobblestone(Blocks.page1.items.51) for $5.61 with the sell screen.
+[2024-09-06 16:05:37] - AverageMovie105 sold 57 x Gravel(Blocks.page3.items.111) for $114 with the sell screen.
+[2024-09-06 16:05:43] - AverageMovie105 sold 4 x Diorite(Blocks.page2.items.101) for $0.72 with the sell screen.
+[2024-09-06 16:05:47] - AverageMovie105 sold 12 x Deepslate(Blocks.page2.items.97) for $2.16 with the sell screen.
+[2024-09-06 16:06:37] - kalakko bought 4 x Enchanted Book(Enchanting.page1.items.40) for $3,528 with the buy screen.
+[2024-09-06 16:06:37] - kalakko bought 4 x Enchanted Book(Enchanting.page1.items.40) for $3,528 with the buy screen.
+[2024-09-06 16:06:38] - kalakko bought 4 x Enchanted Book(Enchanting.page1.items.40) for $3,528 with the buy screen.
+[2024-09-06 16:06:39] - kalakko bought 4 x Enchanted Book(Enchanting.page1.items.40) for $3,528 with the buy screen.
+[2024-09-06 16:06:50] - kalakko bought 64 x Experience Bottle(Miscellaneous.page1.items.11) for $13,816.32 with the buy screen.
+[2024-09-06 16:06:50] - kalakko bought 64 x Experience Bottle(Miscellaneous.page1.items.11) for $13,816.32 with the buy screen.
+[2024-09-06 16:06:50] - kalakko bought 64 x Experience Bottle(Miscellaneous.page1.items.11) for $13,816.32 with the buy screen.
+[2024-09-06 16:08:32] - kalakko bought 6 x Iron Block(Ores.page1.items.15) for $625.20 with the buy screen.
+[2024-09-06 16:09:55] - kalakko sold 754 x White Wool(Blocks.page6.items.261) for $5,541.89 with the sell all command.
+[2024-09-06 16:10:39] - AverageMovie105 sold 960 x White Wool(Blocks.page6.items.261) for $7,055.99 with the sell screen.
+[2024-09-06 16:10:58] - AverageMovie105 sold 960 x White Wool(Blocks.page6.items.261) for $7,055.99 with the sell screen.
+[2024-09-06 16:11:18] - AverageMovie105 sold 960 x White Wool(Blocks.page6.items.261) for $7,055.99 with the sell screen.
+[2024-09-06 16:11:36] - AverageMovie105 sold 960 x White Wool(Blocks.page6.items.261) for $7,055.99 with the sell screen.
+[2024-09-06 16:11:55] - AverageMovie105 sold 960 x White Wool(Blocks.page6.items.261) for $7,055.99 with the sell screen.
+[2024-09-06 16:12:15] - AverageMovie105 sold 960 x White Wool(Blocks.page6.items.261) for $7,055.99 with the sell screen.
+[2024-09-06 16:18:34] - kalakko sold 1088 x White Wool(Blocks.page6.items.261) for $7,996.79 with the sell all command.
+[2024-09-06 16:18:45] - kalakko sold 281 x White Wool(Blocks.page6.items.261) for $2,065.35 with the sell all command.
+[2024-09-06 16:20:16] - ANDREA1720 sold 132 x White Wool(Blocks.page6.items.261) for $970.19 with the sell all command.
+[2024-09-06 16:21:03] - kalakko bought 64 x Experience Bottle(Miscellaneous.page1.items.11) for $13,816.32 with the buy screen.
+[2024-09-06 16:21:19] - kalakko bought 27 x Experience Bottle(Miscellaneous.page1.items.11) for $5,828.76 with the buy screen.
+[2024-09-06 16:22:12] - ANDREA1720 bought 64 x Glass(Blocks.page3.items.119) for $806.40 with the buy screen.
+[2024-09-06 16:24:24] - kalakko sold 1252 x White Wool(Blocks.page6.items.261) for $9,202.19 with the sell all command.
+[2024-09-06 16:25:16] - kalakko bought 1 x Enchanted Book(Enchanting.page1.items.40) for $882 with the buy screen.
+[2024-09-06 16:25:30] - kalakko bought 39 x Experience Bottle(Miscellaneous.page1.items.11) for $8,419.32 with the buy screen.
+[2024-09-06 16:27:19] - ANDREA1720 sold 658 x White Wool(Blocks.page6.items.261) for $4,836.30 with the sell all command.
+[2024-09-06 16:27:25] - ANDREA1720 sold 14 x White Wool(Blocks.page6.items.261) for $102.89 with the sell all command.
+[2024-09-06 16:30:26] - ANDREA1720 sold 768 x White Wool(Blocks.page6.items.261) for $5,644.79 with the sell all command.
+[2024-09-06 16:31:26] - ANDREA1720 sold 352 x White Wool(Blocks.page6.items.261) for $2,587.20 with the sell all command.
+[2024-09-06 16:31:45] - ANDREA1720 sold 1338 x White Wool(Blocks.page6.items.261) for $9,834.29 with the sell all command.
+[2024-09-06 16:31:58] - ANDREA1720 sold 1344 x White Wool(Blocks.page6.items.261) for $9,878.39 with the sell all command.
+[2024-09-06 16:32:00] - AverageMovie105 sold 1216 x White Wool(Blocks.page6.items.261) for $8,937.59 with the sell screen.
+[2024-09-06 16:32:11] - ANDREA1720 sold 1181 x White Wool(Blocks.page6.items.261) for $8,680.34 with the sell all command.
+[2024-09-06 16:32:15] - ANDREA1720 sold 319 x White Wool(Blocks.page6.items.261) for $2,344.65 with the sell all command.
+[2024-09-06 16:32:26] - ANDREA1720 sold 1280 x White Wool(Blocks.page6.items.261) for $9,407.99 with the sell all command.
+[2024-09-06 16:32:35] - AverageMovie105 sold 1216 x White Wool(Blocks.page6.items.261) for $8,937.59 with the sell screen.
+[2024-09-06 16:32:55] - AverageMovie105 sold 1216 x White Wool(Blocks.page6.items.261) for $8,937.59 with the sell screen.
+[2024-09-06 16:33:52] - AverageMovie105 sold 1216 x White Wool(Blocks.page6.items.261) for $8,937.59 with the sell screen.
+[2024-09-06 16:34:04] - AverageMovie105 sold 448 x White Wool(Blocks.page6.items.261) for $3,292.80 with the sell screen.
+[2024-09-06 16:34:17] - ANDREA1720 sold 449 x White Wool(Blocks.page6.items.261) for $3,300.15 with the sell all command.
+[2024-09-06 16:34:27] - AverageMovie105 sold 1216 x White Wool(Blocks.page6.items.261) for $8,937.59 with the sell screen.
+[2024-09-06 16:34:53] - AverageMovie105 sold 1216 x White Wool(Blocks.page6.items.261) for $8,937.59 with the sell screen.
+[2024-09-06 16:35:18] - kalakko sold 356 x White Wool(Blocks.page6.items.261) for $2,616.60 with the sell all command.
+[2024-09-06 16:35:40] - AverageMovie105 sold 1045 x White Wool(Blocks.page6.items.261) for $7,680.74 with the sell screen.
+[2024-09-06 16:35:53] - kalakko bought 64 x Dirt(Blocks.page3.items.109) for $384 with the buy screen.
+[2024-09-06 16:35:54] - kalakko bought 64 x Dirt(Blocks.page3.items.109) for $384 with the buy screen.
+[2024-09-06 16:38:11] - AverageMovie105 bought 64 x Spruce Planks(Blocks.page5.items.236) for $142.08 with the buy screen.
+[2024-09-06 16:38:20] - AverageMovie105 bought 1 x Lever(Redstone.page1.items.9) for $2.66 with the buy screen.
+[2024-09-06 16:38:24] - AverageMovie105 bought 2 x Tripwire Hook(Redstone.page1.items.17) for $15.12 with the buy screen.
+[2024-09-06 16:38:26] - ANDREA1720 bought 1 x Lever(Redstone.page1.items.9) for $2.66 with the buy screen.
+[2024-09-06 16:38:30] - AverageMovie105 bought 2 x Observer(Redstone.page1.items.12) for $81.28 with the buy screen.
+[2024-09-06 16:38:32] - AverageMovie105 bought 2 x Note Block(Redstone.page1.items.11) for $51.76 with the buy screen.
+[2024-09-06 16:38:36] - kalakko bought 64 x Dirt(Blocks.page3.items.109) for $384 with the buy screen.
+[2024-09-06 16:38:39] - AverageMovie105 bought 4 x Hopper(Redstone.page1.items.6) for $309.36 with the buy screen.
+[2024-09-06 16:38:43] - AverageMovie105 bought 4 x Crafter(Redstone.page1.items.2) for $402.08 with the buy screen.
+[2024-09-06 16:39:28] - AverageMovie105 bought 2 x Oak Trapdoor(Redstone.page1.items.33) for $13.92 with the buy screen.
+[2024-09-06 16:40:05] - ANDREA1720 bought 8 x Tripwire Hook(Redstone.page1.items.17) for $60.48 with the buy screen.
+[2024-09-06 16:40:24] - ANDREA1720 bought 64 x Bamboo Planks(Blocks.page1.items.22) for $64 with the buy screen.
+[2024-09-06 16:40:59] - ANDREA1720 bought 64 x String(Mobs.page1.items.20) for $896 with the buy screen.
+[2024-09-06 16:41:22] - ANDREA1720 bought 8 x Water Bucket(Miscellaneous.page1.items.41) for $293.44 with the buy screen.
+[2024-09-06 16:43:54] - ANDREA1720 bought 192 x Glass(Blocks.page3.items.119) for $2,419.20 with the buy stacks screen.
+[2024-09-06 16:44:15] - AverageMovie105 bought 8 x Tinted Glass(Blocks.page3.items.121) for $97.12 with the buy screen.
+[2024-09-06 16:44:37] - kalakko bought 63 x Spruce Log(Blocks.page5.items.235) for $378 with the buy screen.
+[2024-09-06 16:44:41] - kalakko bought 64 x Spruce Log(Blocks.page5.items.235) for $384 with the buy screen.
+[2024-09-06 16:45:42] - ANDREA1720 bought 33 x Cobblestone(Blocks.page1.items.51) for $44.88 with the buy screen.
+[2024-09-06 16:45:47] - ANDREA1720 bought 7 x Cobblestone(Blocks.page1.items.51) for $9.52 with the buy screen.
+[2024-09-06 16:45:49] - ANDREA1720 bought 7 x Cobblestone(Blocks.page1.items.51) for $9.52 with the buy screen.
+[2024-09-06 16:45:55] - ANDREA1720 bought 33 x Redstone Torch(Redstone.page1.items.14) for $283.14 with the buy screen.
+[2024-09-06 16:47:49] - AverageMovie105 bought 2 x String(Mobs.page1.items.20) for $28 with the buy screen.
+[2024-09-06 16:50:30] - AverageMovie105 sold 1216 x White Wool(Blocks.page6.items.261) for $8,937.59 with the sell screen.
+[2024-09-06 16:51:01] - AverageMovie105 sold 1088 x White Wool(Blocks.page6.items.261) for $7,996.79 with the sell screen.
+[2024-09-06 16:51:28] - AverageMovie105 sold 1216 x White Wool(Blocks.page6.items.261) for $8,937.59 with the sell screen.
+[2024-09-06 16:51:54] - AverageMovie105 sold 1152 x White Wool(Blocks.page6.items.261) for $8,467.19 with the sell screen.
+[2024-09-06 16:52:17] - AverageMovie105 sold 1216 x White Wool(Blocks.page6.items.261) for $8,937.59 with the sell screen.
+[2024-09-06 16:52:39] - AverageMovie105 sold 384 x White Wool(Blocks.page6.items.261) for $2,822.40 with the sell screen.
+[2024-09-06 16:53:33] - ANDREA1720 bought 64 x String(Mobs.page1.items.20) for $896 with the buy screen.
+[2024-09-06 16:53:58] - ANDREA1720 sold 640 x White Wool(Blocks.page6.items.261) for $4,704 with the sell all command.
+[2024-09-06 16:54:01] - ANDREA1720 sold 576 x White Wool(Blocks.page6.items.261) for $4,233.60 with the sell all command.
+[2024-09-06 16:54:14] - ANDREA1720 sold 832 x White Wool(Blocks.page6.items.261) for $6,115.19 with the sell all command.
+[2024-09-06 16:54:20] - ANDREA1720 sold 832 x White Wool(Blocks.page6.items.261) for $6,115.19 with the sell all command.
+[2024-09-06 16:54:24] - ANDREA1720 sold 714 x White Wool(Blocks.page6.items.261) for $5,247.90 with the sell all command.
+[2024-09-06 16:55:32] - kalakko sold 313 x White Wool(Blocks.page6.items.261) for $2,300.54 with the sell all command.
+[2024-09-06 16:56:08] - ANDREA1720 bought 64 x Cobblestone(Blocks.page1.items.51) for $87.04 with the buy screen.
+[2024-09-06 16:56:52] - ANDREA1720 bought 64 x Glass(Blocks.page3.items.119) for $806.40 with the buy screen.
+[2024-09-06 16:58:39] - kalakko bought 64 x Glass(Blocks.page3.items.119) for $806.40 with the buy screen.
+[2024-09-06 16:58:40] - kalakko bought 64 x Glass(Blocks.page3.items.119) for $806.40 with the buy screen.
+[2024-09-06 17:02:43] - ANDREA1720 bought 33 x String(Mobs.page1.items.20) for $462 with the buy screen.
+[2024-09-06 17:03:16] - kalakko bought 64 x Polished Andesite(Blocks.page1.items.15) for $96 with the buy screen.
+[2024-09-06 17:03:16] - kalakko bought 64 x Polished Andesite(Blocks.page1.items.15) for $96 with the buy screen.
+[2024-09-06 17:03:45] - AverageMovie105 sold 1024 x White Wool(Blocks.page6.items.261) for $7,526.39 with the sell screen.
+[2024-09-06 17:04:10] - AverageMovie105 sold 1088 x White Wool(Blocks.page6.items.261) for $7,996.79 with the sell screen.
+[2024-09-06 17:04:18] - ANDREA1720 sold 512 x White Wool(Blocks.page6.items.261) for $3,763.20 with the sell all command.
+[2024-09-06 17:04:47] - AverageMovie105 sold 1152 x White Wool(Blocks.page6.items.261) for $8,467.19 with the sell screen.
+[2024-09-06 17:05:10] - AverageMovie105 sold 1152 x White Wool(Blocks.page6.items.261) for $8,467.19 with the sell screen.
+[2024-09-06 17:05:35] - ANDREA1720 sold 1792 x White Wool(Blocks.page6.items.261) for $13,171.19 with the sell all command.
+[2024-09-06 17:05:38] - ANDREA1720 sold 367 x White Wool(Blocks.page6.items.261) for $2,697.45 with the sell all command.
+[2024-09-06 17:05:39] - AverageMovie105 sold 1152 x White Wool(Blocks.page6.items.261) for $8,467.19 with the sell screen.
+[2024-09-06 17:05:53] - ANDREA1720 sold 1792 x White Wool(Blocks.page6.items.261) for $13,171.19 with the sell all command.
+[2024-09-06 17:06:02] - AverageMovie105 sold 1152 x White Wool(Blocks.page6.items.261) for $8,467.19 with the sell screen.
+[2024-09-06 17:06:06] - ANDREA1720 sold 1792 x White Wool(Blocks.page6.items.261) for $13,171.19 with the sell all command.
+[2024-09-06 17:06:14] - ANDREA1720 sold 1249 x White Wool(Blocks.page6.items.261) for $9,180.14 with the sell all command.
+[2024-09-06 17:06:28] - ANDREA1720 sold 1792 x White Wool(Blocks.page6.items.261) for $13,171.19 with the sell all command.
+[2024-09-06 17:06:33] - ANDREA1720 sold 398 x White Wool(Blocks.page6.items.261) for $2,925.30 with the sell all command.
+[2024-09-06 17:06:45] - ANDREA1720 sold 1792 x White Wool(Blocks.page6.items.261) for $13,171.19 with the sell all command.
+[2024-09-06 17:06:51] - ANDREA1720 sold 1338 x White Wool(Blocks.page6.items.261) for $9,834.29 with the sell all command.
+[2024-09-06 17:07:45] - ANDREA1720 bought 6 x Splash Potion(Potions.page2.items.74) for $753.84 with the buy screen.
+[2024-09-06 17:08:29] - ANDREA1720 bought 512 x Gold Ingot(Ores.page1.items.14) for $8,468.48 with the buy stacks screen.
+[2024-09-06 17:08:39] - ANDREA1720 bought 64 x Apple(Food.page1.items.1) for $1,280 with the buy stacks screen.
+[2024-09-06 17:09:11] - ANDREA1720 bought 1 x Totem Of Undying(Miscellaneous.page1.items.36) for $200 with the buy screen.
+[2024-09-06 17:10:41] - AverageMovie105 bought 3 x Totem Of Undying(Miscellaneous.page1.items.36) for $600 with the buy screen.
+[2024-09-06 17:13:10] - ANDREA1720 bought 192 x Experience Bottle(Miscellaneous.page1.items.11) for $41,448.96 with the buy stacks screen.
+[2024-09-06 17:13:10] - ANDREA1720 bought 192 x Experience Bottle(Miscellaneous.page1.items.11) for $41,448.96 with the buy stacks screen.
+[2024-09-06 17:13:10] - ANDREA1720 bought 192 x Experience Bottle(Miscellaneous.page1.items.11) for $41,448.96 with the buy stacks screen.
+[2024-09-06 17:13:11] - ANDREA1720 bought 192 x Experience Bottle(Miscellaneous.page1.items.11) for $41,448.96 with the buy stacks screen.
+[2024-09-06 17:18:01] - ANDREA1720 sold 1472 x White Wool(Blocks.page6.items.261) for $10,819.19 with the sell all command.
+[2024-09-06 17:18:10] - ANDREA1720 sold 1472 x White Wool(Blocks.page6.items.261) for $10,819.19 with the sell all command.
+[2024-09-06 17:18:22] - ANDREA1720 sold 1471 x White Wool(Blocks.page6.items.261) for $10,811.84 with the sell all command.
+[2024-09-06 17:18:33] - ANDREA1720 sold 1375 x White Wool(Blocks.page6.items.261) for $10,106.24 with the sell all command.

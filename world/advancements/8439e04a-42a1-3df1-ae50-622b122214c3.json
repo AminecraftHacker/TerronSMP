@@ -20,28 +20,31 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2024-09-03 17:29:22 +0000",
-      "minecraft:flower_forest": "2024-08-31 09:21:13 +0000",
-      "minecraft:beach": "2024-08-30 17:54:34 +0000",
-      "minecraft:dark_forest": "2024-08-31 09:49:00 +0000",
       "minecraft:forest": "2024-08-30 15:23:39 +0000",
       "minecraft:taiga": "2024-09-03 11:06:03 +0000",
-      "minecraft:mangrove_swamp": "2024-08-30 17:12:34 +0000",
-      "minecraft:sparse_jungle": "2024-08-30 15:27:05 +0000",
-      "minecraft:river": "2024-08-30 15:46:28 +0000",
-      "minecraft:snowy_plains": "2024-08-31 16:49:41 +0000",
       "minecraft:lush_caves": "2024-08-30 16:17:19 +0000",
-      "minecraft:dripstone_caves": "2024-08-30 16:36:13 +0000",
-      "minecraft:snowy_taiga": "2024-08-31 16:45:32 +0000",
-      "minecraft:old_growth_birch_forest": "2024-08-30 15:25:27 +0000",
       "minecraft:frozen_ocean": "2024-08-31 16:41:51 +0000",
       "minecraft:frozen_river": "2024-08-31 16:45:19 +0000",
       "minecraft:windswept_forest": "2024-08-31 14:41:29 +0000",
       "minecraft:jungle": "2024-09-03 16:35:55 +0000",
       "minecraft:birch_forest": "2024-08-31 09:48:00 +0000",
       "minecraft:snowy_beach": "2024-08-31 16:45:10 +0000",
-      "minecraft:savanna": "2024-08-30 17:42:46 +0000",
       "minecraft:bamboo_jungle": "2024-08-30 15:53:15 +0000",
       "minecraft:windswept_savanna": "2024-08-30 17:14:01 +0000",
+      "minecraft:flower_forest": "2024-08-31 09:21:13 +0000",
+      "minecraft:beach": "2024-08-30 17:54:34 +0000",
+      "minecraft:dark_forest": "2024-08-31 09:49:00 +0000",
+      "minecraft:mangrove_swamp": "2024-08-30 17:12:34 +0000",
+      "minecraft:sparse_jungle": "2024-08-30 15:27:05 +0000",
+      "minecraft:river": "2024-08-30 15:46:28 +0000",
+      "minecraft:snowy_plains": "2024-08-31 16:49:41 +0000",
+      "minecraft:stony_shore": "2024-09-06 15:24:57 +0000",
+      "minecraft:dripstone_caves": "2024-08-30 16:36:13 +0000",
+      "minecraft:snowy_taiga": "2024-08-31 16:45:32 +0000",
+      "minecraft:old_growth_birch_forest": "2024-08-30 15:25:27 +0000",
+      "minecraft:grove": "2024-09-06 15:24:21 +0000",
+      "minecraft:meadow": "2024-09-06 15:26:37 +0000",
+      "minecraft:savanna": "2024-08-30 17:42:46 +0000",
       "minecraft:plains": "2024-08-30 17:09:13 +0000"
     },
     "done": false
@@ -166,6 +169,7 @@
       "mutton": "2024-09-01 15:43:52 +0000",
       "apple": "2024-08-30 17:48:42 +0000",
       "bread": "2024-08-30 17:17:58 +0000",
+      "golden_apple": "2024-09-06 15:57:35 +0000",
       "rotten_flesh": "2024-09-01 15:43:16 +0000",
       "salmon": "2024-08-31 16:47:51 +0000",
       "cooked_beef": "2024-08-30 15:30:02 +0000",
@@ -354,7 +358,8 @@
       "minecraft:piglin_brute": "2024-09-03 10:21:04 +0000",
       "minecraft:zombie": "2024-08-30 15:33:29 +0000",
       "minecraft:creeper": "2024-08-30 16:17:02 +0000",
-      "minecraft:drowned": "2024-09-01 10:59:07 +0000"
+      "minecraft:drowned": "2024-09-01 10:59:07 +0000",
+      "minecraft:zombie_villager": "2024-09-06 15:14:45 +0000"
     },
     "done": false
   },
@@ -3351,6 +3356,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2024-09-05 15:35:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2024-09-05 15:35:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2024-09-05 15:48:20 +0000"
@@ -3360,12 +3377,6 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-09-05 15:48:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2024-09-05 15:49:31 +0000"
     },
     "done": true
   },
@@ -3381,30 +3392,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/andesite_stairs": {
-    "criteria": {
-      "has_andesite": "2024-09-05 15:49:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2024-09-05 15:49:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/snow": {
-    "criteria": {
-      "has_snowball": "2024-09-05 15:35:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/walk_on_powder_snow_with_leather_boots": {
-    "criteria": {
-      "walk_on_powder_snow_with_leather_boots": "2024-09-05 15:52:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-09-05 15:48:20 +0000"
@@ -3417,18 +3404,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_andesite": {
-    "criteria": {
-      "has_andesite": "2024-09-05 15:49:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2024-09-05 15:49:31 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2024-09-05 15:48:20 +0000"
@@ -3438,12 +3413,6 @@
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-09-05 15:48:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2024-09-05 15:49:31 +0000"
     },
     "done": true
   },
@@ -3462,6 +3431,54 @@
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2024-09-05 15:48:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-09-05 15:48:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2024-09-05 15:48:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-09-05 15:49:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2024-09-05 15:49:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-09-05 15:49:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2024-09-05 15:49:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-09-05 15:49:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-09-05 15:49:31 +0000"
     },
     "done": true
   },
@@ -3489,21 +3506,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/snow_block": {
+  "minecraft:adventure/walk_on_powder_snow_with_leather_boots": {
     "criteria": {
-      "has_snowball": "2024-09-05 15:35:31 +0000"
+      "walk_on_powder_snow_with_leather_boots": "2024-09-05 15:52:12 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
     "criteria": {
-      "has_stone": "2024-09-05 15:48:20 +0000"
+      "has_polished_andesite": "2024-09-06 17:03:16 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_stairs": {
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
     "criteria": {
-      "has_stone": "2024-09-05 15:48:20 +0000"
+      "has_polished_andesite": "2024-09-06 17:03:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2024-09-06 17:03:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2024-09-06 17:03:16 +0000"
     },
     "done": true
   },

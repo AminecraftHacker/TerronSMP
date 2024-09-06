@@ -19,13 +19,21 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2024-09-06 13:58:44 +0000",
       "minecraft:snowy_slopes": "2024-09-05 15:50:35 +0000",
+      "minecraft:old_growth_pine_taiga": "2024-09-06 13:58:57 +0000",
       "minecraft:forest": "2024-08-30 15:19:15 +0000",
       "minecraft:taiga": "2024-09-03 10:56:49 +0000",
       "minecraft:lush_caves": "2024-08-31 09:48:02 +0000",
+      "minecraft:deep_cold_ocean": "2024-09-06 13:59:00 +0000",
+      "minecraft:ice_spikes": "2024-09-06 14:52:53 +0000",
+      "minecraft:frozen_ocean": "2024-09-06 14:05:03 +0000",
       "minecraft:frozen_river": "2024-08-31 15:57:30 +0000",
+      "minecraft:deep_frozen_ocean": "2024-09-06 14:02:40 +0000",
       "minecraft:jungle": "2024-08-30 18:03:19 +0000",
+      "minecraft:ocean": "2024-09-06 13:50:30 +0000",
       "minecraft:sunflower_plains": "2024-08-31 09:21:22 +0000",
+      "minecraft:cherry_grove": "2024-09-06 13:36:52 +0000",
       "minecraft:birch_forest": "2024-08-30 17:36:44 +0000",
       "minecraft:windswept_hills": "2024-08-31 09:09:26 +0000",
       "minecraft:snowy_beach": "2024-09-03 17:06:38 +0000",
@@ -45,8 +53,11 @@
       "minecraft:snowy_taiga": "2024-09-03 14:56:46 +0000",
       "minecraft:frozen_peaks": "2024-09-05 15:51:59 +0000",
       "minecraft:old_growth_birch_forest": "2024-08-30 15:19:58 +0000",
+      "minecraft:grove": "2024-09-06 13:36:36 +0000",
+      "minecraft:meadow": "2024-09-06 13:36:29 +0000",
       "minecraft:savanna": "2024-08-30 16:07:24 +0000",
-      "minecraft:plains": "2024-08-30 16:21:31 +0000"
+      "minecraft:plains": "2024-08-30 16:21:31 +0000",
+      "minecraft:jagged_peaks": "2024-09-06 13:36:35 +0000"
     },
     "done": false
   },
@@ -62,6 +73,7 @@
       "apple": "2024-09-01 16:32:33 +0000",
       "chicken": "2024-08-30 16:34:52 +0000",
       "bread": "2024-08-30 16:53:07 +0000",
+      "golden_apple": "2024-09-06 17:11:08 +0000",
       "rotten_flesh": "2024-09-02 13:02:43 +0000",
       "cooked_beef": "2024-08-30 15:24:07 +0000",
       "beef": "2024-08-30 16:39:05 +0000",
@@ -399,6 +411,7 @@
       "minecraft:pillager": "2024-08-30 17:51:20 +0000",
       "minecraft:blaze": "2024-09-05 14:45:30 +0000",
       "minecraft:skeleton": "2024-08-30 16:03:07 +0000",
+      "minecraft:phantom": "2024-09-06 14:48:23 +0000",
       "minecraft:witch": "2024-09-01 13:37:59 +0000",
       "minecraft:ghast": "2024-09-03 17:36:34 +0000",
       "minecraft:piglin": "2024-09-03 17:43:56 +0000",
@@ -3014,45 +3027,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
-    "criteria": {
-      "has_nether_bricks": "2024-09-05 14:45:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/snow": {
-    "criteria": {
-      "has_snowball": "2024-09-05 15:50:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_nether_bricks": "2024-09-05 14:45:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_blaze_rod": {
-    "criteria": {
-      "blaze_rod": "2024-09-05 14:46:58 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_bricks": "2024-09-05 14:45:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_brick_slab": {
-    "criteria": {
-      "has_nether_bricks": "2024-09-05 14:45:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/elytra": {
-    "criteria": {
-      "elytra": "2024-09-05 15:36:42 +0000"
     },
     "done": true
   },
@@ -3062,15 +3039,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/blaze_powder": {
-    "criteria": {
-      "has_blaze_rod": "2024-09-05 14:46:58 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-09-05 14:45:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2024-09-05 14:45:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-09-05 14:45:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2024-09-05 14:45:45 +0000"
     },
     "done": true
   },
@@ -3086,21 +3075,171 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/brewing_stand": {
-    "criteria": {
-      "has_blaze_rod": "2024-09-05 14:46:58 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_bricks": "2024-09-05 14:45:45 +0000"
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-09-05 14:46:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2024-09-05 14:46:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2024-09-05 14:46:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2024-09-05 15:36:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2024-09-05 15:50:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2024-09-05 15:50:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-09-06 13:46:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-09-06 13:46:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-09-06 13:46:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-09-06 13:46:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-09-06 13:46:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-09-06 13:46:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2024-09-06 13:52:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2024-09-06 13:54:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2024-09-06 13:54:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-09-06 13:54:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-09-06 13:54:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2024-09-06 13:54:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-09-06 13:54:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2024-09-06 13:54:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-09-06 13:54:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2024-09-06 13:54:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2024-09-06 13:54:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2024-09-06 13:54:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2024-09-06 13:54:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2024-09-06 15:02:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-09-06 15:02:40 +0000"
     },
     "done": true
   },
